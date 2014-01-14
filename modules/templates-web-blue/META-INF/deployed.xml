@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Web Templates Blue</name>
+  <depends>default,grid,calendar,event,facets,news,search,sitemap,skins,default-skins,profile</depends>
+  <rootFolder>templates-web-blue</rootFolder>
+  <version>1.3</version>
+  <build-timestamp>2012-10-10T07:43:24.000+11:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:14.824+11:00</deployment-timestamp>
+  <package name="templates-web-blue-1.3.war" path="WEB-INF\var\shared_modules\templates-web-blue-1.3.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\templates-web-blue\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\templates-web-blue\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\templates-web-blue\META-INF\MANIFEST.MF" />
+    <file source="META-INF\import.zip" destination="modules\templates-web-blue\META-INF\import.zip" />
+    <file source="META-INF\spring\" destination="modules\templates-web-blue\META-INF\spring" />
+    <file source="META-INF\spring\mod-templates-web-blue.xml" destination="modules\templates-web-blue\META-INF\spring\mod-templates-web-blue.xml" />
+    <file source="WEB-INF\" destination="modules\templates-web-blue\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\templates-web-blue\WEB-INF\classes" />
+    <file source="css\" destination="modules\templates-web-blue\css" />
+    <file source="css\01web.css" destination="modules\templates-web-blue\css\01web.css" />
+    <file source="css\02mod.css" destination="modules\templates-web-blue\css\02mod.css" />
+    <file source="css\edit.css" destination="modules\templates-web-blue\css\edit.css" />
+    <file source="css\ie6.css" destination="modules\templates-web-blue\css\ie6.css" />
+    <file source="css\img\" destination="modules\templates-web-blue\css\img" />
+    <file source="css\img\1px-white.png" destination="modules\templates-web-blue\css\img\1px-white.png" />
+    <file source="css\img\arrow-down.png" destination="modules\templates-web-blue\css\img\arrow-down.png" />
+    <file source="css\img\arrow.png" destination="modules\templates-web-blue\css\img\arrow.png" />
+    <file source="css\img\bg-button-on.png" destination="modules\templates-web-blue\css\img\bg-button-on.png" />
+    <file source="css\img\bg-button.png" destination="modules\templates-web-blue\css\img\bg-button.png" />
+    <file source="css\img\bg-navigationN2-on.png" destination="modules\templates-web-blue\css\img\bg-navigationN2-on.png" />
+    <file source="css\img\bg-navigationN2-selected.png" destination="modules\templates-web-blue\css\img\bg-navigationN2-selected.png" />
+    <file source="css\img\bg-navigationN2.png" destination="modules\templates-web-blue\css\img\bg-navigationN2.png" />
+    <file source="css\img\blockquote.png" destination="modules\templates-web-blue\css\img\blockquote.png" />
+    <file source="css\img\body-bg.png" destination="modules\templates-web-blue\css\img\body-bg.png" />
+    <file source="css\img\breadcrumb-separator.png" destination="modules\templates-web-blue\css\img\breadcrumb-separator.png" />
+    <file source="css\img\button-left.png" destination="modules\templates-web-blue\css\img\button-left.png" />
+    <file source="css\img\button-right.png" destination="modules\templates-web-blue\css\img\button-right.png" />
+    <file source="css\img\contactformlegend.png" destination="modules\templates-web-blue\css\img\contactformlegend.png" />
+    <file source="css\img\error-messages.png" destination="modules\templates-web-blue\css\img\error-messages.png" />
+    <file source="css\img\footer-bg.png" destination="modules\templates-web-blue\css\img\footer-bg.png" />
+    <file source="css\img\header-bg.png" destination="modules\templates-web-blue\css\img\header-bg.png" />
+    <file source="css\img\headerBottom-bg.png" destination="modules\templates-web-blue\css\img\headerBottom-bg.png" />
+    <file source="css\img\hr-bg.png" destination="modules\templates-web-blue\css\img\hr-bg.png" />
+    <file source="css\img\icon-home-over.png" destination="modules\templates-web-blue\css\img\icon-home-over.png" />
+    <file source="css\img\icon-home.png" destination="modules\templates-web-blue\css\img\icon-home.png" />
+    <file source="css\img\icon-open-source.png" destination="modules\templates-web-blue\css\img\icon-open-source.png" />
+    <file source="css\img\icon-page.png" destination="modules\templates-web-blue\css\img\icon-page.png" />
+    <file source="css\img\icon-rss.png" destination="modules\templates-web-blue\css\img\icon-rss.png" />
+    <file source="css\img\illustration-1.png" destination="modules\templates-web-blue\css\img\illustration-1.png" />
+    <file source="css\img\illustration-2.png" destination="modules\templates-web-blue\css\img\illustration-2.png" />
+    <file source="css\img\illustration-3.png" destination="modules\templates-web-blue\css\img\illustration-3.png" />
+    <file source="css\img\illustration-bg.png" destination="modules\templates-web-blue\css\img\illustration-bg.png" />
+    <file source="css\img\illustration-download.png" destination="modules\templates-web-blue\css\img\illustration-download.png" />
+    <file source="css\img\illustration-online-demo.png" destination="modules\templates-web-blue\css\img\illustration-online-demo.png" />
+    <file source="css\img\input_bg.png" destination="modules\templates-web-blue\css\img\input_bg.png" />
+    <file source="css\img\logo-top.png" destination="modules\templates-web-blue\css\img\logo-top.png" />
+    <file source="css\img\more.png" destination="modules\templates-web-blue\css\img\more.png" />
+    <file source="css\img\nav-bg.png" destination="modules\templates-web-blue\css\img\nav-bg.png" />
+    <file source="css\img\navbar-bg.png" destination="modules\templates-web-blue\css\img\navbar-bg.png" />
+    <file source="css\img\navigationN1-bg.png" destination="modules\templates-web-blue\css\img\navigationN1-bg.png" />
+    <file source="css\img\returnlink.png" destination="modules\templates-web-blue\css\img\returnlink.png" />
+    <file source="css\img\sort-arrow-down.png" destination="modules\templates-web-blue\css\img\sort-arrow-down.png" />
+    <file source="css\img\sort-arrow-up.png" destination="modules\templates-web-blue\css\img\sort-arrow-up.png" />
+    <file source="css\img\tab-bg.png" destination="modules\templates-web-blue\css\img\tab-bg.png" />
+    <file source="css\img\tab-left.png" destination="modules\templates-web-blue\css\img\tab-left.png" />
+    <file source="css\img\tab-right.png" destination="modules\templates-web-blue\css\img\tab-right.png" />
+    <file source="css\img\video.png" destination="modules\templates-web-blue\css\img\video.png" />
+    <file source="css\mobile-01web.css" destination="modules\templates-web-blue\css\mobile-01web.css" />
+    <file source="css\mobile-navigationN1.css" destination="modules\templates-web-blue\css\mobile-navigationN1.css" />
+    <file source="css\navigationN1.css" destination="modules\templates-web-blue\css\navigationN1.css" />
+    <file source="css\navigationN2-2.css" destination="modules\templates-web-blue\css\navigationN2-2.css" />
+    <file source="css\print.css" destination="modules\templates-web-blue\css\print.css" />
+    <file source="css\templates-web-blue.css" destination="modules\templates-web-blue\css\templates-web-blue.css" />
+    <file source="css\templates-web-blue.min.css" destination="modules\templates-web-blue\css\templates-web-blue.min.css" />
+    <file source="jnt_template\" destination="modules\templates-web-blue\jnt_template" />
+    <file source="jnt_template\html-iphone\" destination="modules\templates-web-blue\jnt_template\html-iphone" />
+    <file source="jnt_template\html-iphone\template.templates-web-blue.jsp" destination="modules\templates-web-blue\jnt_template\html-iphone\template.templates-web-blue.jsp" />
+    <file source="jnt_template\html\" destination="modules\templates-web-blue\jnt_template\html" />
+    <file source="jnt_template\html\template.templates-web-blue.jsp" destination="modules\templates-web-blue\jnt_template\html\template.templates-web-blue.jsp" />
+  </deployed>
+</module>
+

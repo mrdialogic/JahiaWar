@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Content retrieval</name>
+  <depends>Default Jahia Templates</depends>
+  <rootFolder>contentRetrieval</rootFolder>
+  <version>6.6.2.0</version>
+  <build-timestamp>2013-08-27T19:35:56.000+10:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:02.293+11:00</deployment-timestamp>
+  <package name="contentRetrieval-6.6.2.0.war" path="WEB-INF\var\shared_modules\contentRetrieval-6.6.2.0.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\contentRetrieval\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\contentRetrieval\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\contentRetrieval\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\contentRetrieval\META-INF\definitions.cnd" />
+    <file source="WEB-INF\" destination="modules\contentRetrieval\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\contentRetrieval\WEB-INF\classes" />
+    <file source="icons\" destination="modules\contentRetrieval\icons" />
+    <file source="icons\jnt_contentRetrieval.png" destination="modules\contentRetrieval\icons\jnt_contentRetrieval.png" />
+    <file source="icons\jnt_contentRetrieval_large.png" destination="modules\contentRetrieval\icons\jnt_contentRetrieval_large.png" />
+    <file source="jnt_contentRetrieval\" destination="modules\contentRetrieval\jnt_contentRetrieval" />
+    <file source="jnt_contentRetrieval\html\" destination="modules\contentRetrieval\jnt_contentRetrieval\html" />
+    <file source="jnt_contentRetrieval\html\contentRetrieval.hidden.load.jsp" destination="modules\contentRetrieval\jnt_contentRetrieval\html\contentRetrieval.hidden.load.jsp" />
+    <file source="jnt_contentRetrieval\html\contentRetrieval.properties" destination="modules\contentRetrieval\jnt_contentRetrieval\html\contentRetrieval.properties" />
+    <file source="resources\" destination="modules\contentRetrieval\resources" />
+    <file source="resources\JahiaContentretrieval.properties" destination="modules\contentRetrieval\resources\JahiaContentretrieval.properties" />
+    <file source="resources\JahiaContentretrieval_en.properties" destination="modules\contentRetrieval\resources\JahiaContentretrieval_en.properties" />
+    <file source="resources\JahiaContentretrieval_fr.properties" destination="modules\contentRetrieval\resources\JahiaContentretrieval_fr.properties" />
+  </deployed>
+</module>
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Tags</name>
+  <depends>Default Jahia Templates</depends>
+  <rootFolder>tags</rootFolder>
+  <version>6.6.2.0</version>
+  <build-timestamp>2013-08-27T19:36:24.000+10:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:13.927+11:00</deployment-timestamp>
+  <package name="tags-6.6.2.0.war" path="WEB-INF\var\shared_modules\tags-6.6.2.0.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\tags\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\tags\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\tags\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\tags\META-INF\definitions.cnd" />
+    <file source="META-INF\import.zip" destination="modules\tags\META-INF\import.zip" />
+    <file source="META-INF\spring\" destination="modules\tags\META-INF\spring" />
+    <file source="META-INF\spring\tags.xml" destination="modules\tags\META-INF\spring\tags.xml" />
+    <file source="WEB-INF\" destination="modules\tags\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\tags\WEB-INF\classes" />
+    <file source="WEB-INF\lib\" destination="modules\tags\WEB-INF\lib" />
+    <file source="WEB-INF\lib\tags-6.6.2.0.jar" destination="WEB-INF\lib\tags-6.6.2.0.jar" />
+    <file source="css\" destination="modules\tags\css" />
+    <file source="css\img\" destination="modules\tags\css\img" />
+    <file source="css\img\delete.png" destination="modules\tags\css\img\delete.png" />
+    <file source="css\img\page-tag.gif" destination="modules\tags\css\img\page-tag.gif" />
+    <file source="css\jqcloud.css" destination="modules\tags\css\jqcloud.css" />
+    <file source="css\pagetagging.css" destination="modules\tags\css\pagetagging.css" />
+    <file source="css\tagged.css" destination="modules\tags\css\tagged.css" />
+    <file source="css\tags.css" destination="modules\tags\css\tags.css" />
+    <file source="icons\" destination="modules\tags\icons" />
+    <file source="icons\jmix_tagsContent.png" destination="modules\tags\icons\jmix_tagsContent.png" />
+    <file source="icons\jmix_tagsContent_large.png" destination="modules\tags\icons\jmix_tagsContent_large.png" />
+    <file source="icons\jnt_displayTags.png" destination="modules\tags\icons\jnt_displayTags.png" />
+    <file source="icons\jnt_displayTags_large.png" destination="modules\tags\icons\jnt_displayTags_large.png" />
+    <file source="icons\jnt_relatedTagging.png" destination="modules\tags\icons\jnt_relatedTagging.png" />
+    <file source="icons\jnt_relatedTagging_large.png" destination="modules\tags\icons\jnt_relatedTagging_large.png" />
+    <file source="icons\jnt_tagCloud.png" destination="modules\tags\icons\jnt_tagCloud.png" />
+    <file source="icons\jnt_tagCloud_large.png" destination="modules\tags\icons\jnt_tagCloud_large.png" />
+    <file source="icons\jnt_tagging-.png" destination="modules\tags\icons\jnt_tagging-.png" />
+    <file source="icons\jnt_tagging.png" destination="modules\tags\icons\jnt_tagging.png" />
+    <file source="jnt_displayTags\" destination="modules\tags\jnt_displayTags" />
+    <file source="jnt_displayTags\html\" destination="modules\tags\jnt_displayTags\html" />
+    <file source="jnt_displayTags\html\displayTags.jsp" destination="modules\tags\jnt_displayTags\html\displayTags.jsp" />
+    <file source="jnt_relatedTagging\" destination="modules\tags\jnt_relatedTagging" />
+    <file source="jnt_relatedTagging\html\" destination="modules\tags\jnt_relatedTagging\html" />
+    <file source="jnt_relatedTagging\html\relatedTagging.hidden.load.jsp" destination="modules\tags\jnt_relatedTagging\html\relatedTagging.hidden.load.jsp" />
+    <file source="jnt_tagCloud\" destination="modules\tags\jnt_tagCloud" />
+    <file source="jnt_tagCloud\html\" destination="modules\tags\jnt_tagCloud\html" />
+    <file source="jnt_tagCloud\html\tagCloud.jsp" destination="modules\tags\jnt_tagCloud\html\tagCloud.jsp" />
+    <file source="jnt_tagCloud\html\tagCloud.properties" destination="modules\tags\jnt_tagCloud\html\tagCloud.properties" />
+    <file source="jnt_tagging\" destination="modules\tags\jnt_tagging" />
+    <file source="jnt_tagging\html\" destination="modules\tags\jnt_tagging\html" />
+    <file source="jnt_tagging\html\tagging.jsp" destination="modules\tags\jnt_tagging\html\tagging.jsp" />
+    <file source="resources\" destination="modules\tags\resources" />
+    <file source="resources\JahiaTags.properties" destination="modules\tags\resources\JahiaTags.properties" />
+    <file source="resources\JahiaTags_de.properties" destination="modules\tags\resources\JahiaTags_de.properties" />
+    <file source="resources\JahiaTags_en.properties" destination="modules\tags\resources\JahiaTags_en.properties" />
+    <file source="resources\JahiaTags_fr.properties" destination="modules\tags\resources\JahiaTags_fr.properties" />
+  </deployed>
+</module>
+

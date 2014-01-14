@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Teasers</name>
+  <depends>Jahia Static Assets</depends>
+  <rootFolder>teasers</rootFolder>
+  <version>1.2</version>
+  <build-timestamp>2012-01-31T01:31:38.000+11:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:14.262+11:00</deployment-timestamp>
+  <package name="teasers-1.2.war" path="WEB-INF\var\shared_modules\teasers-1.2.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\teasers\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\teasers\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\teasers\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\teasers\META-INF\definitions.cnd" />
+    <file source="WEB-INF\" destination="modules\teasers\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\teasers\WEB-INF\classes" />
+    <file source="css\" destination="modules\teasers\css" />
+    <file source="css\img\" destination="modules\teasers\css\img" />
+    <file source="css\img\box2-topleft.png" destination="modules\teasers\css\img\box2-topleft.png" />
+    <file source="css\img\box2teaser-bottomleft.png" destination="modules\teasers\css\img\box2teaser-bottomleft.png" />
+    <file source="css\img\box2teaser-bottomright.png" destination="modules\teasers\css\img\box2teaser-bottomright.png" />
+    <file source="css\img\box2teaser-header.png" destination="modules\teasers\css\img\box2teaser-header.png" />
+    <file source="css\img\box2teaser-more.png" destination="modules\teasers\css\img\box2teaser-more.png" />
+    <file source="css\img\box2teaser-style1-header.png" destination="modules\teasers\css\img\box2teaser-style1-header.png" />
+    <file source="css\img\box2teaser-topright.png" destination="modules\teasers\css\img\box2teaser-topright.png" />
+    <file source="css\img\boxteaser-bg.png" destination="modules\teasers\css\img\boxteaser-bg.png" />
+    <file source="css\teaser.css" destination="modules\teasers\css\teaser.css" />
+    <file source="icons\" destination="modules\teasers\icons" />
+    <file source="icons\jnt_teaser.png" destination="modules\teasers\icons\jnt_teaser.png" />
+    <file source="icons\jnt_teaser_large.png" destination="modules\teasers\icons\jnt_teaser_large.png" />
+    <file source="jnt_teaser\" destination="modules\teasers\jnt_teaser" />
+    <file source="jnt_teaser\html\" destination="modules\teasers\jnt_teaser\html" />
+    <file source="jnt_teaser\html\teaser.ImageWithTextAbove.jsp" destination="modules\teasers\jnt_teaser\html\teaser.ImageWithTextAbove.jsp" />
+    <file source="jnt_teaser\html\teaser.jsp" destination="modules\teasers\jnt_teaser\html\teaser.jsp" />
+    <file source="jnt_teaser\html\teaser.large.jsp" destination="modules\teasers\jnt_teaser\html\teaser.large.jsp" />
+    <file source="resources\" destination="modules\teasers\resources" />
+    <file source="resources\JahiaTeasers.properties" destination="modules\teasers\resources\JahiaTeasers.properties" />
+    <file source="resources\JahiaTeasers_en.properties" destination="modules\teasers\resources\JahiaTeasers_en.properties" />
+    <file source="resources\JahiaTeasers_fr.properties" destination="modules\teasers\resources\JahiaTeasers_fr.properties" />
+  </deployed>
+</module>
+

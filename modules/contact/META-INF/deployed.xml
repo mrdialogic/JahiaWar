@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Contact</name>
+  <rootFolder>contact</rootFolder>
+  <version>1.2</version>
+  <build-timestamp>2012-01-31T01:30:54.000+11:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:02.232+11:00</deployment-timestamp>
+  <package name="contact-1.2.war" path="WEB-INF\var\shared_modules\contact-1.2.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\contact\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\contact\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\contact\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\contact\META-INF\definitions.cnd" />
+    <file source="META-INF\import.xml" destination="modules\contact\META-INF\import.xml" />
+    <file source="WEB-INF\" destination="modules\contact\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\contact\WEB-INF\classes" />
+    <file source="css\" destination="modules\contact\css" />
+    <file source="css\contactform.css" destination="modules\contact\css\contactform.css" />
+    <file source="icons\" destination="modules\contact\icons" />
+    <file source="icons\jnt_contactForm.png" destination="modules\contact\icons\jnt_contactForm.png" />
+    <file source="icons\jnt_contactForm_large.png" destination="modules\contact\icons\jnt_contactForm_large.png" />
+    <file source="jnt_contactForm\" destination="modules\contact\jnt_contactForm" />
+    <file source="jnt_contactForm\csv\" destination="modules\contact\jnt_contactForm\csv" />
+    <file source="jnt_contactForm\csv\contactForm.jsp" destination="modules\contact\jnt_contactForm\csv\contactForm.jsp" />
+    <file source="jnt_contactForm\csv\contactForm.properties" destination="modules\contact\jnt_contactForm\csv\contactForm.properties" />
+    <file source="jnt_contactForm\html\" destination="modules\contact\jnt_contactForm\html" />
+    <file source="jnt_contactForm\html\contactForm.jsp" destination="modules\contact\jnt_contactForm\html\contactForm.jsp" />
+    <file source="jnt_contactForm\html\contactForm.results.jsp" destination="modules\contact\jnt_contactForm\html\contactForm.results.jsp" />
+    <file source="jnt_contactForm\html\contactForm.results.properties" destination="modules\contact\jnt_contactForm\html\contactForm.results.properties" />
+    <file source="jnt_contact\" destination="modules\contact\jnt_contact" />
+    <file source="jnt_contact\csv\" destination="modules\contact\jnt_contact\csv" />
+    <file source="jnt_contact\csv\contact.headers.jsp" destination="modules\contact\jnt_contact\csv\contact.headers.jsp" />
+    <file source="jnt_contact\csv\contact.jsp" destination="modules\contact\jnt_contact\csv\contact.jsp" />
+    <file source="jnt_contact\html\" destination="modules\contact\jnt_contact\html" />
+    <file source="jnt_contact\html\contact.jsp" destination="modules\contact\jnt_contact\html\contact.jsp" />
+    <file source="jnt_contact\html\contact.small.jsp" destination="modules\contact\jnt_contact\html\contact.small.jsp" />
+    <file source="resources\" destination="modules\contact\resources" />
+    <file source="resources\JahiaContact.properties" destination="modules\contact\resources\JahiaContact.properties" />
+    <file source="resources\JahiaContact_de.properties" destination="modules\contact\resources\JahiaContact_de.properties" />
+    <file source="resources\JahiaContact_en.properties" destination="modules\contact\resources\JahiaContact_en.properties" />
+    <file source="resources\JahiaContact_fr.properties" destination="modules\contact\resources\JahiaContact_fr.properties" />
+  </deployed>
+</module>
+

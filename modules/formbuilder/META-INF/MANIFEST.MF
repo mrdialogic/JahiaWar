@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Implementation-Title: Jahia Form Builder
+Implementation-Version: 1.7
+root-folder: formbuilder
+Built-By: bamboo
+Specification-Vendor: Jahia Solutions Group SA
+Created-By: Apache Maven
+Implementation-URL: http://www.jahia.com
+Implementation-Vendor: Jahia Solutions Group SA
+package-name: Jahia Form Builder
+module-type: module
+Implementation-Vendor-Id: org.jahia
+Build-Jdk: 1.6.0_26
+Specification-Title: Jahia Form Builder
+depends: default,grid
+Specification-Version: 1.7
+Archiver-Version: Plexus Archiver
+

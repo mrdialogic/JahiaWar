@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Newsletter</name>
+  <depends>Default Jahia Templates</depends>
+  <rootFolder>newsletter</rootFolder>
+  <version>1.4</version>
+  <build-timestamp>2013-05-14T19:16:22.000+10:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:10.227+11:00</deployment-timestamp>
+  <package name="newsletter-1.4.war" path="WEB-INF\var\shared_modules\newsletter-1.4.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\newsletter\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\newsletter\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\newsletter\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\newsletter\META-INF\definitions.cnd" />
+    <file source="META-INF\import.zip" destination="modules\newsletter\META-INF\import.zip" />
+    <file source="META-INF\rules.drl" destination="modules\newsletter\META-INF\rules.drl" />
+    <file source="META-INF\spring\" destination="modules\newsletter\META-INF\spring" />
+    <file source="META-INF\spring\mod-newsletter.xml" destination="modules\newsletter\META-INF\spring\mod-newsletter.xml" />
+    <file source="WEB-INF\" destination="modules\newsletter\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\newsletter\WEB-INF\classes" />
+    <file source="WEB-INF\lib\" destination="modules\newsletter\WEB-INF\lib" />
+    <file source="WEB-INF\lib\newsletter-1.4.jar" destination="WEB-INF\lib\newsletter-1.4.jar" />
+    <file source="css\" destination="modules\newsletter\css" />
+    <file source="css\newsletter.css" destination="modules\newsletter\css\newsletter.css" />
+    <file source="icons\" destination="modules\newsletter\icons" />
+    <file source="icons\jnt_newsletter.png" destination="modules\newsletter\icons\jnt_newsletter.png" />
+    <file source="icons\jnt_newsletterIssue.png" destination="modules\newsletter\icons\jnt_newsletterIssue.png" />
+    <file source="icons\jnt_newsletterIssueScheduled_large.png" destination="modules\newsletter\icons\jnt_newsletterIssueScheduled_large.png" />
+    <file source="icons\jnt_newsletterIssueSent.png" destination="modules\newsletter\icons\jnt_newsletterIssueSent.png" />
+    <file source="icons\jnt_newsletterIssueSent_large.png" destination="modules\newsletter\icons\jnt_newsletterIssueSent_large.png" />
+    <file source="icons\jnt_newsletterIssue_large.png" destination="modules\newsletter\icons\jnt_newsletterIssue_large.png" />
+    <file source="icons\jnt_newsletter_large.png" destination="modules\newsletter\icons\jnt_newsletter_large.png" />
+    <file source="icons\jnt_newsletters.png" destination="modules\newsletter\icons\jnt_newsletters.png" />
+    <file source="icons\jnt_newslettersSubscriptions.png" destination="modules\newsletter\icons\jnt_newslettersSubscriptions.png" />
+    <file source="icons\jnt_newslettersSubscriptions_large.png" destination="modules\newsletter\icons\jnt_newslettersSubscriptions_large.png" />
+    <file source="icons\jnt_newsletters_large.png" destination="modules\newsletter\icons\jnt_newsletters_large.png" />
+    <file source="icons\jnt_subscriptionComponent.png" destination="modules\newsletter\icons\jnt_subscriptionComponent.png" />
+    <file source="icons\jnt_subscriptions.png" destination="modules\newsletter\icons\jnt_subscriptions.png" />
+    <file source="icons\jnt_subscriptions_large.png" destination="modules\newsletter\icons\jnt_subscriptions_large.png" />
+    <file source="icons\newNewsletter.png" destination="modules\newsletter\icons\newNewsletter.png" />
+    <file source="icons\newslettersSubscriptions_large.png" destination="modules\newsletter\icons\newslettersSubscriptions_large.png" />
+    <file source="icons\subscriptionManager.png" destination="modules\newsletter\icons\subscriptionManager.png" />
+    <file source="icons\unsubscribe.png" destination="modules\newsletter\icons\unsubscribe.png" />
+    <file source="jnt_newsletterSubscription\" destination="modules\newsletter\jnt_newsletterSubscription" />
+    <file source="jnt_newsletterSubscription\html\" destination="modules\newsletter\jnt_newsletterSubscription\html" />
+    <file source="jnt_newsletterSubscription\html\newsletterSubscription.jsp" destination="modules\newsletter\jnt_newsletterSubscription\html\newsletterSubscription.jsp" />
+    <file source="jnt_newsletterSubscription\html\newsletterSubscription.properties" destination="modules\newsletter\jnt_newsletterSubscription\html\newsletterSubscription.properties" />
+    <file source="jnt_newsletter\" destination="modules\newsletter\jnt_newsletter" />
+    <file source="jnt_newsletter\html\" destination="modules\newsletter\jnt_newsletter\html" />
+    <file source="jnt_newsletter\html\newsletter.jsp" destination="modules\newsletter\jnt_newsletter\html\newsletter.jsp" />
+    <file source="jnt_newslettersSubscriptions\" destination="modules\newsletter\jnt_newslettersSubscriptions" />
+    <file source="jnt_newslettersSubscriptions\html\" destination="modules\newsletter\jnt_newslettersSubscriptions\html" />
+    <file source="jnt_newslettersSubscriptions\html\newslettersSubscriptions.jsp" destination="modules\newsletter\jnt_newslettersSubscriptions\html\newslettersSubscriptions.jsp" />
+    <file source="jnt_newslettersSubscriptions\html\newslettersSubscriptions.properties" destination="modules\newsletter\jnt_newslettersSubscriptions\html\newslettersSubscriptions.properties" />
+    <file source="jnt_newsletters\" destination="modules\newsletter\jnt_newsletters" />
+    <file source="jnt_newsletters\html\" destination="modules\newsletter\jnt_newsletters\html" />
+    <file source="jnt_newsletters\html\newsletters.jsp" destination="modules\newsletter\jnt_newsletters\html\newsletters.jsp" />
+    <file source="jnt_subscriptions\" destination="modules\newsletter\jnt_subscriptions" />
+    <file source="jnt_subscriptions\html\" destination="modules\newsletter\jnt_subscriptions\html" />
+    <file source="jnt_subscriptions\html\subscriptions.jsp" destination="modules\newsletter\jnt_subscriptions\html\subscriptions.jsp" />
+    <file source="jnt_subscriptions\html\subscriptions.table.jsp" destination="modules\newsletter\jnt_subscriptions\html\subscriptions.table.jsp" />
+    <file source="jnt_template\" destination="modules\newsletter\jnt_template" />
+    <file source="jnt_template\html\" destination="modules\newsletter\jnt_template\html" />
+    <file source="jnt_template\html\template.newsletter.jsp" destination="modules\newsletter\jnt_template\html\template.newsletter.jsp" />
+    <file source="mails\" destination="modules\newsletter\mails" />
+    <file source="mails\templates\" destination="modules\newsletter\mails\templates" />
+    <file source="mails\templates\subscribeConfirmation.subject.vm" destination="modules\newsletter\mails\templates\subscribeConfirmation.subject.vm" />
+    <file source="mails\templates\subscribeConfirmation.vm" destination="modules\newsletter\mails\templates\subscribeConfirmation.vm" />
+    <file source="mails\templates\subscribeConfirmation_fr.subject.vm" destination="modules\newsletter\mails\templates\subscribeConfirmation_fr.subject.vm" />
+    <file source="mails\templates\subscribeConfirmation_fr.vm" destination="modules\newsletter\mails\templates\subscribeConfirmation_fr.vm" />
+    <file source="mails\templates\unsubscribeConfirmation.subject.vm" destination="modules\newsletter\mails\templates\unsubscribeConfirmation.subject.vm" />
+    <file source="mails\templates\unsubscribeConfirmation.vm" destination="modules\newsletter\mails\templates\unsubscribeConfirmation.vm" />
+    <file source="mails\templates\unsubscribeConfirmation_fr.subject.vm" destination="modules\newsletter\mails\templates\unsubscribeConfirmation_fr.subject.vm" />
+    <file source="mails\templates\unsubscribeConfirmation_fr.vm" destination="modules\newsletter\mails\templates\unsubscribeConfirmation_fr.vm" />
+    <file source="resources\" destination="modules\newsletter\resources" />
+    <file source="resources\JahiaNewsletter.properties" destination="modules\newsletter\resources\JahiaNewsletter.properties" />
+    <file source="resources\JahiaNewsletter_de.properties" destination="modules\newsletter\resources\JahiaNewsletter_de.properties" />
+    <file source="resources\JahiaNewsletter_en.properties" destination="modules\newsletter\resources\JahiaNewsletter_en.properties" />
+    <file source="resources\JahiaNewsletter_fr.properties" destination="modules\newsletter\resources\JahiaNewsletter_fr.properties" />
+  </deployed>
+</module>
+

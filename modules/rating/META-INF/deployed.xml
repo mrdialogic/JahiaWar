@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Rating</name>
+  <depends>Default Jahia Templates</depends>
+  <rootFolder>rating</rootFolder>
+  <version>1.5</version>
+  <build-timestamp>2013-07-15T15:11:28.000+10:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:12.282+11:00</deployment-timestamp>
+  <package name="rating-1.5.war" path="WEB-INF\var\shared_modules\rating-1.5.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\rating\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\rating\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\rating\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\rating\META-INF\definitions.cnd" />
+    <file source="META-INF\rules.drl" destination="modules\rating\META-INF\rules.drl" />
+    <file source="META-INF\spring\" destination="modules\rating\META-INF\spring" />
+    <file source="META-INF\spring\mod-rating.xml" destination="modules\rating\META-INF\spring\mod-rating.xml" />
+    <file source="WEB-INF\" destination="modules\rating\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\rating\WEB-INF\classes" />
+    <file source="WEB-INF\lib\" destination="modules\rating\WEB-INF\lib" />
+    <file source="WEB-INF\lib\rating-1.5.jar" destination="WEB-INF\lib\rating-1.5.jar" />
+    <file source="css\" destination="modules\rating\css" />
+    <file source="css\img\" destination="modules\rating\css\img" />
+    <file source="css\img\negative.png" destination="modules\rating\css\img\negative.png" />
+    <file source="css\img\positive.png" destination="modules\rating\css\img\positive.png" />
+    <file source="css\rating-plusone-minorone.css" destination="modules\rating\css\rating-plusone-minorone.css" />
+    <file source="css\ui.stars.css" destination="modules\rating\css\ui.stars.css" />
+    <file source="css\ui.stars.gif" destination="modules\rating\css\ui.stars.gif" />
+    <file source="css\uni-form.css" destination="modules\rating\css\uni-form.css" />
+    <file source="icons\" destination="modules\rating\icons" />
+    <file source="icons\jnt_rateable.png" destination="modules\rating\icons\jnt_rateable.png" />
+    <file source="icons\jnt_rateable_large.png" destination="modules\rating\icons\jnt_rateable_large.png" />
+    <file source="icons\jnt_recommended.png" destination="modules\rating\icons\jnt_recommended.png" />
+    <file source="icons\jnt_recommended_large.png" destination="modules\rating\icons\jnt_recommended_large.png" />
+    <file source="icons\jnt_topRated.png" destination="modules\rating\icons\jnt_topRated.png" />
+    <file source="icons\jnt_topRated_large.png" destination="modules\rating\icons\jnt_topRated_large.png" />
+    <file source="javascript\" destination="modules\rating\javascript" />
+    <file source="javascript\ui.stars.js" destination="modules\rating\javascript\ui.stars.js" />
+    <file source="jmix_rating\" destination="modules\rating\jmix_rating" />
+    <file source="jmix_rating\html\" destination="modules\rating\jmix_rating\html" />
+    <file source="jmix_rating\html\rating.hidden.average.jsp" destination="modules\rating\jmix_rating\html\rating.hidden.average.jsp" />
+    <file source="jmix_rating\html\rating.hidden.average.properties" destination="modules\rating\jmix_rating\html\rating.hidden.average.properties" />
+    <file source="jmix_rating\html\rating.hidden.average.readonly.jsp" destination="modules\rating\jmix_rating\html\rating.hidden.average.readonly.jsp" />
+    <file source="jmix_rating\html\rating.hidden.options.wrapper.jsp" destination="modules\rating\jmix_rating\html\rating.hidden.options.wrapper.jsp" />
+    <file source="jmix_rating\html\rating.hidden.plusone_minorone.jsp" destination="modules\rating\jmix_rating\html\rating.hidden.plusone_minorone.jsp" />
+    <file source="jmix_rating\html\rating.hidden.plusone_minorone.properties" destination="modules\rating\jmix_rating\html\rating.hidden.plusone_minorone.properties" />
+    <file source="jmix_rating\html\rating.hidden.plusone_minorone_form.jsp" destination="modules\rating\jmix_rating\html\rating.hidden.plusone_minorone_form.jsp" />
+    <file source="jmix_rating\html\rating.hidden.plusone_minorone_form.properties" destination="modules\rating\jmix_rating\html\rating.hidden.plusone_minorone_form.properties" />
+    <file source="jnt_rateable\" destination="modules\rating\jnt_rateable" />
+    <file source="jnt_rateable\html\" destination="modules\rating\jnt_rateable\html" />
+    <file source="jnt_rateable\html\rateable.jsp" destination="modules\rating\jnt_rateable\html\rateable.jsp" />
+    <file source="jnt_rateable\html\rateable.properties" destination="modules\rating\jnt_rateable\html\rateable.properties" />
+    <file source="jnt_topRated\" destination="modules\rating\jnt_topRated" />
+    <file source="jnt_topRated\html\" destination="modules\rating\jnt_topRated\html" />
+    <file source="jnt_topRated\html\topRated.hidden.load.jsp" destination="modules\rating\jnt_topRated\html\topRated.hidden.load.jsp" />
+    <file source="jnt_topRated\html\topRated.properties" destination="modules\rating\jnt_topRated\html\topRated.properties" />
+    <file source="resources\" destination="modules\rating\resources" />
+    <file source="resources\JahiaRating.properties" destination="modules\rating\resources\JahiaRating.properties" />
+    <file source="resources\JahiaRating_de.properties" destination="modules\rating\resources\JahiaRating_de.properties" />
+    <file source="resources\JahiaRating_en.properties" destination="modules\rating\resources\JahiaRating_en.properties" />
+    <file source="resources\JahiaRating_fr.properties" destination="modules\rating\resources\JahiaRating_fr.properties" />
+  </deployed>
+</module>
+

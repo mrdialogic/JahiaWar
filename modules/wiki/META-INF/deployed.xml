@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Wiki</name>
+  <depends>default,contentRetrieval,tabularList,grid,search,skins,default-skins,channels</depends>
+  <rootFolder>wiki</rootFolder>
+  <version>1.6</version>
+  <build-timestamp>2013-08-26T18:47:02.000+10:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:22.230+11:00</deployment-timestamp>
+  <package name="wiki-1.6.war" path="WEB-INF\var\shared_modules\wiki-1.6.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\wiki\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\wiki\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\wiki\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\wiki\META-INF\definitions.cnd" />
+    <file source="META-INF\import.zip" destination="modules\wiki\META-INF\import.zip" />
+    <file source="META-INF\spring\" destination="modules\wiki\META-INF\spring" />
+    <file source="META-INF\spring\mod-wiki.xml" destination="modules\wiki\META-INF\spring\mod-wiki.xml" />
+    <file source="WEB-INF\" destination="modules\wiki\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\wiki\WEB-INF\classes" />
+    <file source="WEB-INF\lib\" destination="modules\wiki\WEB-INF\lib" />
+    <file source="WEB-INF\lib\htmlcleaner-2.1.jar" destination="WEB-INF\lib\htmlcleaner-2.1.jar" />
+    <file source="WEB-INF\lib\javacc-4.2.jar" destination="WEB-INF\lib\javacc-4.2.jar" />
+    <file source="WEB-INF\lib\org.wikimodel.wem-2.0.7-20091021.jar" destination="WEB-INF\lib\org.wikimodel.wem-2.0.7-20091021.jar" />
+    <file source="WEB-INF\lib\wiki-1.6.jar" destination="WEB-INF\lib\wiki-1.6.jar" />
+    <file source="WEB-INF\lib\xwiki-core-component-api-2.0.4.jar" destination="WEB-INF\lib\xwiki-core-component-api-2.0.4.jar" />
+    <file source="WEB-INF\lib\xwiki-core-component-default-2.0.4.jar" destination="WEB-INF\lib\xwiki-core-component-default-2.0.4.jar" />
+    <file source="WEB-INF\lib\xwiki-core-configuration-api-2.0.4.jar" destination="WEB-INF\lib\xwiki-core-configuration-api-2.0.4.jar" />
+    <file source="WEB-INF\lib\xwiki-core-observation-local-2.0.4.jar" destination="WEB-INF\lib\xwiki-core-observation-local-2.0.4.jar" />
+    <file source="WEB-INF\lib\xwiki-core-properties-2.0.4.jar" destination="WEB-INF\lib\xwiki-core-properties-2.0.4.jar" />
+    <file source="WEB-INF\lib\xwiki-core-rendering-api-2.0.4.jar" destination="WEB-INF\lib\xwiki-core-rendering-api-2.0.4.jar" />
+    <file source="WEB-INF\lib\xwiki-core-rendering-macro-box-2.0.4.jar" destination="WEB-INF\lib\xwiki-core-rendering-macro-box-2.0.4.jar" />
+    <file source="WEB-INF\lib\xwiki-core-rendering-macro-toc-2.0.4.jar" destination="WEB-INF\lib\xwiki-core-rendering-macro-toc-2.0.4.jar" />
+    <file source="WEB-INF\lib\xwiki-core-rendering-parser-wikimodel-2.0.4.jar" destination="WEB-INF\lib\xwiki-core-rendering-parser-wikimodel-2.0.4.jar" />
+    <file source="WEB-INF\lib\xwiki-core-xml-2.0.4.jar" destination="WEB-INF\lib\xwiki-core-xml-2.0.4.jar" />
+    <file source="css\" destination="modules\wiki\css" />
+    <file source="css\img\" destination="modules\wiki\css\img" />
+    <file source="css\img\bg-container.png" destination="modules\wiki\css\img\bg-container.png" />
+    <file source="css\img\bg-editor-bbcode.png" destination="modules\wiki\css\img\bg-editor-bbcode.png" />
+    <file source="css\img\bg-editor-dotclear.png" destination="modules\wiki\css\img\bg-editor-dotclear.png" />
+    <file source="css\img\bg-editor-html.png" destination="modules\wiki\css\img\bg-editor-html.png" />
+    <file source="css\img\bg-editor-json.png" destination="modules\wiki\css\img\bg-editor-json.png" />
+    <file source="css\img\bg-editor-markdown.png" destination="modules\wiki\css\img\bg-editor-markdown.png" />
+    <file source="css\img\bg-editor-textile.png" destination="modules\wiki\css\img\bg-editor-textile.png" />
+    <file source="css\img\bg-editor-wiki.png" destination="modules\wiki\css\img\bg-editor-wiki.png" />
+    <file source="css\img\bg-editor-xml.png" destination="modules\wiki\css\img\bg-editor-xml.png" />
+    <file source="css\img\bg-editor.png" destination="modules\wiki\css\img\bg-editor.png" />
+    <file source="css\img\bold.png" destination="modules\wiki\css\img\bold.png" />
+    <file source="css\img\boxwiki-h4title.png" destination="modules\wiki\css\img\boxwiki-h4title.png" />
+    <file source="css\img\code.png" destination="modules\wiki\css\img\code.png" />
+    <file source="css\img\external.png" destination="modules\wiki\css\img\external.png" />
+    <file source="css\img\h1.png" destination="modules\wiki\css\img\h1.png" />
+    <file source="css\img\h2.png" destination="modules\wiki\css\img\h2.png" />
+    <file source="css\img\h3.png" destination="modules\wiki\css\img\h3.png" />
+    <file source="css\img\h4.png" destination="modules\wiki\css\img\h4.png" />
+    <file source="css\img\h5.png" destination="modules\wiki\css\img\h5.png" />
+    <file source="css\img\h6.png" destination="modules\wiki\css\img\h6.png" />
+    <file source="css\img\handle.png" destination="modules\wiki\css\img\handle.png" />
+    <file source="css\img\italic.png" destination="modules\wiki\css\img\italic.png" />
+    <file source="css\img\link.png" destination="modules\wiki\css\img\link.png" />
+    <file source="css\img\list-bullet.png" destination="modules\wiki\css\img\list-bullet.png" />
+    <file source="css\img\list-numeric.png" destination="modules\wiki\css\img\list-numeric.png" />
+    <file source="css\img\menu.png" destination="modules\wiki\css\img\menu.png" />
+    <file source="css\img\picture.png" destination="modules\wiki\css\img\picture.png" />
+    <file source="css\img\preview.png" destination="modules\wiki\css\img\preview.png" />
+    <file source="css\img\quotes.png" destination="modules\wiki\css\img\quotes.png" />
+    <file source="css\img\stroke.png" destination="modules\wiki\css\img\stroke.png" />
+    <file source="css\img\submenu.png" destination="modules\wiki\css\img\submenu.png" />
+    <file source="css\img\underline.png" destination="modules\wiki\css\img\underline.png" />
+    <file source="css\img\url.png" destination="modules\wiki\css\img\url.png" />
+    <file source="css\img\wiki-arrow.png" destination="modules\wiki\css\img\wiki-arrow.png" />
+    <file source="css\img\wikidef-new.png" destination="modules\wiki\css\img\wikidef-new.png" />
+    <file source="css\img\wikidef.png" destination="modules\wiki\css\img\wikidef.png" />
+    <file source="css\img\wikipage-delete.png" destination="modules\wiki\css\img\wikipage-delete.png" />
+    <file source="css\markitupStyle.css" destination="modules\wiki\css\markitupStyle.css" />
+    <file source="css\markitupWikiStyle.css" destination="modules\wiki\css\markitupWikiStyle.css" />
+    <file source="css\wiki.css" destination="modules\wiki\css\wiki.css" />
+    <file source="icons\" destination="modules\wiki\icons" />
+    <file source="icons\jnt_wikiPageFormCreation.png" destination="modules\wiki\icons\jnt_wikiPageFormCreation.png" />
+    <file source="icons\jnt_wikiPageFormCreation_large.png" destination="modules\wiki\icons\jnt_wikiPageFormCreation_large.png" />
+    <file source="images\" destination="modules\wiki\images" />
+    <file source="images\jahia-apps-wiki.png" destination="modules\wiki\images\jahia-apps-wiki.png" />
+    <file source="javascript\" destination="modules\wiki\javascript" />
+    <file source="javascript\jquery.markitup.js" destination="modules\wiki\javascript\jquery.markitup.js" />
+    <file source="javascript\markitupWikiSet.js" destination="modules\wiki\javascript\markitupWikiSet.js" />
+    <file source="jnt_wikiPageFormCreation\" destination="modules\wiki\jnt_wikiPageFormCreation" />
+    <file source="jnt_wikiPageFormCreation\html\" destination="modules\wiki\jnt_wikiPageFormCreation\html" />
+    <file source="jnt_wikiPageFormCreation\html\wikiPageFormCreation.jsp" destination="modules\wiki\jnt_wikiPageFormCreation\html\wikiPageFormCreation.jsp" />
+    <file source="jnt_wikiPageFormCreation\html\wikiPageFormCreation.properties" destination="modules\wiki\jnt_wikiPageFormCreation\html\wikiPageFormCreation.properties" />
+    <file source="jnt_wikiPage\" destination="modules\wiki\jnt_wikiPage" />
+    <file source="jnt_wikiPage\html\" destination="modules\wiki\jnt_wikiPage\html" />
+    <file source="jnt_wikiPage\html\wikiPage.compare.jsp" destination="modules\wiki\jnt_wikiPage\html\wikiPage.compare.jsp" />
+    <file source="jnt_wikiPage\html\wikiPage.compare.properties" destination="modules\wiki\jnt_wikiPage\html\wikiPage.compare.properties" />
+    <file source="jnt_wikiPage\html\wikiPage.contribute.jsp" destination="modules\wiki\jnt_wikiPage\html\wikiPage.contribute.jsp" />
+    <file source="jnt_wikiPage\html\wikiPage.history.jsp" destination="modules\wiki\jnt_wikiPage\html\wikiPage.history.jsp" />
+    <file source="jnt_wikiPage\html\wikiPage.history.properties" destination="modules\wiki\jnt_wikiPage\html\wikiPage.history.properties" />
+    <file source="jnt_wikiPage\html\wikiPage.jsp" destination="modules\wiki\jnt_wikiPage\html\wikiPage.jsp" />
+    <file source="jnt_wikiPage\html\wikiPage.syntax.jsp" destination="modules\wiki\jnt_wikiPage\html\wikiPage.syntax.jsp" />
+    <file source="resources\" destination="modules\wiki\resources" />
+    <file source="resources\JahiaWiki.properties" destination="modules\wiki\resources\JahiaWiki.properties" />
+    <file source="resources\JahiaWiki_de.properties" destination="modules\wiki\resources\JahiaWiki_de.properties" />
+    <file source="resources\JahiaWiki_en.properties" destination="modules\wiki\resources\JahiaWiki_en.properties" />
+    <file source="resources\JahiaWiki_fr.properties" destination="modules\wiki\resources\JahiaWiki_fr.properties" />
+  </deployed>
+</module>
+

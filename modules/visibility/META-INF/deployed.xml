@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Visibility</name>
+  <depends>Default Jahia Templates</depends>
+  <rootFolder>visibility</rootFolder>
+  <version>6.6.2.0</version>
+  <build-timestamp>2013-08-27T19:36:34.000+10:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:15.972+11:00</deployment-timestamp>
+  <package name="visibility-6.6.2.0.war" path="WEB-INF\var\shared_modules\visibility-6.6.2.0.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\visibility\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\visibility\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\visibility\META-INF\MANIFEST.MF" />
+    <file source="META-INF\default-rules.drl" destination="modules\visibility\META-INF\default-rules.drl" />
+    <file source="META-INF\definitions.cnd" destination="modules\visibility\META-INF\definitions.cnd" />
+    <file source="META-INF\live-rules.drl" destination="modules\visibility\META-INF\live-rules.drl" />
+    <file source="META-INF\rules.dsl" destination="modules\visibility\META-INF\rules.dsl" />
+    <file source="META-INF\spring\" destination="modules\visibility\META-INF\spring" />
+    <file source="META-INF\spring\mod-visibility.xml" destination="modules\visibility\META-INF\spring\mod-visibility.xml" />
+    <file source="WEB-INF\" destination="modules\visibility\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\visibility\WEB-INF\classes" />
+    <file source="WEB-INF\lib\" destination="modules\visibility\WEB-INF\lib" />
+    <file source="WEB-INF\lib\visibility-6.6.2.0.jar" destination="WEB-INF\lib\visibility-6.6.2.0.jar" />
+    <file source="resources\" destination="modules\visibility\resources" />
+    <file source="resources\JahiaVisibility.properties" destination="modules\visibility\resources\JahiaVisibility.properties" />
+    <file source="resources\JahiaVisibility_de.properties" destination="modules\visibility\resources\JahiaVisibility_de.properties" />
+    <file source="resources\JahiaVisibility_en.properties" destination="modules\visibility\resources\JahiaVisibility_en.properties" />
+    <file source="resources\JahiaVisibility_fr.properties" destination="modules\visibility\resources\JahiaVisibility_fr.properties" />
+  </deployed>
+</module>
+

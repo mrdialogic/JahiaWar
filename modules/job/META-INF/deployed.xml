@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Job Offer</name>
+  <rootFolder>job</rootFolder>
+  <version>1.2</version>
+  <build-timestamp>2012-01-31T01:31:08.000+11:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:06.772+11:00</deployment-timestamp>
+  <package name="job-1.2.war" path="WEB-INF\var\shared_modules\job-1.2.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\job\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\job\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\job\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\job\META-INF\definitions.cnd" />
+    <file source="WEB-INF\" destination="modules\job\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\job\WEB-INF\classes" />
+    <file source="css\" destination="modules\job\css" />
+    <file source="css\img\" destination="modules\job\css\img" />
+    <file source="css\img\jobapply.png" destination="modules\job\css\img\jobapply.png" />
+    <file source="css\img\jobform.png" destination="modules\job\css\img\jobform.png" />
+    <file source="css\img\returnjobslist.png" destination="modules\job\css\img\returnjobslist.png" />
+    <file source="css\job.css" destination="modules\job\css\job.css" />
+    <file source="icons\" destination="modules\job\icons" />
+    <file source="icons\jnt_job.png" destination="modules\job\icons\jnt_job.png" />
+    <file source="icons\jnt_jobOffers.png" destination="modules\job\icons\jnt_jobOffers.png" />
+    <file source="icons\jnt_jobOffers_large.png" destination="modules\job\icons\jnt_jobOffers_large.png" />
+    <file source="icons\jnt_job_large.png" destination="modules\job\icons\jnt_job_large.png" />
+    <file source="javascript\" destination="modules\job\javascript" />
+    <file source="javascript\job-collapse.js" destination="modules\job\javascript\job-collapse.js" />
+    <file source="jnt_jobApplication\" destination="modules\job\jnt_jobApplication" />
+    <file source="jnt_jobApplication\html\" destination="modules\job\jnt_jobApplication\html" />
+    <file source="jnt_jobApplication\html\jobApplication.jsp" destination="modules\job\jnt_jobApplication\html\jobApplication.jsp" />
+    <file source="jnt_job\" destination="modules\job\jnt_job" />
+    <file source="jnt_job\html\" destination="modules\job\jnt_job\html" />
+    <file source="jnt_job\html\job.jsp" destination="modules\job\jnt_job\html\job.jsp" />
+    <file source="jnt_job\html\job.list.jsp" destination="modules\job\jnt_job\html\job.list.jsp" />
+    <file source="jnt_job\html\job.results.jsp" destination="modules\job\jnt_job\html\job.results.jsp" />
+    <file source="jnt_job\html\job.results.properties" destination="modules\job\jnt_job\html\job.results.properties" />
+    <file source="resources\" destination="modules\job\resources" />
+    <file source="resources\JahiaJobOffer.properties" destination="modules\job\resources\JahiaJobOffer.properties" />
+    <file source="resources\JahiaJobOffer_de.properties" destination="modules\job\resources\JahiaJobOffer_de.properties" />
+    <file source="resources\JahiaJobOffer_en.properties" destination="modules\job\resources\JahiaJobOffer_en.properties" />
+    <file source="resources\JahiaJobOffer_fr.properties" destination="modules\job\resources\JahiaJobOffer_fr.properties" />
+  </deployed>
+</module>
+

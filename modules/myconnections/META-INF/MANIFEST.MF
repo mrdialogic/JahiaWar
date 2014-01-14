@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Specification-Title: Jahia My Connections
+Archiver-Version: Plexus Archiver
+Built-By: bamboo
+Created-By: Apache Maven
+package-name: Jahia My Connections
+Specification-Version: 1.3
+Implementation-Vendor-Id: org.jahia
+depends: search,profile,social,tasks,skins,default-skins
+Implementation-URL: http://www.jahia.com
+Build-Jdk: 1.5.0_22
+root-folder: myconnections
+Implementation-Title: Jahia My Connections
+module-type: profileModule
+Specification-Vendor: Jahia Solutions Group SA
+Implementation-Version: 1.3
+Implementation-Vendor: Jahia Solutions Group SA
+

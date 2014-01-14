@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Grid Pages</name>
+  <depends>Default Jahia Templates</depends>
+  <rootFolder>grid</rootFolder>
+  <version>6.6.2.0</version>
+  <build-timestamp>2013-08-27T19:36:06.000+10:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:06.685+11:00</deployment-timestamp>
+  <package name="grid-6.6.2.0.war" path="WEB-INF\var\shared_modules\grid-6.6.2.0.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\grid\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\grid\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\grid\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\grid\META-INF\definitions.cnd" />
+    <file source="WEB-INF\" destination="modules\grid\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\grid\WEB-INF\classes" />
+    <file source="common\" destination="modules\grid\common" />
+    <file source="common\declarations.jspf" destination="modules\grid\common\declarations.jspf" />
+    <file source="icons\" destination="modules\grid\icons" />
+    <file source="icons\jnt_customRow.png" destination="modules\grid\icons\jnt_customRow.png" />
+    <file source="icons\jnt_customRow_large.png" destination="modules\grid\icons\jnt_customRow_large.png" />
+    <file source="icons\jnt_row.png" destination="modules\grid\icons\jnt_row.png" />
+    <file source="icons\jnt_row_large.png" destination="modules\grid\icons\jnt_row_large.png" />
+    <file source="img\" destination="modules\grid\img" />
+    <file source="img\1col16.png" destination="modules\grid\img\1col16.png" />
+    <file source="img\2col106.png" destination="modules\grid\img\2col106.png" />
+    <file source="img\2col115.png" destination="modules\grid\img\2col115.png" />
+    <file source="img\2col124.png" destination="modules\grid\img\2col124.png" />
+    <file source="img\2col412.png" destination="modules\grid\img\2col412.png" />
+    <file source="img\2col511.png" destination="modules\grid\img\2col511.png" />
+    <file source="img\2col610.png" destination="modules\grid\img\2col610.png" />
+    <file source="img\2col88.png" destination="modules\grid\img\2col88.png" />
+    <file source="img\3col448.png" destination="modules\grid\img\3col448.png" />
+    <file source="img\3col466.png" destination="modules\grid\img\3col466.png" />
+    <file source="img\3col484.png" destination="modules\grid\img\3col484.png" />
+    <file source="img\3col664.png" destination="modules\grid\img\3col664.png" />
+    <file source="img\3col844.png" destination="modules\grid\img\3col844.png" />
+    <file source="img\4col4444.png" destination="modules\grid\img\4col4444.png" />
+    <file source="jnt_customRow\" destination="modules\grid\jnt_customRow" />
+    <file source="jnt_customRow\html\" destination="modules\grid\jnt_customRow\html" />
+    <file source="jnt_customRow\html\customRow.jsp" destination="modules\grid\jnt_customRow\html\customRow.jsp" />
+    <file source="jnt_customRow\html\customRow.properties" destination="modules\grid\jnt_customRow\html\customRow.properties" />
+    <file source="jnt_row\" destination="modules\grid\jnt_row" />
+    <file source="jnt_row\html\" destination="modules\grid\jnt_row\html" />
+    <file source="jnt_row\html\row.jsp" destination="modules\grid\jnt_row\html\row.jsp" />
+    <file source="jnt_row\html\row.properties" destination="modules\grid\jnt_row\html\row.properties" />
+    <file source="resources\" destination="modules\grid\resources" />
+    <file source="resources\JahiaGridPages.properties" destination="modules\grid\resources\JahiaGridPages.properties" />
+    <file source="resources\JahiaGridPages_de.properties" destination="modules\grid\resources\JahiaGridPages_de.properties" />
+    <file source="resources\JahiaGridPages_en.properties" destination="modules\grid\resources\JahiaGridPages_en.properties" />
+    <file source="resources\JahiaGridPages_fr.properties" destination="modules\grid\resources\JahiaGridPages_fr.properties" />
+  </deployed>
+</module>
+

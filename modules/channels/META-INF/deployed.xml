@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Channels</name>
+  <rootFolder>channels</rootFolder>
+  <version>6.6.2.0</version>
+  <build-timestamp>2013-08-27T19:35:52.000+10:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:02.129+11:00</deployment-timestamp>
+  <package name="channels-6.6.2.0.war" path="WEB-INF\var\shared_modules\channels-6.6.2.0.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\channels\META-INF" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\channels\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\channels\META-INF\definitions.cnd" />
+    <file source="META-INF\spring\" destination="modules\channels\META-INF\spring" />
+    <file source="META-INF\spring\mod-channels.xml" destination="modules\channels\META-INF\spring\mod-channels.xml" />
+    <file source="WEB-INF\" destination="modules\channels\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\channels\WEB-INF\classes" />
+    <file source="WEB-INF\classes\org" destination="WEB-INF\classes\org" />
+    <file source="WEB-INF\classes\org\" destination="modules\channels\WEB-INF\classes\org" />
+    <file source="WEB-INF\classes\org\jahia" destination="WEB-INF\classes\org\jahia" />
+    <file source="WEB-INF\classes\org\jahia\" destination="modules\channels\WEB-INF\classes\org\jahia" />
+    <file source="WEB-INF\classes\org\jahia\services" destination="WEB-INF\classes\org\jahia\services" />
+    <file source="WEB-INF\classes\org\jahia\services\" destination="modules\channels\WEB-INF\classes\org\jahia\services" />
+    <file source="WEB-INF\classes\org\jahia\services\channels" destination="WEB-INF\classes\org\jahia\services\channels" />
+    <file source="WEB-INF\classes\org\jahia\services\channels\" destination="modules\channels\WEB-INF\classes\org\jahia\services\channels" />
+    <file source="WEB-INF\classes\org\jahia\services\channels\filters" destination="WEB-INF\classes\org\jahia\services\channels\filters" />
+    <file source="WEB-INF\classes\org\jahia\services\channels\filters\" destination="modules\channels\WEB-INF\classes\org\jahia\services\channels\filters" />
+    <file source="WEB-INF\classes\org\jahia\services\channels\filters\ChannelExclusionFilter.class" destination="WEB-INF\classes\org\jahia\services\channels\filters\ChannelExclusionFilter.class" />
+    <file source="images\" destination="modules\channels\images" />
+    <file source="images\devices\" destination="modules\channels\images\devices" />
+    <file source="images\devices\android-landscape.png" destination="modules\channels\images\devices\android-landscape.png" />
+    <file source="images\devices\android-portrait.png" destination="modules\channels\images\devices\android-portrait.png" />
+    <file source="images\devices\android-small.png" destination="modules\channels\images\devices\android-small.png" />
+    <file source="images\devices\bbstorm-landscape.png" destination="modules\channels\images\devices\bbstorm-landscape.png" />
+    <file source="images\devices\bbstorm-portrait.png" destination="modules\channels\images\devices\bbstorm-portrait.png" />
+    <file source="images\devices\bbstorm-small.png" destination="modules\channels\images\devices\bbstorm-small.png" />
+    <file source="images\devices\ipad-landscape.png" destination="modules\channels\images\devices\ipad-landscape.png" />
+    <file source="images\devices\ipad-portrait.png" destination="modules\channels\images\devices\ipad-portrait.png" />
+    <file source="images\devices\ipad-small.png" destination="modules\channels\images\devices\ipad-small.png" />
+    <file source="images\devices\iphone-landscape.png" destination="modules\channels\images\devices\iphone-landscape.png" />
+    <file source="images\devices\iphone-portrait.png" destination="modules\channels\images\devices\iphone-portrait.png" />
+    <file source="images\devices\iphone-small.png" destination="modules\channels\images\devices\iphone-small.png" />
+    <file source="images\devices\kindlefire-landscape.png" destination="modules\channels\images\devices\kindlefire-landscape.png" />
+    <file source="images\devices\kindlefire-portrait.png" destination="modules\channels\images\devices\kindlefire-portrait.png" />
+    <file source="images\devices\kindlefire-small.png" destination="modules\channels\images\devices\kindlefire-small.png" />
+  </deployed>
+</module>
+

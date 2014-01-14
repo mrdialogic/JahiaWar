@@ -1,0 +1,1 @@
+print org.jahia.data.viewhelper.principal.PrincipalViewHelper.getFullName(currentUser)

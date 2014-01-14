@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Video Streaming</name>
+  <depends>Default Jahia Templates</depends>
+  <rootFolder>videostreaming</rootFolder>
+  <version>1.4</version>
+  <build-timestamp>2013-02-12T18:36:44.000+11:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:15.892+11:00</deployment-timestamp>
+  <package name="videostreaming-1.4.war" path="WEB-INF\var\shared_modules\videostreaming-1.4.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\videostreaming\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\videostreaming\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\videostreaming\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\videostreaming\META-INF\definitions.cnd" />
+    <file source="WEB-INF\" destination="modules\videostreaming\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\videostreaming\WEB-INF\classes" />
+    <file source="icons\" destination="modules\videostreaming\icons" />
+    <file source="icons\jnt_videostreaming.png" destination="modules\videostreaming\icons\jnt_videostreaming.png" />
+    <file source="icons\jnt_videostreaming_large.png" destination="modules\videostreaming\icons\jnt_videostreaming_large.png" />
+    <file source="jnt_videostreaming\" destination="modules\videostreaming\jnt_videostreaming" />
+    <file source="jnt_videostreaming\html\" destination="modules\videostreaming\jnt_videostreaming\html" />
+    <file source="jnt_videostreaming\html\videostreaming.dailymotion.jsp" destination="modules\videostreaming\jnt_videostreaming\html\videostreaming.dailymotion.jsp" />
+    <file source="jnt_videostreaming\html\videostreaming.jsp" destination="modules\videostreaming\jnt_videostreaming\html\videostreaming.jsp" />
+    <file source="jnt_videostreaming\html\videostreaming.vimeo.jsp" destination="modules\videostreaming\jnt_videostreaming\html\videostreaming.vimeo.jsp" />
+    <file source="jnt_videostreaming\html\videostreaming.watt.jsp" destination="modules\videostreaming\jnt_videostreaming\html\videostreaming.watt.jsp" />
+    <file source="jnt_videostreaming\html\videostreaming.youtube.jsp" destination="modules\videostreaming\jnt_videostreaming\html\videostreaming.youtube.jsp" />
+    <file source="resources\" destination="modules\videostreaming\resources" />
+    <file source="resources\JahiaVideoStreaming.properties" destination="modules\videostreaming\resources\JahiaVideoStreaming.properties" />
+    <file source="resources\JahiaVideoStreaming_en.properties" destination="modules\videostreaming\resources\JahiaVideoStreaming_en.properties" />
+    <file source="resources\JahiaVideoStreaming_fr.properties" destination="modules\videostreaming\resources\JahiaVideoStreaming_fr.properties" />
+  </deployed>
+</module>
+

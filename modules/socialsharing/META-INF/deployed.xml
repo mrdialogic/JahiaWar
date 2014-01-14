@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Social Sharing</name>
+  <depends>Default Jahia Templates</depends>
+  <rootFolder>socialsharing</rootFolder>
+  <version>1.4</version>
+  <build-timestamp>2013-08-23T11:34:48.000+10:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:13.631+11:00</deployment-timestamp>
+  <package name="socialsharing-1.4.war" path="WEB-INF\var\shared_modules\socialsharing-1.4.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\socialsharing\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\socialsharing\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\socialsharing\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\socialsharing\META-INF\definitions.cnd" />
+    <file source="WEB-INF\" destination="modules\socialsharing\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\socialsharing\WEB-INF\classes" />
+    <file source="css\" destination="modules\socialsharing\css" />
+    <file source="css\socialsharing.css" destination="modules\socialsharing\css\socialsharing.css" />
+    <file source="icons\" destination="modules\socialsharing\icons" />
+    <file source="icons\jnt_socialsharing.png" destination="modules\socialsharing\icons\jnt_socialsharing.png" />
+    <file source="icons\jnt_socialsharing_large.png" destination="modules\socialsharing\icons\jnt_socialsharing_large.png" />
+    <file source="images\" destination="modules\socialsharing\images" />
+    <file source="images\bebo_16.png" destination="modules\socialsharing\images\bebo_16.png" />
+    <file source="images\bebo_32.png" destination="modules\socialsharing\images\bebo_32.png" />
+    <file source="images\bitly_16.png" destination="modules\socialsharing\images\bitly_16.png" />
+    <file source="images\bitly_32.png" destination="modules\socialsharing\images\bitly_32.png" />
+    <file source="images\delicious_16.png" destination="modules\socialsharing\images\delicious_16.png" />
+    <file source="images\delicious_32.png" destination="modules\socialsharing\images\delicious_32.png" />
+    <file source="images\digg_16.png" destination="modules\socialsharing\images\digg_16.png" />
+    <file source="images\digg_32.png" destination="modules\socialsharing\images\digg_32.png" />
+    <file source="images\dzone_16.png" destination="modules\socialsharing\images\dzone_16.png" />
+    <file source="images\dzone_32.png" destination="modules\socialsharing\images\dzone_32.png" />
+    <file source="images\email_16.png" destination="modules\socialsharing\images\email_16.png" />
+    <file source="images\email_32.png" destination="modules\socialsharing\images\email_32.png" />
+    <file source="images\evernote_16.png" destination="modules\socialsharing\images\evernote_16.png" />
+    <file source="images\evernote_32.png" destination="modules\socialsharing\images\evernote_32.png" />
+    <file source="images\facebook_16.png" destination="modules\socialsharing\images\facebook_16.png" />
+    <file source="images\facebook_32.png" destination="modules\socialsharing\images\facebook_32.png" />
+    <file source="images\friendfeed_16.png" destination="modules\socialsharing\images\friendfeed_16.png" />
+    <file source="images\friendfeed_32.png" destination="modules\socialsharing\images\friendfeed_32.png" />
+    <file source="images\google_16.png" destination="modules\socialsharing\images\google_16.png" />
+    <file source="images\google_32.png" destination="modules\socialsharing\images\google_32.png" />
+    <file source="images\linkedin_16.png" destination="modules\socialsharing\images\linkedin_16.png" />
+    <file source="images\linkedin_32.png" destination="modules\socialsharing\images\linkedin_32.png" />
+    <file source="images\live_16.png" destination="modules\socialsharing\images\live_16.png" />
+    <file source="images\live_32.png" destination="modules\socialsharing\images\live_32.png" />
+    <file source="images\myspace_16.png" destination="modules\socialsharing\images\myspace_16.png" />
+    <file source="images\myspace_32.png" destination="modules\socialsharing\images\myspace_32.png" />
+    <file source="images\netvibes_16.png" destination="modules\socialsharing\images\netvibes_16.png" />
+    <file source="images\netvibes_32.png" destination="modules\socialsharing\images\netvibes_32.png" />
+    <file source="images\ping_16.png" destination="modules\socialsharing\images\ping_16.png" />
+    <file source="images\ping_32.png" destination="modules\socialsharing\images\ping_32.png" />
+    <file source="images\reddit_16.png" destination="modules\socialsharing\images\reddit_16.png" />
+    <file source="images\reddit_32.png" destination="modules\socialsharing\images\reddit_32.png" />
+    <file source="images\scoopeo_16.png" destination="modules\socialsharing\images\scoopeo_16.png" />
+    <file source="images\scoopeo_32.png" destination="modules\socialsharing\images\scoopeo_32.png" />
+    <file source="images\slashdot_16.png" destination="modules\socialsharing\images\slashdot_16.png" />
+    <file source="images\slashdot_32.png" destination="modules\socialsharing\images\slashdot_32.png" />
+    <file source="images\stumbleupon_16.png" destination="modules\socialsharing\images\stumbleupon_16.png" />
+    <file source="images\stumbleupon_32.png" destination="modules\socialsharing\images\stumbleupon_32.png" />
+    <file source="images\technorati_16.png" destination="modules\socialsharing\images\technorati_16.png" />
+    <file source="images\technorati_32.png" destination="modules\socialsharing\images\technorati_32.png" />
+    <file source="images\twitter2_16.png" destination="modules\socialsharing\images\twitter2_16.png" />
+    <file source="images\twitter_16.png" destination="modules\socialsharing\images\twitter_16.png" />
+    <file source="images\twitter_32.png" destination="modules\socialsharing\images\twitter_32.png" />
+    <file source="images\yahoo_16.png" destination="modules\socialsharing\images\yahoo_16.png" />
+    <file source="images\yahoo_32.png" destination="modules\socialsharing\images\yahoo_32.png" />
+    <file source="images\yahoobuzz_16.png" destination="modules\socialsharing\images\yahoobuzz_16.png" />
+    <file source="images\yahoobuzz_32.png" destination="modules\socialsharing\images\yahoobuzz_32.png" />
+    <file source="jnt_socialsharing\" destination="modules\socialsharing\jnt_socialsharing" />
+    <file source="jnt_socialsharing\html\" destination="modules\socialsharing\jnt_socialsharing\html" />
+    <file source="jnt_socialsharing\html\socialsharing.jsp" destination="modules\socialsharing\jnt_socialsharing\html\socialsharing.jsp" />
+    <file source="jnt_socialsharing\html\socialsharing.small.jsp" destination="modules\socialsharing\jnt_socialsharing\html\socialsharing.small.jsp" />
+    <file source="resources\" destination="modules\socialsharing\resources" />
+    <file source="resources\JahiaSocialSharing.properties" destination="modules\socialsharing\resources\JahiaSocialSharing.properties" />
+    <file source="resources\JahiaSocialSharing_en.properties" destination="modules\socialsharing\resources\JahiaSocialSharing_en.properties" />
+    <file source="resources\JahiaSocialSharing_fr.properties" destination="modules\socialsharing\resources\JahiaSocialSharing_fr.properties" />
+  </deployed>
+</module>
+

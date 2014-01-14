@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Video Thumbnails</name>
+  <rootFolder>video-thumbnails</rootFolder>
+  <version>1.0</version>
+  <build-timestamp>2012-10-10T07:48:02.000+11:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:15.856+11:00</deployment-timestamp>
+  <package name="video-thumbnails-1.0.war" path="WEB-INF\var\shared_modules\video-thumbnails-1.0.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\video-thumbnails\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\video-thumbnails\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\video-thumbnails\META-INF\MANIFEST.MF" />
+    <file source="META-INF\rules.drl" destination="modules\video-thumbnails\META-INF\rules.drl" />
+    <file source="META-INF\rules.dsl" destination="modules\video-thumbnails\META-INF\rules.dsl" />
+    <file source="META-INF\spring\" destination="modules\video-thumbnails\META-INF\spring" />
+    <file source="META-INF\spring\mod-video-thumbnails.xml" destination="modules\video-thumbnails\META-INF\spring\mod-video-thumbnails.xml" />
+    <file source="WEB-INF\" destination="modules\video-thumbnails\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\video-thumbnails\WEB-INF\classes" />
+    <file source="WEB-INF\lib\" destination="modules\video-thumbnails\WEB-INF\lib" />
+    <file source="WEB-INF\lib\commons-exec-1.1.jar" destination="WEB-INF\lib\commons-exec-1.1.jar" />
+    <file source="WEB-INF\lib\jahia-document-management-api-1.0.jar" destination="WEB-INF\lib\jahia-document-management-api-1.0.jar" />
+    <file source="WEB-INF\lib\video-thumbnails-1.0.jar" destination="WEB-INF\lib\video-thumbnails-1.0.jar" />
+  </deployed>
+</module>
+

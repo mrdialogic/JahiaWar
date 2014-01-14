@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Document Viewer</name>
+  <depends>assets</depends>
+  <rootFolder>document-viewer</rootFolder>
+  <version>1.1</version>
+  <build-timestamp>2012-12-18T12:39:00.000+11:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:04.915+11:00</deployment-timestamp>
+  <package name="document-viewer-1.1.war" path="WEB-INF\var\shared_modules\document-viewer-1.1.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\document-viewer\META-INF" />
+    <file source="META-INF\FlexPaper.LICENSE.txt" destination="modules\document-viewer\META-INF\FlexPaper.LICENSE.txt" />
+    <file source="META-INF\LICENSE.txt" destination="modules\document-viewer\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\document-viewer\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\document-viewer\META-INF\definitions.cnd" />
+    <file source="META-INF\rules.drl" destination="modules\document-viewer\META-INF\rules.drl" />
+    <file source="META-INF\rules.dsl" destination="modules\document-viewer\META-INF\rules.dsl" />
+    <file source="META-INF\spring\" destination="modules\document-viewer\META-INF\spring" />
+    <file source="META-INF\spring\mod-doc-viewer.xml" destination="modules\document-viewer\META-INF\spring\mod-doc-viewer.xml" />
+    <file source="WEB-INF\" destination="modules\document-viewer\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\document-viewer\WEB-INF\classes" />
+    <file source="WEB-INF\lib\" destination="modules\document-viewer\WEB-INF\lib" />
+    <file source="WEB-INF\lib\commons-exec-1.1.jar" destination="WEB-INF\lib\commons-exec-1.1.jar" />
+    <file source="WEB-INF\lib\document-viewer-1.1.jar" destination="WEB-INF\lib\document-viewer-1.1.jar" />
+    <file source="WEB-INF\lib\jahia-document-management-api-1.0.jar" destination="WEB-INF\lib\jahia-document-management-api-1.0.jar" />
+    <file source="icons\" destination="modules\document-viewer\icons" />
+    <file source="icons\jnt_documentPreview.png" destination="modules\document-viewer\icons\jnt_documentPreview.png" />
+    <file source="icons\jnt_documentPreview_large.png" destination="modules\document-viewer\icons\jnt_documentPreview_large.png" />
+    <file source="javascript\" destination="modules\document-viewer\javascript" />
+    <file source="javascript\flexpaper\" destination="modules\document-viewer\javascript\flexpaper" />
+    <file source="javascript\flexpaper\FlexPaperViewer.swf" destination="modules\document-viewer\javascript\flexpaper\FlexPaperViewer.swf" />
+    <file source="javascript\flexpaper\flexpaper_flash.js" destination="modules\document-viewer\javascript\flexpaper\flexpaper_flash.js" />
+    <file source="javascript\flexpaper\flexpaper_flash.min.js" destination="modules\document-viewer\javascript\flexpaper\flexpaper_flash.min.js" />
+    <file source="javascript\flexpaper\flexpaper_flash_debug.js" destination="modules\document-viewer\javascript\flexpaper\flexpaper_flash_debug.js" />
+    <file source="javascript\jahia.swfview.js" destination="modules\document-viewer\javascript\jahia.swfview.js" />
+    <file source="javascript\jahia.swfview.min.js" destination="modules\document-viewer\javascript\jahia.swfview.min.js" />
+    <file source="jnt_documentPreview\" destination="modules\document-viewer\jnt_documentPreview" />
+    <file source="jnt_documentPreview\html\" destination="modules\document-viewer\jnt_documentPreview\html" />
+    <file source="jnt_documentPreview\html\documentPreview.jsp" destination="modules\document-viewer\jnt_documentPreview\html\documentPreview.jsp" />
+    <file source="jnt_file\" destination="modules\document-viewer\jnt_file" />
+    <file source="jnt_file\html\" destination="modules\document-viewer\jnt_file\html" />
+    <file source="jnt_file\html\file.swfView.jsp" destination="modules\document-viewer\jnt_file\html\file.swfView.jsp" />
+    <file source="resources\" destination="modules\document-viewer\resources" />
+    <file source="resources\JahiaDocumentViewer.properties" destination="modules\document-viewer\resources\JahiaDocumentViewer.properties" />
+    <file source="resources\JahiaDocumentViewer_de.properties" destination="modules\document-viewer\resources\JahiaDocumentViewer_de.properties" />
+    <file source="resources\JahiaDocumentViewer_en.properties" destination="modules\document-viewer\resources\JahiaDocumentViewer_en.properties" />
+  </deployed>
+</module>
+

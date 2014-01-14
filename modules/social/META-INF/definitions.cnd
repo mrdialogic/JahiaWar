@@ -1,0 +1,35 @@
+<nt = 'http://www.jcp.org/jcr/nt/1.0'>
+<mix = 'http://www.jcp.org/jcr/mix/1.0'>
+<jcr = 'http://www.jcp.org/jcr/1.0'>
+<j = 'http://www.jahia.org/jahia/1.0'>
+<jnt = 'http://www.jahia.org/jahia/nt/1.0'>
+<jmix = 'http://www.jahia.org/jahia/mix/1.0'>
+
+[jnt:socialConnection] > jnt:content, jmix:droppableContent, jmix:autoPublish, jmix:studioOnly
+ - j:connectedFrom (weakreference) < jnt:user
+ - j:connectedTo (weakreference) < jnt:user
+ - j:type (string)
+
+[jnt:activitiesList] > nt:base, jmix:nodenameInfo, jmix:observable, jmix:basemetadata
+ + * (jnt:activitiesList)
+ + * (jnt:baseSocialActivity)
+
+[jnt:baseSocialActivity] > nt:base, jmix:nodenameInfo, jmix:observable, jmix:basemetadata
+ - j:activityType (string)
+ - j:targetNode (string) nofulltext
+
+[jnt:socialActivity] > jnt:baseSocialActivity
+ - j:message (string) nofulltext
+
+[jnt:socialMessage] > jnt:content, jmix:droppableContent, jmix:autoPublish, jmix:studioOnly
+ - j:from (weakreference) < jnt:user
+ - j:to (weakreference) < jnt:user
+ - j:subject (string)
+ - j:body (string)
+ - j:read (boolean)=false
+
+[jnt:socialActivitiesDisplay] > jnt:content, jmix:list, jmix:bindedComponent, jmix:userProfileComponents, jmix:studioOnly
+ - j:activitiesLimit (long)
+ - j:activityTypes (string, choicelist[activityTypes,sort]) multiple
+
+[jnt:addActivityForm] > jnt:content, jmix:bindedComponent, jmix:userProfileComponents, jmix:studioOnly

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Blog</name>
+  <depends>default,grid,calendar,facets,skins,default-skins,channels</depends>
+  <rootFolder>blog</rootFolder>
+  <version>1.5</version>
+  <build-timestamp>2013-07-15T15:08:14.000+10:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:01.784+11:00</deployment-timestamp>
+  <package name="blog-1.5.war" path="WEB-INF\var\shared_modules\blog-1.5.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\blog\META-INF" />
+    <file source="META-INF\.gitignore" destination="modules\blog\META-INF\.gitignore" />
+    <file source="META-INF\LICENSE.txt" destination="modules\blog\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\blog\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\blog\META-INF\definitions.cnd" />
+    <file source="META-INF\import.zip" destination="modules\blog\META-INF\import.zip" />
+    <file source="META-INF\spring\" destination="modules\blog\META-INF\spring" />
+    <file source="META-INF\spring\mod-blog.xml" destination="modules\blog\META-INF\spring\mod-blog.xml" />
+    <file source="WEB-INF\" destination="modules\blog\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\blog\WEB-INF\classes" />
+    <file source="WEB-INF\lib\" destination="modules\blog\WEB-INF\lib" />
+    <file source="WEB-INF\lib\blog-1.5.jar" destination="WEB-INF\lib\blog-1.5.jar" />
+    <file source="css\" destination="modules\blog\css" />
+    <file source="css\blog.css" destination="modules\blog\css\blog.css" />
+    <file source="css\img\" destination="modules\blog\css\img" />
+    <file source="css\img\blog\" destination="modules\blog\css\img\blog" />
+    <file source="css\img\blog\addarticle.png" destination="modules\blog\css\img\blog\addarticle.png" />
+    <file source="css\img\blog\arrow.png" destination="modules\blog\css\img\blog\arrow.png" />
+    <file source="css\img\blog\bookmark.png" destination="modules\blog\css\img\blog\bookmark.png" />
+    <file source="css\img\blog\comment.png" destination="modules\blog\css\img\blog\comment.png" />
+    <file source="css\img\blog\date-bg.png" destination="modules\blog\css\img\blog\date-bg.png" />
+    <file source="css\img\blog\gradient-on.png" destination="modules\blog\css\img\blog\gradient-on.png" />
+    <file source="css\img\blog\gradient.png" destination="modules\blog\css\img\blog\gradient.png" />
+    <file source="css\img\blog\hr.png" destination="modules\blog\css\img\blog\hr.png" />
+    <file source="css\img\blog\post.png" destination="modules\blog\css\img\blog\post.png" />
+    <file source="css\img\blog\postdelete.png" destination="modules\blog\css\img\blog\postdelete.png" />
+    <file source="css\img\blog\postedit.png" destination="modules\blog\css\img\blog\postedit.png" />
+    <file source="css\img\blog\retro-link.png" destination="modules\blog\css\img\blog\retro-link.png" />
+    <file source="css\img\blog\rss.png" destination="modules\blog\css\img\blog\rss.png" />
+    <file source="css\img\blog\tag.png" destination="modules\blog\css\img\blog\tag.png" />
+    <file source="icons\" destination="modules\blog\icons" />
+    <file source="icons\jmix_blogContent.png" destination="modules\blog\icons\jmix_blogContent.png" />
+    <file source="icons\jmix_blogContent_large.png" destination="modules\blog\icons\jmix_blogContent_large.png" />
+    <file source="images\" destination="modules\blog\images" />
+    <file source="images\delete.png" destination="modules\blog\images\delete.png" />
+    <file source="images\jahia-apps-blog.png" destination="modules\blog\images\jahia-apps-blog.png" />
+    <file source="images\user.png" destination="modules\blog\images\user.png" />
+    <file source="jnt_blogEntryFormCreation\" destination="modules\blog\jnt_blogEntryFormCreation" />
+    <file source="jnt_blogEntryFormCreation\html\" destination="modules\blog\jnt_blogEntryFormCreation\html" />
+    <file source="jnt_blogEntryFormCreation\html\blogEntryFormCreation.jsp" destination="modules\blog\jnt_blogEntryFormCreation\html\blogEntryFormCreation.jsp" />
+    <file source="jnt_blogEntryFormCreation\html\blogEntryFormCreation.properties" destination="modules\blog\jnt_blogEntryFormCreation\html\blogEntryFormCreation.properties" />
+    <file source="jnt_blogEntryFormEdition\" destination="modules\blog\jnt_blogEntryFormEdition" />
+    <file source="jnt_blogEntryFormEdition\html\" destination="modules\blog\jnt_blogEntryFormEdition\html" />
+    <file source="jnt_blogEntryFormEdition\html\blogEntryFormEdition.jsp" destination="modules\blog\jnt_blogEntryFormEdition\html\blogEntryFormEdition.jsp" />
+    <file source="jnt_blogEntryFormEdition\html\blogEntryFormEdition.properties" destination="modules\blog\jnt_blogEntryFormEdition\html\blogEntryFormEdition.properties" />
+    <file source="jnt_blogPost\" destination="modules\blog\jnt_blogPost" />
+    <file source="jnt_blogPost\html\" destination="modules\blog\jnt_blogPost\html" />
+    <file source="jnt_blogPost\html\blogPost.blogList.jsp" destination="modules\blog\jnt_blogPost\html\blogPost.blogList.jsp" />
+    <file source="jnt_blogPost\html\blogPost.jsp" destination="modules\blog\jnt_blogPost\html\blogPost.jsp" />
+    <file source="jnt_blogPost\html\blogPost.short.jsp" destination="modules\blog\jnt_blogPost\html\blogPost.short.jsp" />
+    <file source="jnt_blogPost\rss\" destination="modules\blog\jnt_blogPost\rss" />
+    <file source="jnt_blogPost\rss\blogPost.jsp" destination="modules\blog\jnt_blogPost\rss\blogPost.jsp" />
+    <file source="jnt_latestBlogComment\" destination="modules\blog\jnt_latestBlogComment" />
+    <file source="jnt_latestBlogComment\html\" destination="modules\blog\jnt_latestBlogComment\html" />
+    <file source="jnt_latestBlogComment\html\latestBlogComment.hidden.load.jsp" destination="modules\blog\jnt_latestBlogComment\html\latestBlogComment.hidden.load.jsp" />
+    <file source="jnt_latestBlogComment\html\latestBlogComment.properties" destination="modules\blog\jnt_latestBlogComment\html\latestBlogComment.properties" />
+    <file source="jnt_latestBlogContent\" destination="modules\blog\jnt_latestBlogContent" />
+    <file source="jnt_latestBlogContent\html\" destination="modules\blog\jnt_latestBlogContent\html" />
+    <file source="jnt_latestBlogContent\html\latestBlogContent.hidden.load.jsp" destination="modules\blog\jnt_latestBlogContent\html\latestBlogContent.hidden.load.jsp" />
+    <file source="jnt_latestBlogContent\html\latestBlogContent.properties" destination="modules\blog\jnt_latestBlogContent\html\latestBlogContent.properties" />
+    <file source="jnt_latestBlog\" destination="modules\blog\jnt_latestBlog" />
+    <file source="jnt_latestBlog\html\" destination="modules\blog\jnt_latestBlog\html" />
+    <file source="jnt_latestBlog\html\latestBlog.hidden.load.jsp" destination="modules\blog\jnt_latestBlog\html\latestBlog.hidden.load.jsp" />
+    <file source="jnt_latestBlog\html\latestBlog.properties" destination="modules\blog\jnt_latestBlog\html\latestBlog.properties" />
+    <file source="jnt_pageTitle\" destination="modules\blog\jnt_pageTitle" />
+    <file source="jnt_pageTitle\html\" destination="modules\blog\jnt_pageTitle\html" />
+    <file source="jnt_pageTitle\html\pageTitle.blog.jsp" destination="modules\blog\jnt_pageTitle\html\pageTitle.blog.jsp" />
+    <file source="jnt_pageTitle\html\pageTitle.blog.properties" destination="modules\blog\jnt_pageTitle\html\pageTitle.blog.properties" />
+    <file source="jnt_page\" destination="modules\blog\jnt_page" />
+    <file source="jnt_page\html\" destination="modules\blog\jnt_page\html" />
+    <file source="jnt_page\html\page.blogEdit.jsp" destination="modules\blog\jnt_page\html\page.blogEdit.jsp" />
+    <file source="jnt_page\html\page.blogEdit.properties" destination="modules\blog\jnt_page\html\page.blogEdit.properties" />
+    <file source="jnt_page\html\page.blogList.jsp" destination="modules\blog\jnt_page\html\page.blogList.jsp" />
+    <file source="jnt_page\rss\" destination="modules\blog\jnt_page\rss" />
+    <file source="jnt_page\rss\page.blog.jsp" destination="modules\blog\jnt_page\rss\page.blog.jsp" />
+    <file source="jnt_post\" destination="modules\blog\jnt_post" />
+    <file source="jnt_post\html\" destination="modules\blog\jnt_post\html" />
+    <file source="jnt_post\html\post.blogList.jsp" destination="modules\blog\jnt_post\html\post.blogList.jsp" />
+    <file source="jnt_user\" destination="modules\blog\jnt_user" />
+    <file source="jnt_user\html\" destination="modules\blog\jnt_user\html" />
+    <file source="jnt_user\html\user.blog.jsp" destination="modules\blog\jnt_user\html\user.blog.jsp" />
+    <file source="resources\" destination="modules\blog\resources" />
+    <file source="resources\JahiaBlog.properties" destination="modules\blog\resources\JahiaBlog.properties" />
+    <file source="resources\JahiaBlog_de.properties" destination="modules\blog\resources\JahiaBlog_de.properties" />
+    <file source="resources\JahiaBlog_en.properties" destination="modules\blog\resources\JahiaBlog_en.properties" />
+    <file source="resources\JahiaBlog_fr.properties" destination="modules\blog\resources\JahiaBlog_fr.properties" />
+  </deployed>
+</module>
+

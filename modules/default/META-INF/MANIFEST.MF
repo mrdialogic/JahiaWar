@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Implementation-Title: Default Jahia Templates
+Implementation-Version: 6.6.2.0
+root-folder: default
+Built-By: bamboo
+Specification-Vendor: Jahia Solutions Group SA
+Created-By: Jahia
+Implementation-URL: http://www.jahia.com
+definitions: META-INF/definitions.cnd, META-INF/definitions-nav-menu.c
+ nd
+Implementation-Vendor: Jahia Solutions Group SA
+package-name: Default Jahia Templates
+module-type: system
+Implementation-Vendor-Id: org.jahia
+Build-Jdk: 1.6.0_26
+Specification-Title: Default Jahia Templates
+depends: assets
+Specification-Version: 6.6.2.0
+Archiver-Version: Plexus Archiver
+

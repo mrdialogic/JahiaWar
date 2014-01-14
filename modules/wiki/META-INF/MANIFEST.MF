@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: bamboo
+Build-Jdk: 1.6.0_26
+Implementation-Title: Jahia Wiki
+Implementation-URL: http://www.jahia.com
+Implementation-Vendor: Jahia Solutions Group SA
+Implementation-Vendor-Id: org.jahia
+Implementation-Version: 1.6
+Specification-Title: Jahia Wiki
+Specification-Vendor: Jahia Solutions Group SA
+Specification-Version: 1.6
+depends: default,contentRetrieval,tabularList,grid,search,skins,defaul
+ t-skins,channels
+module-type: jahiapp
+package-name: Jahia Wiki
+root-folder: wiki
+

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Default Skins</name>
+  <depends>skins</depends>
+  <rootFolder>default-skins</rootFolder>
+  <version>6.6.2.0</version>
+  <build-timestamp>2013-08-27T19:36:02.000+10:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:04.376+11:00</deployment-timestamp>
+  <package name="default-skins-6.6.2.0.war" path="WEB-INF\var\shared_modules\default-skins-6.6.2.0.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\default-skins\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\default-skins\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\default-skins\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\default-skins\META-INF\definitions.cnd" />
+    <file source="WEB-INF\" destination="modules\default-skins\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\default-skins\WEB-INF\classes" />
+    <file source="css\" destination="modules\default-skins\css" />
+    <file source="css\box.css" destination="modules\default-skins\css\box.css" />
+    <file source="css\box2-ie6.css" destination="modules\default-skins\css\box2-ie6.css" />
+    <file source="css\box2.css" destination="modules\default-skins\css\box2.css" />
+    <file source="css\box3-ie6.css" destination="modules\default-skins\css\box3-ie6.css" />
+    <file source="css\box3.css" destination="modules\default-skins\css\box3.css" />
+    <file source="css\box4-ie6.css" destination="modules\default-skins\css\box4-ie6.css" />
+    <file source="css\box4.css" destination="modules\default-skins\css\box4.css" />
+    <file source="css\box5.css" destination="modules\default-skins\css\box5.css" />
+    <file source="css\box6.css" destination="modules\default-skins\css\box6.css" />
+    <file source="css\box7.css" destination="modules\default-skins\css\box7.css" />
+    <file source="css\box8.css" destination="modules\default-skins\css\box8.css" />
+    <file source="css\box9.css" destination="modules\default-skins\css\box9.css" />
+    <file source="css\img\" destination="modules\default-skins\css\img" />
+    <file source="css\img\box-bg.png" destination="modules\default-skins\css\img\box-bg.png" />
+    <file source="css\img\box-style1-bg.png" destination="modules\default-skins\css\img\box-style1-bg.png" />
+    <file source="css\img\box2-bottomleft.png" destination="modules\default-skins\css\img\box2-bottomleft.png" />
+    <file source="css\img\box2-bottomright.png" destination="modules\default-skins\css\img\box2-bottomright.png" />
+    <file source="css\img\box2-header.png" destination="modules\default-skins\css\img\box2-header.png" />
+    <file source="css\img\box2-more.png" destination="modules\default-skins\css\img\box2-more.png" />
+    <file source="css\img\box2-style1-header.png" destination="modules\default-skins\css\img\box2-style1-header.png" />
+    <file source="css\img\box2-topleft.png" destination="modules\default-skins\css\img\box2-topleft.png" />
+    <file source="css\img\box2-topright.png" destination="modules\default-skins\css\img\box2-topright.png" />
+    <file source="css\img\box3-bottomleft.png" destination="modules\default-skins\css\img\box3-bottomleft.png" />
+    <file source="css\img\box3-bottomright.png" destination="modules\default-skins\css\img\box3-bottomright.png" />
+    <file source="css\img\box3-topleft.png" destination="modules\default-skins\css\img\box3-topleft.png" />
+    <file source="css\img\box3-topright.png" destination="modules\default-skins\css\img\box3-topright.png" />
+    <file source="css\img\box4-bottomleft.png" destination="modules\default-skins\css\img\box4-bottomleft.png" />
+    <file source="css\img\box4-bottomright.png" destination="modules\default-skins\css\img\box4-bottomright.png" />
+    <file source="css\img\box4-header.png" destination="modules\default-skins\css\img\box4-header.png" />
+    <file source="css\img\box4-style1-header.png" destination="modules\default-skins\css\img\box4-style1-header.png" />
+    <file source="css\img\box4-topleft.png" destination="modules\default-skins\css\img\box4-topleft.png" />
+    <file source="css\img\box4-topright.png" destination="modules\default-skins\css\img\box4-topright.png" />
+    <file source="css\img\box5-h4titleblack.png" destination="modules\default-skins\css\img\box5-h4titleblack.png" />
+    <file source="css\img\box5-h4titleblue.png" destination="modules\default-skins\css\img\box5-h4titleblue.png" />
+    <file source="css\img\box5-h4titlegreen.png" destination="modules\default-skins\css\img\box5-h4titlegreen.png" />
+    <file source="css\img\box5-h4titlegrey.png" destination="modules\default-skins\css\img\box5-h4titlegrey.png" />
+    <file source="css\img\box5-h4titlemushroom.png" destination="modules\default-skins\css\img\box5-h4titlemushroom.png" />
+    <file source="css\img\box5-h4titleorange.png" destination="modules\default-skins\css\img\box5-h4titleorange.png" />
+    <file source="css\img\box5-h4titlepurple.png" destination="modules\default-skins\css\img\box5-h4titlepurple.png" />
+    <file source="css\img\box5-h4titlered.png" destination="modules\default-skins\css\img\box5-h4titlered.png" />
+    <file source="css\img\box5-h4titleyellow.png" destination="modules\default-skins\css\img\box5-h4titleyellow.png" />
+    <file source="css\img\box8-content.png" destination="modules\default-skins\css\img\box8-content.png" />
+    <file source="css\img\box8-h4titleblack.png" destination="modules\default-skins\css\img\box8-h4titleblack.png" />
+    <file source="css\img\box8-h4titleblue.png" destination="modules\default-skins\css\img\box8-h4titleblue.png" />
+    <file source="css\img\box8-h4titlegreen.png" destination="modules\default-skins\css\img\box8-h4titlegreen.png" />
+    <file source="css\img\box8-h4titlegrey.png" destination="modules\default-skins\css\img\box8-h4titlegrey.png" />
+    <file source="css\img\box8-h4titlemushroom.png" destination="modules\default-skins\css\img\box8-h4titlemushroom.png" />
+    <file source="css\img\box8-h4titleorange.png" destination="modules\default-skins\css\img\box8-h4titleorange.png" />
+    <file source="css\img\box8-h4titlepurple.png" destination="modules\default-skins\css\img\box8-h4titlepurple.png" />
+    <file source="css\img\box8-h4titlered.png" destination="modules\default-skins\css\img\box8-h4titlered.png" />
+    <file source="css\img\box8-h4titleyellow.png" destination="modules\default-skins\css\img\box8-h4titleyellow.png" />
+    <file source="css\img\box9-bgblack.png" destination="modules\default-skins\css\img\box9-bgblack.png" />
+    <file source="css\img\box9-bgblue.png" destination="modules\default-skins\css\img\box9-bgblue.png" />
+    <file source="css\img\box9-bggreen.png" destination="modules\default-skins\css\img\box9-bggreen.png" />
+    <file source="css\img\box9-bggrey.png" destination="modules\default-skins\css\img\box9-bggrey.png" />
+    <file source="css\img\box9-bgmushroom.png" destination="modules\default-skins\css\img\box9-bgmushroom.png" />
+    <file source="css\img\box9-bgorange.png" destination="modules\default-skins\css\img\box9-bgorange.png" />
+    <file source="css\img\box9-bgpurple.png" destination="modules\default-skins\css\img\box9-bgpurple.png" />
+    <file source="css\img\box9-bgred.png" destination="modules\default-skins\css\img\box9-bgred.png" />
+    <file source="css\img\box9-bgyellow.png" destination="modules\default-skins\css\img\box9-bgyellow.png" />
+    <file source="img\" destination="modules\default-skins\img" />
+    <file source="img\skins.box.png" destination="modules\default-skins\img\skins.box.png" />
+    <file source="img\skins.box2.png" destination="modules\default-skins\img\skins.box2.png" />
+    <file source="img\skins.box2style1.png" destination="modules\default-skins\img\skins.box2style1.png" />
+    <file source="img\skins.box3.png" destination="modules\default-skins\img\skins.box3.png" />
+    <file source="img\skins.box3style1.png" destination="modules\default-skins\img\skins.box3style1.png" />
+    <file source="img\skins.box4.png" destination="modules\default-skins\img\skins.box4.png" />
+    <file source="img\skins.box4style1.png" destination="modules\default-skins\img\skins.box4style1.png" />
+    <file source="img\skins.box5.png" destination="modules\default-skins\img\skins.box5.png" />
+    <file source="img\skins.box6.png" destination="modules\default-skins\img\skins.box6.png" />
+    <file source="img\skins.box7.png" destination="modules\default-skins\img\skins.box7.png" />
+    <file source="img\skins.box8.png" destination="modules\default-skins\img\skins.box8.png" />
+    <file source="img\skins.box9.png" destination="modules\default-skins\img\skins.box9.png" />
+    <file source="img\skins.boxstyle1.png" destination="modules\default-skins\img\skins.boxstyle1.png" />
+    <file source="jmix_skinnable\" destination="modules\default-skins\jmix_skinnable" />
+    <file source="jmix_skinnable\html\" destination="modules\default-skins\jmix_skinnable\html" />
+    <file source="jmix_skinnable\html\skinnable.skins.box.jsp" destination="modules\default-skins\jmix_skinnable\html\skinnable.skins.box.jsp" />
+    <file source="jmix_skinnable\html\skinnable.skins.box.properties" destination="modules\default-skins\jmix_skinnable\html\skinnable.skins.box.properties" />
+    <file source="jmix_skinnable\html\skinnable.skins.box2.jsp" destination="modules\default-skins\jmix_skinnable\html\skinnable.skins.box2.jsp" />
+    <file source="jmix_skinnable\html\skinnable.skins.box2.properties" destination="modules\default-skins\jmix_skinnable\html\skinnable.skins.box2.properties" />
+    <file source="jmix_skinnable\html\skinnable.skins.box2style1.jsp" destination="modules\default-skins\jmix_skinnable\html\skinnable.skins.box2style1.jsp" />
+    <file source="jmix_skinnable\html\skinnable.skins.box2style1.properties" destination="modules\default-skins\jmix_skinnable\html\skinnable.skins.box2style1.properties" />
+    <file source="jmix_skinnable\html\skinnable.skins.box3.jsp" destination="modules\default-skins\jmix_skinnable\html\skinnable.skins.box3.jsp" />
+    <file source="jmix_skinnable\html\skinnable.skins.box3.properties" destination="modules\default-skins\jmix_skinnable\html\skinnable.skins.box3.properties" />
+    <file source="jmix_skinnable\html\skinnable.skins.box3style1.jsp" destination="modules\default-skins\jmix_skinnable\html\skinnable.skins.box3style1.jsp" />
+    <file source="jmix_skinnable\html\skinnable.skins.box3style1.properties" destination="modules\default-skins\jmix_skinnable\html\skinnable.skins.box3style1.properties" />
+    <file source="jmix_skinnable\html\skinnable.skins.box4.jsp" destination="modules\default-skins\jmix_skinnable\html\skinnable.skins.box4.jsp" />
+    <file source="jmix_skinnable\html\skinnable.skins.box4.properties" destination="modules\default-skins\jmix_skinnable\html\skinnable.skins.box4.properties" />
+    <file source="jmix_skinnable\html\skinnable.skins.box4style1.jsp" destination="modules\default-skins\jmix_skinnable\html\skinnable.skins.box4style1.jsp" />
+    <file source="jmix_skinnable\html\skinnable.skins.box4style1.properties" destination="modules\default-skins\jmix_skinnable\html\skinnable.skins.box4style1.properties" />
+    <file source="jmix_skinnable\html\skinnable.skins.box5.jsp" destination="modules\default-skins\jmix_skinnable\html\skinnable.skins.box5.jsp" />
+    <file source="jmix_skinnable\html\skinnable.skins.box5.properties" destination="modules\default-skins\jmix_skinnable\html\skinnable.skins.box5.properties" />
+    <file source="jmix_skinnable\html\skinnable.skins.box6.jsp" destination="modules\default-skins\jmix_skinnable\html\skinnable.skins.box6.jsp" />
+    <file source="jmix_skinnable\html\skinnable.skins.box6.properties" destination="modules\default-skins\jmix_skinnable\html\skinnable.skins.box6.properties" />
+    <file source="jmix_skinnable\html\skinnable.skins.box7.jsp" destination="modules\default-skins\jmix_skinnable\html\skinnable.skins.box7.jsp" />
+    <file source="jmix_skinnable\html\skinnable.skins.box7.properties" destination="modules\default-skins\jmix_skinnable\html\skinnable.skins.box7.properties" />
+    <file source="jmix_skinnable\html\skinnable.skins.box8.jsp" destination="modules\default-skins\jmix_skinnable\html\skinnable.skins.box8.jsp" />
+    <file source="jmix_skinnable\html\skinnable.skins.box8.properties" destination="modules\default-skins\jmix_skinnable\html\skinnable.skins.box8.properties" />
+    <file source="jmix_skinnable\html\skinnable.skins.box9.jsp" destination="modules\default-skins\jmix_skinnable\html\skinnable.skins.box9.jsp" />
+    <file source="jmix_skinnable\html\skinnable.skins.box9.properties" destination="modules\default-skins\jmix_skinnable\html\skinnable.skins.box9.properties" />
+    <file source="jmix_skinnable\html\skinnable.skins.boxstyle1.jsp" destination="modules\default-skins\jmix_skinnable\html\skinnable.skins.boxstyle1.jsp" />
+    <file source="jmix_skinnable\html\skinnable.skins.boxstyle1.properties" destination="modules\default-skins\jmix_skinnable\html\skinnable.skins.boxstyle1.properties" />
+    <file source="resources\" destination="modules\default-skins\resources" />
+    <file source="resources\JahiaDefaultSkins.properties" destination="modules\default-skins\resources\JahiaDefaultSkins.properties" />
+    <file source="resources\JahiaDefaultSkins_en.properties" destination="modules\default-skins\resources\JahiaDefaultSkins_en.properties" />
+    <file source="resources\JahiaDefaultSkins_fr.properties" destination="modules\default-skins\resources\JahiaDefaultSkins_fr.properties" />
+  </deployed>
+</module>
+

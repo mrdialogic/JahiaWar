@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Web Templates Space</name>
+  <depends>default,grid,calendar,event,facets,news,search,sitemap,skins,default-skins,blog,rating,profile</depends>
+  <rootFolder>templates-web-space</rootFolder>
+  <version>1.4</version>
+  <build-timestamp>2013-03-20T11:50:48.000+11:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:15.281+11:00</deployment-timestamp>
+  <package name="templates-web-space-1.4.war" path="WEB-INF\var\shared_modules\templates-web-space-1.4.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\templates-web-space\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\templates-web-space\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\templates-web-space\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\templates-web-space\META-INF\definitions.cnd" />
+    <file source="META-INF\import.zip" destination="modules\templates-web-space\META-INF\import.zip" />
+    <file source="WEB-INF\" destination="modules\templates-web-space\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\templates-web-space\WEB-INF\classes" />
+    <file source="css\" destination="modules\templates-web-space\css" />
+    <file source="css\01web.css" destination="modules\templates-web-space\css\01web.css" />
+    <file source="css\02mod.css" destination="modules\templates-web-space\css\02mod.css" />
+    <file source="css\acmeskins.css" destination="modules\templates-web-space\css\acmeskins.css" />
+    <file source="css\acmeteaser.css" destination="modules\templates-web-space\css\acmeteaser.css" />
+    <file source="css\edit.css" destination="modules\templates-web-space\css\edit.css" />
+    <file source="css\ie6.css" destination="modules\templates-web-space\css\ie6.css" />
+    <file source="css\img\" destination="modules\templates-web-space\css\img" />
+    <file source="css\img\1px-white.png" destination="modules\templates-web-space\css\img\1px-white.png" />
+    <file source="css\img\acmebox1-bg.png" destination="modules\templates-web-space\css\img\acmebox1-bg.png" />
+    <file source="css\img\acmebox2-shadow.png" destination="modules\templates-web-space\css\img\acmebox2-shadow.png" />
+    <file source="css\img\arrow-down-hover.png" destination="modules\templates-web-space\css\img\arrow-down-hover.png" />
+    <file source="css\img\arrow-down.png" destination="modules\templates-web-space\css\img\arrow-down.png" />
+    <file source="css\img\arrow-white.png" destination="modules\templates-web-space\css\img\arrow-white.png" />
+    <file source="css\img\arrow.png" destination="modules\templates-web-space\css\img\arrow.png" />
+    <file source="css\img\atopcomments.png" destination="modules\templates-web-space\css\img\atopcomments.png" />
+    <file source="css\img\blockquote.png" destination="modules\templates-web-space\css\img\blockquote.png" />
+    <file source="css\img\breadcrumb-separator.png" destination="modules\templates-web-space\css\img\breadcrumb-separator.png" />
+    <file source="css\img\button-left.png" destination="modules\templates-web-space\css\img\button-left.png" />
+    <file source="css\img\button-right.png" destination="modules\templates-web-space\css\img\button-right.png" />
+    <file source="css\img\contactformlegend.png" destination="modules\templates-web-space\css\img\contactformlegend.png" />
+    <file source="css\img\content-bg.png" destination="modules\templates-web-space\css\img\content-bg.png" />
+    <file source="css\img\error-messages.png" destination="modules\templates-web-space\css\img\error-messages.png" />
+    <file source="css\img\eventstxtdate.png" destination="modules\templates-web-space\css\img\eventstxtdate.png" />
+    <file source="css\img\footer-bg.png" destination="modules\templates-web-space\css\img\footer-bg.png" />
+    <file source="css\img\headerBottom-bg.png" destination="modules\templates-web-space\css\img\headerBottom-bg.png" />
+    <file source="css\img\input_bg.png" destination="modules\templates-web-space\css\img\input_bg.png" />
+    <file source="css\img\more.png" destination="modules\templates-web-space\css\img\more.png" />
+    <file source="css\img\navbar-bg.png" destination="modules\templates-web-space\css\img\navbar-bg.png" />
+    <file source="css\img\noarrow-down-hover.png" destination="modules\templates-web-space\css\img\noarrow-down-hover.png" />
+    <file source="css\img\page-header-img.jpg" destination="modules\templates-web-space\css\img\page-header-img.jpg" />
+    <file source="css\img\returnlink.png" destination="modules\templates-web-space\css\img\returnlink.png" />
+    <file source="css\navigation.css" destination="modules\templates-web-space\css\navigation.css" />
+    <file source="css\navigationN2-2.css" destination="modules\templates-web-space\css\navigationN2-2.css" />
+    <file source="css\print.css" destination="modules\templates-web-space\css\print.css" />
+    <file source="css\responsive.css" destination="modules\templates-web-space\css\responsive.css" />
+    <file source="img\" destination="modules\templates-web-space\img" />
+    <file source="img\skins.acmebox1.png" destination="modules\templates-web-space\img\skins.acmebox1.png" />
+    <file source="img\skins.acmebox2.png" destination="modules\templates-web-space\img\skins.acmebox2.png" />
+    <file source="img\skins.acmebox3.png" destination="modules\templates-web-space\img\skins.acmebox3.png" />
+    <file source="jmix_skinnable\" destination="modules\templates-web-space\jmix_skinnable" />
+    <file source="jmix_skinnable\html\" destination="modules\templates-web-space\jmix_skinnable\html" />
+    <file source="jmix_skinnable\html\skinnable.skins.acmebox1.jsp" destination="modules\templates-web-space\jmix_skinnable\html\skinnable.skins.acmebox1.jsp" />
+    <file source="jmix_skinnable\html\skinnable.skins.acmebox1.properties" destination="modules\templates-web-space\jmix_skinnable\html\skinnable.skins.acmebox1.properties" />
+    <file source="jmix_skinnable\html\skinnable.skins.acmebox2.jsp" destination="modules\templates-web-space\jmix_skinnable\html\skinnable.skins.acmebox2.jsp" />
+    <file source="jmix_skinnable\html\skinnable.skins.acmebox2.properties" destination="modules\templates-web-space\jmix_skinnable\html\skinnable.skins.acmebox2.properties" />
+    <file source="jmix_skinnable\html\skinnable.skins.acmebox3.jsp" destination="modules\templates-web-space\jmix_skinnable\html\skinnable.skins.acmebox3.jsp" />
+    <file source="jmix_skinnable\html\skinnable.skins.acmebox3.properties" destination="modules\templates-web-space\jmix_skinnable\html\skinnable.skins.acmebox3.properties" />
+    <file source="jnt_navMenu\" destination="modules\templates-web-space\jnt_navMenu" />
+    <file source="jnt_navMenu\html-mobile\" destination="modules\templates-web-space\jnt_navMenu\html-mobile" />
+    <file source="jnt_navMenu\html-mobile\navMenu.groovy" destination="modules\templates-web-space\jnt_navMenu\html-mobile\navMenu.groovy" />
+    <file source="jnt_teaser\" destination="modules\templates-web-space\jnt_teaser" />
+    <file source="jnt_teaser\html\" destination="modules\templates-web-space\jnt_teaser\html" />
+    <file source="jnt_teaser\html\teaser.acmeteaser.jsp" destination="modules\templates-web-space\jnt_teaser\html\teaser.acmeteaser.jsp" />
+    <file source="jnt_template\" destination="modules\templates-web-space\jnt_template" />
+    <file source="jnt_template\html-ipad\" destination="modules\templates-web-space\jnt_template\html-ipad" />
+    <file source="jnt_template\html-ipad\template.templates-web-space.jsp" destination="modules\templates-web-space\jnt_template\html-ipad\template.templates-web-space.jsp" />
+    <file source="jnt_template\html-mobile\" destination="modules\templates-web-space\jnt_template\html-mobile" />
+    <file source="jnt_template\html-mobile\template.templates-web-space.jsp" destination="modules\templates-web-space\jnt_template\html-mobile\template.templates-web-space.jsp" />
+    <file source="jnt_template\html\" destination="modules\templates-web-space\jnt_template\html" />
+    <file source="jnt_template\html\template.templates-web-space.jsp" destination="modules\templates-web-space\jnt_template\html\template.templates-web-space.jsp" />
+    <file source="nt_base\" destination="modules\templates-web-space\nt_base" />
+    <file source="nt_base\html\" destination="modules\templates-web-space\nt_base\html" />
+    <file source="nt_base\html\base.commentLink.jsp" destination="modules\templates-web-space\nt_base\html\base.commentLink.jsp" />
+    <file source="resources\" destination="modules\templates-web-space\resources" />
+    <file source="resources\JahiaWebTemplatesSpace.properties" destination="modules\templates-web-space\resources\JahiaWebTemplatesSpace.properties" />
+    <file source="resources\JahiaWebTemplatesSpace_en.properties" destination="modules\templates-web-space\resources\JahiaWebTemplatesSpace_en.properties" />
+    <file source="resources\JahiaWebTemplatesSpace_fr.properties" destination="modules\templates-web-space\resources\JahiaWebTemplatesSpace_fr.properties" />
+  </deployed>
+</module>
+

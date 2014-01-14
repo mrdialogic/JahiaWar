@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Topstories</name>
+  <depends>Default Jahia Templates</depends>
+  <rootFolder>topstories</rootFolder>
+  <version>1.3</version>
+  <build-timestamp>2013-07-15T15:12:04.000+10:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:15.431+11:00</deployment-timestamp>
+  <package name="topstories-1.3.war" path="WEB-INF\var\shared_modules\topstories-1.3.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\topstories\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\topstories\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\topstories\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\topstories\META-INF\definitions.cnd" />
+    <file source="META-INF\rules.drl" destination="modules\topstories\META-INF\rules.drl" />
+    <file source="WEB-INF\" destination="modules\topstories\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\topstories\WEB-INF\classes" />
+    <file source="icons\" destination="modules\topstories\icons" />
+    <file source="icons\jnt_topStories.png" destination="modules\topstories\icons\jnt_topStories.png" />
+    <file source="icons\jnt_topStories_large.png" destination="modules\topstories\icons\jnt_topStories_large.png" />
+    <file source="jnt_topStories\" destination="modules\topstories\jnt_topStories" />
+    <file source="jnt_topStories\html\" destination="modules\topstories\jnt_topStories\html" />
+    <file source="jnt_topStories\html\topStories.hidden.load.jsp" destination="modules\topstories\jnt_topStories\html\topStories.hidden.load.jsp" />
+    <file source="jnt_topStories\html\topStories.properties" destination="modules\topstories\jnt_topStories\html\topStories.properties" />
+    <file source="resources\" destination="modules\topstories\resources" />
+    <file source="resources\JahiaTopstories.properties" destination="modules\topstories\resources\JahiaTopstories.properties" />
+    <file source="resources\JahiaTopstories_en.properties" destination="modules\topstories\resources\JahiaTopstories_en.properties" />
+    <file source="resources\JahiaTopstories_fr.properties" destination="modules\topstories\resources\JahiaTopstories_fr.properties" />
+  </deployed>
+</module>
+

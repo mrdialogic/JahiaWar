@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia SEO</name>
+  <rootFolder>seo</rootFolder>
+  <version>6.6.2.0</version>
+  <build-timestamp>2013-08-27T19:36:16.000+10:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:12.547+11:00</deployment-timestamp>
+  <package name="seo-6.6.2.0.war" path="WEB-INF\var\shared_modules\seo-6.6.2.0.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\seo\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\seo\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\seo\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\seo\META-INF\definitions.cnd" />
+    <file source="META-INF\live-rules.drl" destination="modules\seo\META-INF\live-rules.drl" />
+    <file source="META-INF\rules.drl" destination="modules\seo\META-INF\rules.drl" />
+    <file source="META-INF\rules.dsl" destination="modules\seo\META-INF\rules.dsl" />
+    <file source="META-INF\spring\" destination="modules\seo\META-INF\spring" />
+    <file source="META-INF\spring\mod-seo.xml" destination="modules\seo\META-INF\spring\mod-seo.xml" />
+    <file source="WEB-INF\" destination="modules\seo\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\seo\WEB-INF\classes" />
+    <file source="WEB-INF\lib\" destination="modules\seo\WEB-INF\lib" />
+    <file source="WEB-INF\lib\seo-6.6.2.0.jar" destination="WEB-INF\lib\seo-6.6.2.0.jar" />
+    <file source="resources\" destination="modules\seo\resources" />
+    <file source="resources\JahiaSEO.properties" destination="modules\seo\resources\JahiaSEO.properties" />
+    <file source="resources\JahiaSEO_de.properties" destination="modules\seo\resources\JahiaSEO_de.properties" />
+    <file source="resources\JahiaSEO_en.properties" destination="modules\seo\resources\JahiaSEO_en.properties" />
+    <file source="resources\JahiaSEO_fr.properties" destination="modules\seo\resources\JahiaSEO_fr.properties" />
+  </deployed>
+</module>
+

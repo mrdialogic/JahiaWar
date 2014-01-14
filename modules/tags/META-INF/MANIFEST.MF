@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Implementation-Title: Jahia Tags
+Implementation-Version: 6.6.2.0
+root-folder: tags
+Built-By: bamboo
+Specification-Vendor: 
+Created-By: Jahia
+Implementation-URL: 
+Implementation-Vendor: 
+package-name: Jahia Tags
+module-type: module
+Implementation-Vendor-Id: 
+Build-Jdk: 1.6.0_26
+Specification-Title: Jahia Tags
+Specification-Version: 6.6.2.0
+depends: default
+Archiver-Version: Plexus Archiver
+

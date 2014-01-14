@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Facets</name>
+  <depends>Jahia Static Assets</depends>
+  <rootFolder>facets</rootFolder>
+  <version>6.6.2.0</version>
+  <build-timestamp>2013-08-27T19:36:04.000+10:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:05.114+11:00</deployment-timestamp>
+  <package name="facets-6.6.2.0.war" path="WEB-INF\var\shared_modules\facets-6.6.2.0.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\facets\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\facets\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\facets\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\facets\META-INF\definitions.cnd" />
+    <file source="META-INF\spring\" destination="modules\facets\META-INF\spring" />
+    <file source="META-INF\spring\facets.xml" destination="modules\facets\META-INF\spring\facets.xml" />
+    <file source="WEB-INF\" destination="modules\facets\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\facets\WEB-INF\classes" />
+    <file source="WEB-INF\lib\" destination="modules\facets\WEB-INF\lib" />
+    <file source="WEB-INF\lib\facets-6.6.2.0.jar" destination="WEB-INF\lib\facets-6.6.2.0.jar" />
+    <file source="WEB-INF\macros\" destination="modules\facets\WEB-INF\macros" />
+    <file source="WEB-INF\macros\DynamicDateLabel.groovy" destination="modules\facets\WEB-INF\macros\DynamicDateLabel.groovy" />
+    <file source="css\" destination="modules\facets\css" />
+    <file source="css\facets.css" destination="modules\facets\css\facets.css" />
+    <file source="css\img\" destination="modules\facets\css\img" />
+    <file source="css\img\facetsListArrow.png" destination="modules\facets\css\img\facetsListArrow.png" />
+    <file source="css\jqcloud.css" destination="modules\facets\css\jqcloud.css" />
+    <file source="css\tags.css" destination="modules\facets\css\tags.css" />
+    <file source="icons\" destination="modules\facets\icons" />
+    <file source="icons\jnt_facets.png" destination="modules\facets\icons\jnt_facets.png" />
+    <file source="icons\jnt_facets_large.png" destination="modules\facets\icons\jnt_facets_large.png" />
+    <file source="javascript\" destination="modules\facets\javascript" />
+    <file source="javascript\jqcloud.js" destination="modules\facets\javascript\jqcloud.js" />
+    <file source="jnt_facet\" destination="modules\facets\jnt_facet" />
+    <file source="jnt_facet\html\" destination="modules\facets\jnt_facet\html" />
+    <file source="jnt_facet\html\facet.jsp" destination="modules\facets\jnt_facet\html\facet.jsp" />
+    <file source="jnt_facets\" destination="modules\facets\jnt_facets" />
+    <file source="jnt_facets\html\" destination="modules\facets\jnt_facets\html" />
+    <file source="jnt_facets\html\activeFacets.jspf" destination="modules\facets\jnt_facets\html\activeFacets.jspf" />
+    <file source="jnt_facets\html\facetDisplay.jspf" destination="modules\facets\jnt_facets\html\facetDisplay.jspf" />
+    <file source="jnt_facets\html\facets.javascripttagcloud.jsp" destination="modules\facets\jnt_facets\html\facets.javascripttagcloud.jsp" />
+    <file source="jnt_facets\html\facets.javascripttagcloud.properties" destination="modules\facets\jnt_facets\html\facets.javascripttagcloud.properties" />
+    <file source="jnt_facets\html\facets.jsp" destination="modules\facets\jnt_facets\html\facets.jsp" />
+    <file source="jnt_facets\html\facets.properties" destination="modules\facets\jnt_facets\html\facets.properties" />
+    <file source="jnt_facets\html\facets.tagcloud.jsp" destination="modules\facets\jnt_facets\html\facets.tagcloud.jsp" />
+    <file source="jnt_facets\html\facets.tagcloud.properties" destination="modules\facets\jnt_facets\html\facets.tagcloud.properties" />
+    <file source="resources\" destination="modules\facets\resources" />
+    <file source="resources\JahiaFacets.properties" destination="modules\facets\resources\JahiaFacets.properties" />
+    <file source="resources\JahiaFacets_en.properties" destination="modules\facets\resources\JahiaFacets_en.properties" />
+    <file source="resources\JahiaFacets_fr.properties" destination="modules\facets\resources\JahiaFacets_fr.properties" />
+  </deployed>
+</module>
+

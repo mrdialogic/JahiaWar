@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Implementation-Title: Jahia Channels
+Implementation-Version: 6.6.2.0
+root-folder: channels
+Built-By: bamboo
+Specification-Vendor: Jahia Solutions Group SA
+Created-By: Apache Maven
+Implementation-URL: http://www.jahia.com
+Implementation-Vendor: Jahia Solutions Group SA
+package-name: Jahia Channels
+Implementation-Vendor-Id: org.jahia
+module-type: system
+Build-Jdk: 1.6.0_26
+Specification-Title: Jahia Channels
+Specification-Version: 6.6.2.0
+Archiver-Version: Plexus Archiver
+

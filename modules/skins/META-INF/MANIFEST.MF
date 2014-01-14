@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Implementation-Title: Jahia Skins
+Implementation-Version: 6.6.2.0
+root-folder: skins
+Built-By: bamboo
+Specification-Vendor: Jahia Solutions Group SA
+Created-By: Apache Maven
+Implementation-URL: http://www.jahia.com
+Implementation-Vendor: Jahia Solutions Group SA
+package-name: Jahia Skins
+Implementation-Vendor-Id: org.jahia
+module-type: module
+Build-Jdk: 1.6.0_26
+Specification-Title: Jahia Skins
+Specification-Version: 6.6.2.0
+Archiver-Version: Plexus Archiver
+

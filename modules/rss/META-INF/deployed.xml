@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia RSS Feeds</name>
+  <rootFolder>rss</rootFolder>
+  <version>1.2</version>
+  <build-timestamp>2012-01-31T01:31:24.000+11:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:12.356+11:00</deployment-timestamp>
+  <package name="rss-1.2.war" path="WEB-INF\var\shared_modules\rss-1.2.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\rss\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\rss\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\rss\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\rss\META-INF\definitions.cnd" />
+    <file source="WEB-INF\" destination="modules\rss\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\rss\WEB-INF\classes" />
+    <file source="WEB-INF\lib\" destination="modules\rss\WEB-INF\lib" />
+    <file source="WEB-INF\lib\rss-1.2.jar" destination="WEB-INF\lib\rss-1.2.jar" />
+    <file source="css\" destination="modules\rss\css" />
+    <file source="css\rss.css" destination="modules\rss\css\rss.css" />
+    <file source="icons\" destination="modules\rss\icons" />
+    <file source="icons\jnt_rss.png" destination="modules\rss\icons\jnt_rss.png" />
+    <file source="icons\jnt_rss_large.png" destination="modules\rss\icons\jnt_rss_large.png" />
+    <file source="icons\jnt_rssable.png" destination="modules\rss\icons\jnt_rssable.png" />
+    <file source="icons\jnt_rssable_large.png" destination="modules\rss\icons\jnt_rssable_large.png" />
+    <file source="images\" destination="modules\rss\images" />
+    <file source="images\rss.png" destination="modules\rss\images\rss.png" />
+    <file source="images\rssable.png" destination="modules\rss\images\rssable.png" />
+    <file source="jnt_rss\" destination="modules\rss\jnt_rss" />
+    <file source="jnt_rss\html\" destination="modules\rss\jnt_rss\html" />
+    <file source="jnt_rss\html\rss.jsp" destination="modules\rss\jnt_rss\html\rss.jsp" />
+    <file source="jnt_rssable\" destination="modules\rss\jnt_rssable" />
+    <file source="jnt_rssable\html\" destination="modules\rss\jnt_rssable\html" />
+    <file source="jnt_rssable\html\rssable.jsp" destination="modules\rss\jnt_rssable\html\rssable.jsp" />
+    <file source="resources\" destination="modules\rss\resources" />
+    <file source="resources\JahiaRSSFeeds.properties" destination="modules\rss\resources\JahiaRSSFeeds.properties" />
+    <file source="resources\JahiaRSSFeeds_en.properties" destination="modules\rss\resources\JahiaRSSFeeds_en.properties" />
+    <file source="resources\JahiaRSSFeeds_fr.properties" destination="modules\rss\resources\JahiaRSSFeeds_fr.properties" />
+  </deployed>
+</module>
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Twitter</name>
+  <depends>Default Jahia Templates</depends>
+  <rootFolder>twitter</rootFolder>
+  <version>1.3</version>
+  <build-timestamp>2013-07-15T15:12:40.000+10:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:15.544+11:00</deployment-timestamp>
+  <package name="twitter-1.3.war" path="WEB-INF\var\shared_modules\twitter-1.3.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\twitter\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\twitter\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\twitter\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\twitter\META-INF\definitions.cnd" />
+    <file source="WEB-INF\" destination="modules\twitter\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\twitter\WEB-INF\classes" />
+    <file source="icons\" destination="modules\twitter\icons" />
+    <file source="icons\jnt_twitterWidget.png" destination="modules\twitter\icons\jnt_twitterWidget.png" />
+    <file source="icons\jnt_twitterWidget_large.png" destination="modules\twitter\icons\jnt_twitterWidget_large.png" />
+    <file source="jnt_twitterFeed\" destination="modules\twitter\jnt_twitterFeed" />
+    <file source="jnt_twitterFeed\html\" destination="modules\twitter\jnt_twitterFeed\html" />
+    <file source="jnt_twitterFeed\html\twitterFeed.jsp" destination="modules\twitter\jnt_twitterFeed\html\twitterFeed.jsp" />
+    <file source="jnt_twitterSearch\" destination="modules\twitter\jnt_twitterSearch" />
+    <file source="jnt_twitterSearch\html\" destination="modules\twitter\jnt_twitterSearch\html" />
+    <file source="jnt_twitterSearch\html\twitterSearch.jsp" destination="modules\twitter\jnt_twitterSearch\html\twitterSearch.jsp" />
+    <file source="jnt_twitterWidget\" destination="modules\twitter\jnt_twitterWidget" />
+    <file source="jnt_twitterWidget\html\" destination="modules\twitter\jnt_twitterWidget\html" />
+    <file source="jnt_twitterWidget\html\twitterWidget.jsp" destination="modules\twitter\jnt_twitterWidget\html\twitterWidget.jsp" />
+    <file source="resources\" destination="modules\twitter\resources" />
+    <file source="resources\JahiaTwitter.properties" destination="modules\twitter\resources\JahiaTwitter.properties" />
+    <file source="resources\JahiaTwitter_en.properties" destination="modules\twitter\resources\JahiaTwitter_en.properties" />
+    <file source="resources\JahiaTwitter_fr.properties" destination="modules\twitter\resources\JahiaTwitter_fr.properties" />
+  </deployed>
+</module>
+

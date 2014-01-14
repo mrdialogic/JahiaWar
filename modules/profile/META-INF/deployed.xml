@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia User Profile</name>
+  <depends>Default Jahia Templates,Jahia Content retrieval</depends>
+  <rootFolder>profile</rootFolder>
+  <version>6.6.2.0</version>
+  <build-timestamp>2013-08-27T19:36:12.000+10:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:12.138+11:00</deployment-timestamp>
+  <package name="profile-6.6.2.0.war" path="WEB-INF\var\shared_modules\profile-6.6.2.0.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\profile\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\profile\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\profile\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\profile\META-INF\definitions.cnd" />
+    <file source="META-INF\spring\" destination="modules\profile\META-INF\spring" />
+    <file source="META-INF\spring\mod-profile.xml" destination="modules\profile\META-INF\spring\mod-profile.xml" />
+    <file source="WEB-INF\" destination="modules\profile\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\profile\WEB-INF\classes" />
+    <file source="WEB-INF\lib\" destination="modules\profile\WEB-INF\lib" />
+    <file source="WEB-INF\lib\profile-6.6.2.0.jar" destination="WEB-INF\lib\profile-6.6.2.0.jar" />
+    <file source="css\" destination="modules\profile\css" />
+    <file source="css\img\" destination="modules\profile\css\img" />
+    <file source="css\img\content.png" destination="modules\profile\css\img\content.png" />
+    <file source="css\userProfile.css" destination="modules\profile\css\userProfile.css" />
+    <file source="getUser.jspf" destination="modules\profile\getUser.jspf" />
+    <file source="icons\" destination="modules\profile\icons" />
+    <file source="icons\jmix_profileComponentContent.png" destination="modules\profile\icons\jmix_profileComponentContent.png" />
+    <file source="icons\jmix_profileComponentContent_large.png" destination="modules\profile\icons\jmix_profileComponentContent_large.png" />
+    <file source="icons\jnt_editUserDetails.png" destination="modules\profile\icons\jnt_editUserDetails.png" />
+    <file source="icons\jnt_editUserDetails_large.png" destination="modules\profile\icons\jnt_editUserDetails_large.png" />
+    <file source="icons\jnt_userContentRetrieval.png" destination="modules\profile\icons\jnt_userContentRetrieval.png" />
+    <file source="icons\jnt_userContentRetrieval_large.png" destination="modules\profile\icons\jnt_userContentRetrieval_large.png" />
+    <file source="icons\jnt_userDetails.png" destination="modules\profile\icons\jnt_userDetails.png" />
+    <file source="icons\jnt_userDetails_large.png" destination="modules\profile\icons\jnt_userDetails_large.png" />
+    <file source="img\" destination="modules\profile\img" />
+    <file source="img\userbig.png" destination="modules\profile\img\userbig.png" />
+    <file source="jnt_editUserDetails\" destination="modules\profile\jnt_editUserDetails" />
+    <file source="jnt_editUserDetails\html\" destination="modules\profile\jnt_editUserDetails\html" />
+    <file source="jnt_editUserDetails\html\editUserDetails.jsp" destination="modules\profile\jnt_editUserDetails\html\editUserDetails.jsp" />
+    <file source="jnt_editUserDetails\html\editUserDetails.properties" destination="modules\profile\jnt_editUserDetails\html\editUserDetails.properties" />
+    <file source="jnt_editUserDetails\html\editUserDetails.visibility.jsp" destination="modules\profile\jnt_editUserDetails\html\editUserDetails.visibility.jsp" />
+    <file source="jnt_editUserDetails\html\editUserDetails.visibility.properties" destination="modules\profile\jnt_editUserDetails\html\editUserDetails.visibility.properties" />
+    <file source="jnt_userContentRetrieval\" destination="modules\profile\jnt_userContentRetrieval" />
+    <file source="jnt_userContentRetrieval\html\" destination="modules\profile\jnt_userContentRetrieval\html" />
+    <file source="jnt_userContentRetrieval\html\userContentRetrieval.hidden.load.jsp" destination="modules\profile\jnt_userContentRetrieval\html\userContentRetrieval.hidden.load.jsp" />
+    <file source="jnt_userDetails\" destination="modules\profile\jnt_userDetails" />
+    <file source="jnt_userDetails\html\" destination="modules\profile\jnt_userDetails\html" />
+    <file source="jnt_userDetails\html\userDetails.jsp" destination="modules\profile\jnt_userDetails\html\userDetails.jsp" />
+    <file source="jnt_userDetails\html\userDetails.properties" destination="modules\profile\jnt_userDetails\html\userDetails.properties" />
+    <file source="resources\" destination="modules\profile\resources" />
+    <file source="resources\JahiaUserProfile.properties" destination="modules\profile\resources\JahiaUserProfile.properties" />
+    <file source="resources\JahiaUserProfile_en.properties" destination="modules\profile\resources\JahiaUserProfile_en.properties" />
+    <file source="resources\JahiaUserProfile_fr.properties" destination="modules\profile\resources\JahiaUserProfile_fr.properties" />
+  </deployed>
+</module>
+

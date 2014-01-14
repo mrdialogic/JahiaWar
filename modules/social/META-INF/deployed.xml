@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Social Module</name>
+  <depends>Jahia Search,Jahia User Profile</depends>
+  <rootFolder>social</rootFolder>
+  <version>1.5</version>
+  <build-timestamp>2013-01-22T16:34:16.000+11:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:12.891+11:00</deployment-timestamp>
+  <package name="social-1.5.war" path="WEB-INF\var\shared_modules\social-1.5.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\social\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\social\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\social\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\social\META-INF\definitions.cnd" />
+    <file source="META-INF\rules.dsl" destination="modules\social\META-INF\rules.dsl" />
+    <file source="META-INF\spring\" destination="modules\social\META-INF\spring" />
+    <file source="META-INF\spring\mod-social.xml" destination="modules\social\META-INF\spring\mod-social.xml" />
+    <file source="WEB-INF\" destination="modules\social\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\social\WEB-INF\classes" />
+    <file source="WEB-INF\lib\" destination="modules\social\WEB-INF\lib" />
+    <file source="WEB-INF\lib\social-1.5.jar" destination="WEB-INF\lib\social-1.5.jar" />
+    <file source="WEB-INF\lib\social-service-1.5.jar" destination="WEB-INF\lib\social-service-1.5.jar" />
+    <file source="css\" destination="modules\social\css" />
+    <file source="css\img\" destination="modules\social\css\img" />
+    <file source="css\img\bubble.png" destination="modules\social\css\img\bubble.png" />
+    <file source="css\social-activities-display.css" destination="modules\social\css\social-activities-display.css" />
+    <file source="icons\" destination="modules\social\icons" />
+    <file source="icons\jnt_socialActivitiesDisplay.png" destination="modules\social\icons\jnt_socialActivitiesDisplay.png" />
+    <file source="icons\jnt_socialActivitiesDisplay_large.png" destination="modules\social\icons\jnt_socialActivitiesDisplay_large.png" />
+    <file source="images\" destination="modules\social\images" />
+    <file source="images\user.png" destination="modules\social\images\user.png" />
+    <file source="images\userBig.png" destination="modules\social\images\userBig.png" />
+    <file source="jnt_addActivityForm\" destination="modules\social\jnt_addActivityForm" />
+    <file source="jnt_addActivityForm\html\" destination="modules\social\jnt_addActivityForm\html" />
+    <file source="jnt_addActivityForm\html\addActivityForm.jsp" destination="modules\social\jnt_addActivityForm\html\addActivityForm.jsp" />
+    <file source="jnt_socialActivitiesDisplay\" destination="modules\social\jnt_socialActivitiesDisplay" />
+    <file source="jnt_socialActivitiesDisplay\html\" destination="modules\social\jnt_socialActivitiesDisplay\html" />
+    <file source="jnt_socialActivitiesDisplay\html\socialActivitiesDisplay.hidden.load.jsp" destination="modules\social\jnt_socialActivitiesDisplay\html\socialActivitiesDisplay.hidden.load.jsp" />
+    <file source="jnt_socialActivitiesDisplay\html\socialActivitiesDisplay.jsp" destination="modules\social\jnt_socialActivitiesDisplay\html\socialActivitiesDisplay.jsp" />
+    <file source="jnt_socialActivity\" destination="modules\social\jnt_socialActivity" />
+    <file source="jnt_socialActivity\html\" destination="modules\social\jnt_socialActivity\html" />
+    <file source="jnt_socialActivity\html\socialActivity.jsp" destination="modules\social\jnt_socialActivity\html\socialActivity.jsp" />
+    <file source="jnt_socialMessage\" destination="modules\social\jnt_socialMessage" />
+    <file source="jnt_socialMessage\html\" destination="modules\social\jnt_socialMessage\html" />
+    <file source="jnt_socialMessage\html\socialMessage.detail.jsp" destination="modules\social\jnt_socialMessage\html\socialMessage.detail.jsp" />
+    <file source="jnt_socialMessage\html\socialMessage.jsp" destination="modules\social\jnt_socialMessage\html\socialMessage.jsp" />
+    <file source="resources\" destination="modules\social\resources" />
+    <file source="resources\JahiaSocialModule.properties" destination="modules\social\resources\JahiaSocialModule.properties" />
+    <file source="resources\JahiaSocialModule_en.properties" destination="modules\social\resources\JahiaSocialModule_en.properties" />
+    <file source="resources\JahiaSocialModule_fr.properties" destination="modules\social\resources\JahiaSocialModule_fr.properties" />
+  </deployed>
+</module>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Web Clipping</name>
+  <rootFolder>webClipping</rootFolder>
+  <version>1.2</version>
+  <build-timestamp>2012-01-31T01:31:50.000+11:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:20.342+11:00</deployment-timestamp>
+  <package name="webClipping-1.2.war" path="WEB-INF\var\shared_modules\webClipping-1.2.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\webClipping\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\webClipping\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\webClipping\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\webClipping\META-INF\definitions.cnd" />
+    <file source="META-INF\spring\" destination="modules\webClipping\META-INF\spring" />
+    <file source="META-INF\spring\mod-webClipping.xml" destination="modules\webClipping\META-INF\spring\mod-webClipping.xml" />
+    <file source="WEB-INF\" destination="modules\webClipping\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\webClipping\WEB-INF\classes" />
+    <file source="WEB-INF\lib\" destination="modules\webClipping\WEB-INF\lib" />
+    <file source="WEB-INF\lib\webClipping-1.2.jar" destination="WEB-INF\lib\webClipping-1.2.jar" />
+    <file source="icons\" destination="modules\webClipping\icons" />
+    <file source="icons\jnt_webClipping.png" destination="modules\webClipping\icons\jnt_webClipping.png" />
+    <file source="icons\jnt_webClipping_large.png" destination="modules\webClipping\icons\jnt_webClipping_large.png" />
+    <file source="resources\" destination="modules\webClipping\resources" />
+    <file source="resources\JahiaWebClipping.properties" destination="modules\webClipping\resources\JahiaWebClipping.properties" />
+    <file source="resources\JahiaWebClipping_en.properties" destination="modules\webClipping\resources\JahiaWebClipping_en.properties" />
+    <file source="resources\JahiaWebClipping_fr.properties" destination="modules\webClipping\resources\JahiaWebClipping_fr.properties" />
+  </deployed>
+</module>
+

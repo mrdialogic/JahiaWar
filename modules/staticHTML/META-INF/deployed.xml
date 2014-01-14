@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Static HTML</name>
+  <depends>Jahia Static Assets</depends>
+  <rootFolder>staticHTML</rootFolder>
+  <version>1.2</version>
+  <build-timestamp>2012-01-31T01:31:36.000+11:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:13.658+11:00</deployment-timestamp>
+  <package name="staticHTML-1.2.war" path="WEB-INF\var\shared_modules\staticHTML-1.2.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\staticHTML\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\staticHTML\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\staticHTML\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\staticHTML\META-INF\definitions.cnd" />
+    <file source="WEB-INF\" destination="modules\staticHTML\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\staticHTML\WEB-INF\classes" />
+    <file source="icons\" destination="modules\staticHTML\icons" />
+    <file source="icons\jnt_html.png" destination="modules\staticHTML\icons\jnt_html.png" />
+    <file source="icons\jnt_html_large.png" destination="modules\staticHTML\icons\jnt_html_large.png" />
+    <file source="jnt_html\" destination="modules\staticHTML\jnt_html" />
+    <file source="jnt_html\html\" destination="modules\staticHTML\jnt_html\html" />
+    <file source="jnt_html\html\html.jsp" destination="modules\staticHTML\jnt_html\html\html.jsp" />
+    <file source="resources\" destination="modules\staticHTML\resources" />
+    <file source="resources\JahiaStaticHTML.properties" destination="modules\staticHTML\resources\JahiaStaticHTML.properties" />
+    <file source="resources\JahiaStaticHTML_en.properties" destination="modules\staticHTML\resources\JahiaStaticHTML_en.properties" />
+    <file source="resources\JahiaStaticHTML_fr.properties" destination="modules\staticHTML\resources\JahiaStaticHTML_fr.properties" />
+  </deployed>
+</module>
+

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Forum</name>
+  <depends>default,rating,grid,skins,default-skins</depends>
+  <rootFolder>forum</rootFolder>
+  <version>1.5</version>
+  <build-timestamp>2013-07-15T15:09:34.000+10:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:05.850+11:00</deployment-timestamp>
+  <package name="forum-1.5.war" path="WEB-INF\var\shared_modules\forum-1.5.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\forum\META-INF" />
+    <file source="META-INF\.gitignore" destination="modules\forum\META-INF\.gitignore" />
+    <file source="META-INF\LICENSE.txt" destination="modules\forum\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\forum\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\forum\META-INF\definitions.cnd" />
+    <file source="META-INF\import.zip" destination="modules\forum\META-INF\import.zip" />
+    <file source="META-INF\mails\" destination="modules\forum\META-INF\mails" />
+    <file source="META-INF\mails\templates\" destination="modules\forum\META-INF\mails\templates" />
+    <file source="META-INF\mails\templates\postAdded.subject.vm" destination="modules\forum\META-INF\mails\templates\postAdded.subject.vm" />
+    <file source="META-INF\mails\templates\postAdded.vm" destination="modules\forum\META-INF\mails\templates\postAdded.vm" />
+    <file source="META-INF\rules.drl" destination="modules\forum\META-INF\rules.drl" />
+    <file source="META-INF\rules.dsl" destination="modules\forum\META-INF\rules.dsl" />
+    <file source="META-INF\spring\" destination="modules\forum\META-INF\spring" />
+    <file source="META-INF\spring\mod-forum.xml" destination="modules\forum\META-INF\spring\mod-forum.xml" />
+    <file source="WEB-INF\" destination="modules\forum\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\forum\WEB-INF\classes" />
+    <file source="WEB-INF\lib\" destination="modules\forum\WEB-INF\lib" />
+    <file source="WEB-INF\lib\forum-1.5.jar" destination="WEB-INF\lib\forum-1.5.jar" />
+    <file source="css\" destination="modules\forum\css" />
+    <file source="css\forum.css" destination="modules\forum\css\forum.css" />
+    <file source="css\img\" destination="modules\forum\css\img" />
+    <file source="css\img\addforumpost.png" destination="modules\forum\css\img\addforumpost.png" />
+    <file source="css\img\arrow-left.png" destination="modules\forum\css\img\arrow-left.png" />
+    <file source="css\img\corners_left.png" destination="modules\forum\css\img\corners_left.png" />
+    <file source="css\img\corners_right.png" destination="modules\forum\css\img\corners_right.png" />
+    <file source="css\img\forum-box.png" destination="modules\forum\css\img\forum-box.png" />
+    <file source="css\img\forum-box2.png" destination="modules\forum\css\img\forum-box2.png" />
+    <file source="css\img\icon_topic_latest.gif" destination="modules\forum\css\img\icon_topic_latest.gif" />
+    <file source="css\img\section.gif" destination="modules\forum\css\img\section.gif" />
+    <file source="css\img\topic.gif" destination="modules\forum\css\img\topic.gif" />
+    <file source="icons\" destination="modules\forum\icons" />
+    <file source="icons\jmix_forumContent.png" destination="modules\forum\icons\jmix_forumContent.png" />
+    <file source="icons\jmix_forumContent_large.png" destination="modules\forum\icons\jmix_forumContent_large.png" />
+    <file source="icons\jnt_boardIndex.png" destination="modules\forum\icons\jnt_boardIndex.png" />
+    <file source="icons\jnt_boardIndex_large.png" destination="modules\forum\icons\jnt_boardIndex_large.png" />
+    <file source="icons\jnt_dynamicTopicList.png" destination="modules\forum\icons\jnt_dynamicTopicList.png" />
+    <file source="icons\jnt_dynamicTopicList_large.png" destination="modules\forum\icons\jnt_dynamicTopicList_large.png" />
+    <file source="icons\jnt_topic.png" destination="modules\forum\icons\jnt_topic.png" />
+    <file source="icons\jnt_topic_large.png" destination="modules\forum\icons\jnt_topic_large.png" />
+    <file source="javascript\" destination="modules\forum\javascript" />
+    <file source="javascript\jquery.cookie.js" destination="modules\forum\javascript\jquery.cookie.js" />
+    <file source="javascript\jquery.cuteTime.js" destination="modules\forum\javascript\jquery.cuteTime.js" />
+    <file source="jmix_comments\" destination="modules\forum\jmix_comments" />
+    <file source="jmix_comments\html\" destination="modules\forum\jmix_comments\html" />
+    <file source="jmix_comments\html\comments.hidden.options.wrapper.jsp" destination="modules\forum\jmix_comments\html\comments.hidden.options.wrapper.jsp" />
+    <file source="jnt_forumNavigation\" destination="modules\forum\jnt_forumNavigation" />
+    <file source="jnt_forumNavigation\html\" destination="modules\forum\jnt_forumNavigation\html" />
+    <file source="jnt_forumNavigation\html\forumNavigation.jsp" destination="modules\forum\jnt_forumNavigation\html\forumNavigation.jsp" />
+    <file source="jnt_forumNavigation\html\forumNavigation.properties" destination="modules\forum\jnt_forumNavigation\html\forumNavigation.properties" />
+    <file source="jnt_forumNavigation\html\forumNavigation.rooms.jsp" destination="modules\forum\jnt_forumNavigation\html\forumNavigation.rooms.jsp" />
+    <file source="jnt_forumNavigation\html\forumNavigation.rooms.properties" destination="modules\forum\jnt_forumNavigation\html\forumNavigation.rooms.properties" />
+    <file source="jnt_forumViewCount\" destination="modules\forum\jnt_forumViewCount" />
+    <file source="jnt_forumViewCount\html\" destination="modules\forum\jnt_forumViewCount\html" />
+    <file source="jnt_forumViewCount\html\forumViewCount.jsp" destination="modules\forum\jnt_forumViewCount\html\forumViewCount.jsp" />
+    <file source="jnt_latestForumPosts\" destination="modules\forum\jnt_latestForumPosts" />
+    <file source="jnt_latestForumPosts\html\" destination="modules\forum\jnt_latestForumPosts\html" />
+    <file source="jnt_latestForumPosts\html\latestForumPosts.hidden.load.jsp" destination="modules\forum\jnt_latestForumPosts\html\latestForumPosts.hidden.load.jsp" />
+    <file source="jnt_latestForumPosts\html\latestForumPosts.jsp" destination="modules\forum\jnt_latestForumPosts\html\latestForumPosts.jsp" />
+    <file source="jnt_latestForumPosts\html\latestForumPosts.properties" destination="modules\forum\jnt_latestForumPosts\html\latestForumPosts.properties" />
+    <file source="jnt_postForm\" destination="modules\forum\jnt_postForm" />
+    <file source="jnt_postForm\html\" destination="modules\forum\jnt_postForm\html" />
+    <file source="jnt_postForm\html\postForm.jsp" destination="modules\forum\jnt_postForm\html\postForm.jsp" />
+    <file source="jnt_postForm\html\postForm.properties" destination="modules\forum\jnt_postForm\html\postForm.properties" />
+    <file source="jnt_post\" destination="modules\forum\jnt_post" />
+    <file source="jnt_post\html\" destination="modules\forum\jnt_post\html" />
+    <file source="jnt_post\html\post.forum.jsp" destination="modules\forum\jnt_post\html\post.forum.jsp" />
+    <file source="jnt_post\html\post.forum.properties" destination="modules\forum\jnt_post\html\post.forum.properties" />
+    <file source="jnt_post\html\post.forumLatest.jsp" destination="modules\forum\jnt_post\html\post.forumLatest.jsp" />
+    <file source="jnt_postsList\" destination="modules\forum\jnt_postsList" />
+    <file source="jnt_postsList\html\" destination="modules\forum\jnt_postsList\html" />
+    <file source="jnt_postsList\html\postsList.hidden.load.jsp" destination="modules\forum\jnt_postsList\html\postsList.hidden.load.jsp" />
+    <file source="jnt_postsList\html\postsList.jsp" destination="modules\forum\jnt_postsList\html\postsList.jsp" />
+    <file source="jnt_postsList\html\postsList.properties" destination="modules\forum\jnt_postsList\html\postsList.properties" />
+    <file source="jnt_topicList\" destination="modules\forum\jnt_topicList" />
+    <file source="jnt_topicList\html\" destination="modules\forum\jnt_topicList\html" />
+    <file source="jnt_topicList\html\topicList.hidden.load.jsp" destination="modules\forum\jnt_topicList\html\topicList.hidden.load.jsp" />
+    <file source="jnt_topicList\html\topicList.jsp" destination="modules\forum\jnt_topicList\html\topicList.jsp" />
+    <file source="jnt_topicList\html\topicList.properties" destination="modules\forum\jnt_topicList\html\topicList.properties" />
+    <file source="jnt_topic\" destination="modules\forum\jnt_topic" />
+    <file source="jnt_topic\html\" destination="modules\forum\jnt_topic\html" />
+    <file source="jnt_topic\html\topic.forum.jsp" destination="modules\forum\jnt_topic\html\topic.forum.jsp" />
+    <file source="jnt_user\" destination="modules\forum\jnt_user" />
+    <file source="jnt_user\html\" destination="modules\forum\jnt_user\html" />
+    <file source="jnt_user\html\user.forum.jsp" destination="modules\forum\jnt_user\html\user.forum.jsp" />
+    <file source="jnt_user\html\user.forum.properties" destination="modules\forum\jnt_user\html\user.forum.properties" />
+    <file source="resources\" destination="modules\forum\resources" />
+    <file source="resources\JahiaForum.properties" destination="modules\forum\resources\JahiaForum.properties" />
+    <file source="resources\JahiaForum_de.properties" destination="modules\forum\resources\JahiaForum_de.properties" />
+    <file source="resources\JahiaForum_en.properties" destination="modules\forum\resources\JahiaForum_en.properties" />
+    <file source="resources\JahiaForum_fr.properties" destination="modules\forum\resources\JahiaForum_fr.properties" />
+  </deployed>
+</module>
+

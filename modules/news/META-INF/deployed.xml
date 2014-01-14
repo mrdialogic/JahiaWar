@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia News</name>
+  <depends>Default Jahia Templates,Jahia Grid Pages,Jahia SEO</depends>
+  <rootFolder>news</rootFolder>
+  <version>1.4</version>
+  <build-timestamp>2013-08-23T11:23:24.000+10:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:09.957+11:00</deployment-timestamp>
+  <package name="news-1.4.war" path="WEB-INF\var\shared_modules\news-1.4.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\news\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\news\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\news\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\news\META-INF\definitions.cnd" />
+    <file source="META-INF\import.zip" destination="modules\news\META-INF\import.zip" />
+    <file source="META-INF\rules.drl" destination="modules\news\META-INF\rules.drl" />
+    <file source="WEB-INF\" destination="modules\news\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\news\WEB-INF\classes" />
+    <file source="css\" destination="modules\news\css" />
+    <file source="css\img\" destination="modules\news\css\img" />
+    <file source="css\img\categorytitle.png" destination="modules\news\css\img\categorytitle.png" />
+    <file source="css\news.css" destination="modules\news\css\news.css" />
+    <file source="icons\" destination="modules\news\icons" />
+    <file source="icons\jnt_lastNews.png" destination="modules\news\icons\jnt_lastNews.png" />
+    <file source="icons\jnt_lastNews_large.png" destination="modules\news\icons\jnt_lastNews_large.png" />
+    <file source="icons\jnt_news.png" destination="modules\news\icons\jnt_news.png" />
+    <file source="icons\jnt_news_large.png" destination="modules\news\icons\jnt_news_large.png" />
+    <file source="jnt_lastNews\" destination="modules\news\jnt_lastNews" />
+    <file source="jnt_lastNews\html\" destination="modules\news\jnt_lastNews\html" />
+    <file source="jnt_lastNews\html\lastNews.hidden.load.jsp" destination="modules\news\jnt_lastNews\html\lastNews.hidden.load.jsp" />
+    <file source="jnt_lastNews\html\lastNews.properties" destination="modules\news\jnt_lastNews\html\lastNews.properties" />
+    <file source="jnt_news\" destination="modules\news\jnt_news" />
+    <file source="jnt_news\html\" destination="modules\news\jnt_news\html" />
+    <file source="jnt_news\html\news.Add_Form.jsp" destination="modules\news\jnt_news\html\news.Add_Form.jsp" />
+    <file source="jnt_news\html\news.fullpage.jsp" destination="modules\news\jnt_news\html\news.fullpage.jsp" />
+    <file source="jnt_news\html\news.jsp" destination="modules\news\jnt_news\html\news.jsp" />
+    <file source="jnt_news\html\news.large.jsp" destination="modules\news\jnt_news\html\news.large.jsp" />
+    <file source="jnt_news\html\news.medium.jsp" destination="modules\news\jnt_news\html\news.medium.jsp" />
+    <file source="jnt_news\rss\" destination="modules\news\jnt_news\rss" />
+    <file source="jnt_news\rss\news.jsp" destination="modules\news\jnt_news\rss\news.jsp" />
+    <file source="resources\" destination="modules\news\resources" />
+    <file source="resources\JahiaNews.properties" destination="modules\news\resources\JahiaNews.properties" />
+    <file source="resources\JahiaNews_de.properties" destination="modules\news\resources\JahiaNews_de.properties" />
+    <file source="resources\JahiaNews_en.properties" destination="modules\news\resources\JahiaNews_en.properties" />
+    <file source="resources\JahiaNews_fr.properties" destination="modules\news\resources\JahiaNews_fr.properties" />
+    <file source="scripts\" destination="modules\news\scripts" />
+    <file source="scripts\tests.groovy" destination="modules\news\scripts\tests.groovy" />
+  </deployed>
+</module>
+

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia User Registration</name>
+  <depends>Default Jahia Templates</depends>
+  <rootFolder>userregistration</rootFolder>
+  <version>1.3</version>
+  <build-timestamp>2012-10-10T08:20:30.000+11:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:15.662+11:00</deployment-timestamp>
+  <package name="userregistration-1.3.war" path="WEB-INF\var\shared_modules\userregistration-1.3.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\userregistration\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\userregistration\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\userregistration\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\userregistration\META-INF\definitions.cnd" />
+    <file source="META-INF\spring\" destination="modules\userregistration\META-INF\spring" />
+    <file source="META-INF\spring\mod-userregistration.xml" destination="modules\userregistration\META-INF\spring\mod-userregistration.xml" />
+    <file source="WEB-INF\" destination="modules\userregistration\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\userregistration\WEB-INF\classes" />
+    <file source="WEB-INF\lib\" destination="modules\userregistration\WEB-INF\lib" />
+    <file source="WEB-INF\lib\userregistration-1.3.jar" destination="WEB-INF\lib\userregistration-1.3.jar" />
+    <file source="icons\" destination="modules\userregistration\icons" />
+    <file source="icons\jnt_userRegistration.png" destination="modules\userregistration\icons\jnt_userRegistration.png" />
+    <file source="icons\jnt_userRegistration_large.png" destination="modules\userregistration\icons\jnt_userRegistration_large.png" />
+    <file source="jnt_askForPasswordRecovery\" destination="modules\userregistration\jnt_askForPasswordRecovery" />
+    <file source="jnt_askForPasswordRecovery\html\" destination="modules\userregistration\jnt_askForPasswordRecovery\html" />
+    <file source="jnt_askForPasswordRecovery\html\askForPasswordRecovery.jsp" destination="modules\userregistration\jnt_askForPasswordRecovery\html\askForPasswordRecovery.jsp" />
+    <file source="jnt_passwordRecoveryForm\" destination="modules\userregistration\jnt_passwordRecoveryForm" />
+    <file source="jnt_passwordRecoveryForm\html\" destination="modules\userregistration\jnt_passwordRecoveryForm\html" />
+    <file source="jnt_passwordRecoveryForm\html\passwordRecoveryForm.jsp" destination="modules\userregistration\jnt_passwordRecoveryForm\html\passwordRecoveryForm.jsp" />
+    <file source="jnt_passwordRecoveryForm\html\passwordRecoveryForm.properties" destination="modules\userregistration\jnt_passwordRecoveryForm\html\passwordRecoveryForm.properties" />
+    <file source="jnt_userRegistration\" destination="modules\userregistration\jnt_userRegistration" />
+    <file source="jnt_userRegistration\html\" destination="modules\userregistration\jnt_userRegistration\html" />
+    <file source="jnt_userRegistration\html\userRegistration.jsp" destination="modules\userregistration\jnt_userRegistration\html\userRegistration.jsp" />
+    <file source="mails\" destination="modules\userregistration\mails" />
+    <file source="mails\templates\" destination="modules\userregistration\mails\templates" />
+    <file source="mails\templates\recoveruserpassword.vm" destination="modules\userregistration\mails\templates\recoveruserpassword.vm" />
+    <file source="mails\templates\userhasregistered.vm" destination="modules\userregistration\mails\templates\userhasregistered.vm" />
+    <file source="resources\" destination="modules\userregistration\resources" />
+    <file source="resources\JahiaUserRegistration.properties" destination="modules\userregistration\resources\JahiaUserRegistration.properties" />
+    <file source="resources\JahiaUserRegistration_de.properties" destination="modules\userregistration\resources\JahiaUserRegistration_de.properties" />
+    <file source="resources\JahiaUserRegistration_en.properties" destination="modules\userregistration\resources\JahiaUserRegistration_en.properties" />
+    <file source="resources\JahiaUserRegistration_fr.properties" destination="modules\userregistration\resources\JahiaUserRegistration_fr.properties" />
+  </deployed>
+</module>
+

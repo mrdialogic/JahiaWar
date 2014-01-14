@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Summary</name>
+  <depends>Default Jahia Templates</depends>
+  <rootFolder>summary</rootFolder>
+  <version>1.2</version>
+  <build-timestamp>2012-01-31T01:31:36.000+11:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:13.723+11:00</deployment-timestamp>
+  <package name="summary-1.2.war" path="WEB-INF\var\shared_modules\summary-1.2.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\summary\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\summary\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\summary\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\summary\META-INF\definitions.cnd" />
+    <file source="WEB-INF\" destination="modules\summary\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\summary\WEB-INF\classes" />
+    <file source="css\" destination="modules\summary\css" />
+    <file source="css\summary.css" destination="modules\summary\css\summary.css" />
+    <file source="icons\" destination="modules\summary\icons" />
+    <file source="icons\jnt_summary.png" destination="modules\summary\icons\jnt_summary.png" />
+    <file source="icons\jnt_summary_large.png" destination="modules\summary\icons\jnt_summary_large.png" />
+    <file source="jmix_list\" destination="modules\summary\jmix_list" />
+    <file source="jmix_list\html\" destination="modules\summary\jmix_list\html" />
+    <file source="jmix_list\html\list.anchor.jsp" destination="modules\summary\jmix_list\html\list.anchor.jsp" />
+    <file source="jnt_summary\" destination="modules\summary\jnt_summary" />
+    <file source="jnt_summary\html\" destination="modules\summary\jnt_summary\html" />
+    <file source="jnt_summary\html\summary.jsp" destination="modules\summary\jnt_summary\html\summary.jsp" />
+    <file source="nt_base\" destination="modules\summary\nt_base" />
+    <file source="nt_base\html\" destination="modules\summary\nt_base\html" />
+    <file source="nt_base\html\base.hidden.summaryEl.jsp" destination="modules\summary\nt_base\html\base.hidden.summaryEl.jsp" />
+    <file source="resources\" destination="modules\summary\resources" />
+    <file source="resources\JahiaSummary.properties" destination="modules\summary\resources\JahiaSummary.properties" />
+    <file source="resources\JahiaSummary_en.properties" destination="modules\summary\resources\JahiaSummary_en.properties" />
+    <file source="resources\JahiaSummary_fr.properties" destination="modules\summary\resources\JahiaSummary_fr.properties" />
+  </deployed>
+</module>
+

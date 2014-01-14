@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Google Analytics</name>
+  <depends>Default Jahia Templates</depends>
+  <rootFolder>googleAnalytics</rootFolder>
+  <version>1.3</version>
+  <build-timestamp>2012-10-10T08:20:16.000+11:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:06.162+11:00</deployment-timestamp>
+  <package name="googleAnalytics-1.3.war" path="WEB-INF\var\shared_modules\googleAnalytics-1.3.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\googleAnalytics\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\googleAnalytics\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\googleAnalytics\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\googleAnalytics\META-INF\definitions.cnd" />
+    <file source="META-INF\spring\" destination="modules\googleAnalytics\META-INF\spring" />
+    <file source="META-INF\spring\googleAnalytics.xml" destination="modules\googleAnalytics\META-INF\spring\googleAnalytics.xml" />
+    <file source="WEB-INF\" destination="modules\googleAnalytics\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\googleAnalytics\WEB-INF\classes" />
+    <file source="WEB-INF\lib\" destination="modules\googleAnalytics\WEB-INF\lib" />
+    <file source="WEB-INF\lib\googleAnalytics-1.3.jar" destination="WEB-INF\lib\googleAnalytics-1.3.jar" />
+    <file source="WEB-INF\scripts\" destination="modules\googleAnalytics\WEB-INF\scripts" />
+    <file source="WEB-INF\scripts\googleAnalytics.groovy" destination="modules\googleAnalytics\WEB-INF\scripts\googleAnalytics.groovy" />
+    <file source="icons\" destination="modules\googleAnalytics\icons" />
+    <file source="icons\jnt_googleAnalyticsBind.png" destination="modules\googleAnalytics\icons\jnt_googleAnalyticsBind.png" />
+    <file source="icons\jnt_googleAnalyticsBind_large.png" destination="modules\googleAnalytics\icons\jnt_googleAnalyticsBind_large.png" />
+    <file source="jnt_googleAnalyticsBind\" destination="modules\googleAnalytics\jnt_googleAnalyticsBind" />
+    <file source="jnt_googleAnalyticsBind\html\" destination="modules\googleAnalytics\jnt_googleAnalyticsBind\html" />
+    <file source="jnt_googleAnalyticsBind\html\googleAnalyticsBind.jsp" destination="modules\googleAnalytics\jnt_googleAnalyticsBind\html\googleAnalyticsBind.jsp" />
+    <file source="jnt_googleAnalyticsBind\html\googleAnalyticsBind.properties" destination="modules\googleAnalytics\jnt_googleAnalyticsBind\html\googleAnalyticsBind.properties" />
+    <file source="resources\" destination="modules\googleAnalytics\resources" />
+    <file source="resources\JahiaGoogleAnalytics.properties" destination="modules\googleAnalytics\resources\JahiaGoogleAnalytics.properties" />
+    <file source="resources\JahiaGoogleAnalytics_en.properties" destination="modules\googleAnalytics\resources\JahiaGoogleAnalytics_en.properties" />
+    <file source="resources\JahiaGoogleAnalytics_fr.properties" destination="modules\googleAnalytics\resources\JahiaGoogleAnalytics_fr.properties" />
+  </deployed>
+</module>
+

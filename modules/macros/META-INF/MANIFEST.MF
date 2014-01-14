@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Implementation-Title: Jahia Macros
+Implementation-Version: 6.6.2.0
+root-folder: macros
+Built-By: bamboo
+Specification-Vendor: Jahia Solutions Group SA
+Created-By: Jahia
+Implementation-URL: http://www.jahia.com
+Implementation-Vendor: Jahia Solutions Group SA
+package-name: Jahia Macros
+module-type: system
+Implementation-Vendor-Id: org.jahia
+Build-Jdk: 1.6.0_26
+Specification-Title: Jahia Macros
+Specification-Version: 6.6.2.0
+depends: default
+Archiver-Version: Plexus Archiver
+

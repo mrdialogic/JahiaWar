@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Article</name>
+  <depends>Default Jahia Templates</depends>
+  <rootFolder>article</rootFolder>
+  <version>1.2</version>
+  <build-timestamp>2012-01-31T01:30:46.000+11:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:38:49.966+11:00</deployment-timestamp>
+  <package name="article-1.2.war" path="WEB-INF\var\shared_modules\article-1.2.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\article\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\article\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\article\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\article\META-INF\definitions.cnd" />
+    <file source="WEB-INF\" destination="modules\article\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\article\WEB-INF\classes" />
+    <file source="css\" destination="modules\article\css" />
+    <file source="css\article.css" destination="modules\article\css\article.css" />
+    <file source="css\img\" destination="modules\article\css\img" />
+    <file source="css\img\article-tag.gif" destination="modules\article\css\img\article-tag.gif" />
+    <file source="css\img\quote-bottom.png" destination="modules\article\css\img\quote-bottom.png" />
+    <file source="css\img\quote-top.png" destination="modules\article\css\img\quote-top.png" />
+    <file source="icons\" destination="modules\article\icons" />
+    <file source="icons\jnt_article.png" destination="modules\article\icons\jnt_article.png" />
+    <file source="icons\jnt_article_large.png" destination="modules\article\icons\jnt_article_large.png" />
+    <file source="jnt_article\" destination="modules\article\jnt_article" />
+    <file source="jnt_article\html\" destination="modules\article\jnt_article\html" />
+    <file source="jnt_article\html\article.jsp" destination="modules\article\jnt_article\html\article.jsp" />
+    <file source="jnt_paragraph\" destination="modules\article\jnt_paragraph" />
+    <file source="jnt_paragraph\html\" destination="modules\article\jnt_paragraph\html" />
+    <file source="jnt_paragraph\html\paragraph.jsp" destination="modules\article\jnt_paragraph\html\paragraph.jsp" />
+    <file source="resources\" destination="modules\article\resources" />
+    <file source="resources\JahiaArticle.properties" destination="modules\article\resources\JahiaArticle.properties" />
+    <file source="resources\JahiaArticle_de.properties" destination="modules\article\resources\JahiaArticle_de.properties" />
+    <file source="resources\JahiaArticle_en.properties" destination="modules\article\resources\JahiaArticle_en.properties" />
+    <file source="resources\JahiaArticle_fr.properties" destination="modules\article\resources\JahiaArticle_fr.properties" />
+  </deployed>
+</module>
+

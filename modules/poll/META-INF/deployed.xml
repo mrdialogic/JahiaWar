@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Poll</name>
+  <depends>Default Jahia Templates</depends>
+  <rootFolder>poll</rootFolder>
+  <version>1.5</version>
+  <build-timestamp>2013-07-15T15:10:48.000+10:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:10.791+11:00</deployment-timestamp>
+  <package name="poll-1.5.war" path="WEB-INF\var\shared_modules\poll-1.5.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\poll\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\poll\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\poll\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\poll\META-INF\definitions.cnd" />
+    <file source="META-INF\live-rules.drl" destination="modules\poll\META-INF\live-rules.drl" />
+    <file source="META-INF\rules.drl" destination="modules\poll\META-INF\rules.drl" />
+    <file source="META-INF\spring\" destination="modules\poll\META-INF\spring" />
+    <file source="META-INF\spring\poll.xml" destination="modules\poll\META-INF\spring\poll.xml" />
+    <file source="WEB-INF\" destination="modules\poll\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\poll\WEB-INF\classes" />
+    <file source="WEB-INF\lib\" destination="modules\poll\WEB-INF\lib" />
+    <file source="WEB-INF\lib\poll-1.5.jar" destination="WEB-INF\lib\poll-1.5.jar" />
+    <file source="css\" destination="modules\poll\css" />
+    <file source="css\poll.css" destination="modules\poll\css\poll.css" />
+    <file source="icons\" destination="modules\poll\icons" />
+    <file source="icons\jnt_poll.png" destination="modules\poll\icons\jnt_poll.png" />
+    <file source="icons\jnt_poll_large.png" destination="modules\poll\icons\jnt_poll_large.png" />
+    <file source="javascript\" destination="modules\poll\javascript" />
+    <file source="javascript\poll.js" destination="modules\poll\javascript\poll.js" />
+    <file source="jnt_answer\" destination="modules\poll\jnt_answer" />
+    <file source="jnt_answer\html\" destination="modules\poll\jnt_answer\html" />
+    <file source="jnt_answer\html\answer.jsp" destination="modules\poll\jnt_answer\html\answer.jsp" />
+    <file source="jnt_lastPolls\" destination="modules\poll\jnt_lastPolls" />
+    <file source="jnt_lastPolls\html\" destination="modules\poll\jnt_lastPolls\html" />
+    <file source="jnt_lastPolls\html\lastPolls.hidden.load.jsp" destination="modules\poll\jnt_lastPolls\html\lastPolls.hidden.load.jsp" />
+    <file source="jnt_lastPolls\html\lastPolls.properties" destination="modules\poll\jnt_lastPolls\html\lastPolls.properties" />
+    <file source="jnt_poll\" destination="modules\poll\jnt_poll" />
+    <file source="jnt_poll\html\" destination="modules\poll\jnt_poll\html" />
+    <file source="jnt_poll\html\poll.jsp" destination="modules\poll\jnt_poll\html\poll.jsp" />
+    <file source="resources\" destination="modules\poll\resources" />
+    <file source="resources\JahiaPoll.properties" destination="modules\poll\resources\JahiaPoll.properties" />
+    <file source="resources\JahiaPoll_en.properties" destination="modules\poll\resources\JahiaPoll_en.properties" />
+    <file source="resources\JahiaPoll_fr.properties" destination="modules\poll\resources\JahiaPoll_fr.properties" />
+  </deployed>
+</module>
+

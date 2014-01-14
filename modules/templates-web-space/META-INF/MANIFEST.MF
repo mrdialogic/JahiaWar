@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: bamboo
+Build-Jdk: 1.5.0_22
+Implementation-Title: Jahia Web Templates Space
+Implementation-URL: http://www.jahia.com
+Implementation-Vendor: Jahia Solutions Group SA
+Implementation-Vendor-Id: org.jahia
+Implementation-Version: 1.4
+Specification-Title: Jahia Web Templates Space
+Specification-Vendor: Jahia Solutions Group SA
+Specification-Version: 1.4
+depends: default,grid,calendar,event,facets,news,search,sitemap,skins,
+ default-skins,blog,rating,profile
+module-type: templatesSet
+package-name: Jahia Web Templates Space
+root-folder: templates-web-space
+

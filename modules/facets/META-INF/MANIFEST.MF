@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Implementation-Title: Jahia Facets
+Implementation-Version: 6.6.2.0
+root-folder: facets
+Built-By: bamboo
+Specification-Vendor: Jahia Solutions Group SA
+Created-By: Jahia
+Implementation-URL: http://www.jahia.com
+Implementation-Vendor: Jahia Solutions Group SA
+package-name: Jahia Facets
+module-type: module
+Implementation-Vendor-Id: org.jahia
+Build-Jdk: 1.6.0_26
+Specification-Title: Jahia Facets
+Specification-Version: 6.6.2.0
+depends: assets
+Archiver-Version: Plexus Archiver
+

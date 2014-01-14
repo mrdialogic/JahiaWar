@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Tasks</name>
+  <depends>Default Jahia Templates,Jahia User Profile</depends>
+  <rootFolder>tasks</rootFolder>
+  <version>6.6.2.0</version>
+  <build-timestamp>2013-08-27T19:36:28.000+10:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:14.200+11:00</deployment-timestamp>
+  <package name="tasks-6.6.2.0.war" path="WEB-INF\var\shared_modules\tasks-6.6.2.0.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\tasks\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\tasks\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\tasks\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\tasks\META-INF\definitions.cnd" />
+    <file source="META-INF\rules.drl" destination="modules\tasks\META-INF\rules.drl" />
+    <file source="META-INF\rules.dsl" destination="modules\tasks\META-INF\rules.dsl" />
+    <file source="META-INF\spring\" destination="modules\tasks\META-INF\spring" />
+    <file source="META-INF\spring\mod-tasks.xml" destination="modules\tasks\META-INF\spring\mod-tasks.xml" />
+    <file source="WEB-INF\" destination="modules\tasks\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\tasks\WEB-INF\classes" />
+    <file source="WEB-INF\lib\" destination="modules\tasks\WEB-INF\lib" />
+    <file source="WEB-INF\lib\tasks-6.6.2.0.jar" destination="WEB-INF\lib\tasks-6.6.2.0.jar" />
+    <file source="WEB-INF\macros\" destination="modules\tasks\WEB-INF\macros" />
+    <file source="WEB-INF\macros\tasksCount.groovy" destination="modules\tasks\WEB-INF\macros\tasksCount.groovy" />
+    <file source="css\" destination="modules\tasks\css" />
+    <file source="css\img\" destination="modules\tasks\css\img" />
+    <file source="css\img\assign.png" destination="modules\tasks\css\img\assign.png" />
+    <file source="css\img\boxtasks-h4title.png" destination="modules\tasks\css\img\boxtasks-h4title.png" />
+    <file source="css\img\complete.png" destination="modules\tasks\css\img\complete.png" />
+    <file source="css\img\continue.png" destination="modules\tasks\css\img\continue.png" />
+    <file source="css\img\icalendar.png" destination="modules\tasks\css\img\icalendar.png" />
+    <file source="css\img\preview.png" destination="modules\tasks\css\img\preview.png" />
+    <file source="css\img\refuse.png" destination="modules\tasks\css\img\refuse.png" />
+    <file source="css\img\start.png" destination="modules\tasks\css\img\start.png" />
+    <file source="css\img\suspend.png" destination="modules\tasks\css\img\suspend.png" />
+    <file source="css\img\task-high.png" destination="modules\tasks\css\img\task-high.png" />
+    <file source="css\img\task-low.png" destination="modules\tasks\css\img\task-low.png" />
+    <file source="css\img\task-normal.png" destination="modules\tasks\css\img\task-normal.png" />
+    <file source="css\img\task.png" destination="modules\tasks\css\img\task.png" />
+    <file source="css\img\tdtaskcomments-bg.png" destination="modules\tasks\css\img\tdtaskcomments-bg.png" />
+    <file source="css\tasks.css" destination="modules\tasks\css\tasks.css" />
+    <file source="icons\" destination="modules\tasks\icons" />
+    <file source="icons\jnt_currentUserTasks.png" destination="modules\tasks\icons\jnt_currentUserTasks.png" />
+    <file source="icons\jnt_currentUserTasks_large.png" destination="modules\tasks\icons\jnt_currentUserTasks_large.png" />
+    <file source="icons\jnt_tasks.png" destination="modules\tasks\icons\jnt_tasks.png" />
+    <file source="icons\jnt_tasks_large.png" destination="modules\tasks\icons\jnt_tasks_large.png" />
+    <file source="images\" destination="modules\tasks\images" />
+    <file source="images\bookmark_16.png" destination="modules\tasks\images\bookmark_16.png" />
+    <file source="images\bubble_16.png" destination="modules\tasks\images\bubble_16.png" />
+    <file source="images\clipboard_16.png" destination="modules\tasks\images\clipboard_16.png" />
+    <file source="images\document_16.png" destination="modules\tasks\images\document_16.png" />
+    <file source="images\flag_16.png" destination="modules\tasks\images\flag_16.png" />
+    <file source="images\right_16.png" destination="modules\tasks\images\right_16.png" />
+    <file source="images\sort-arrow-down.png" destination="modules\tasks\images\sort-arrow-down.png" />
+    <file source="images\sort-arrow-up.png" destination="modules\tasks\images\sort-arrow-up.png" />
+    <file source="images\tick_16.png" destination="modules\tasks\images\tick_16.png" />
+    <file source="images\warning_16.png" destination="modules\tasks\images\warning_16.png" />
+    <file source="images\workflow.png" destination="modules\tasks\images\workflow.png" />
+    <file source="javascript\" destination="modules\tasks\javascript" />
+    <file source="javascript\tasks.js" destination="modules\tasks\javascript\tasks.js" />
+    <file source="jnt_createTaskForm\" destination="modules\tasks\jnt_createTaskForm" />
+    <file source="jnt_createTaskForm\html\" destination="modules\tasks\jnt_createTaskForm\html" />
+    <file source="jnt_createTaskForm\html\createTaskForm.jsp" destination="modules\tasks\jnt_createTaskForm\html\createTaskForm.jsp" />
+    <file source="jnt_currentUserTasks\" destination="modules\tasks\jnt_currentUserTasks" />
+    <file source="jnt_currentUserTasks\html\" destination="modules\tasks\jnt_currentUserTasks\html" />
+    <file source="jnt_currentUserTasks\html\currentUserTasks.hidden.load.jsp" destination="modules\tasks\jnt_currentUserTasks\html\currentUserTasks.hidden.load.jsp" />
+    <file source="jnt_currentUserTasks\html\currentUserTasks.jsp" destination="modules\tasks\jnt_currentUserTasks\html\currentUserTasks.jsp" />
+    <file source="jnt_currentUserTasks\html\currentUserTasks.properties" destination="modules\tasks\jnt_currentUserTasks\html\currentUserTasks.properties" />
+    <file source="jnt_currentUserTasks\html\currentUserTasks.simple.jsp" destination="modules\tasks\jnt_currentUserTasks\html\currentUserTasks.simple.jsp" />
+    <file source="jnt_currentUserTasks\html\currentUserTasks.simple.properties" destination="modules\tasks\jnt_currentUserTasks\html\currentUserTasks.simple.properties" />
+    <file source="jnt_taskList\" destination="modules\tasks\jnt_taskList" />
+    <file source="jnt_taskList\html\" destination="modules\tasks\jnt_taskList\html" />
+    <file source="jnt_taskList\html\taskList.hidden.load.jsp" destination="modules\tasks\jnt_taskList\html\taskList.hidden.load.jsp" />
+    <file source="jnt_taskSchedule\" destination="modules\tasks\jnt_taskSchedule" />
+    <file source="jnt_taskSchedule\html\" destination="modules\tasks\jnt_taskSchedule\html" />
+    <file source="jnt_taskSchedule\html\taskSchedule.jsp" destination="modules\tasks\jnt_taskSchedule\html\taskSchedule.jsp" />
+    <file source="jnt_taskSchedule\html\taskSchedule.user.jsp" destination="modules\tasks\jnt_taskSchedule\html\taskSchedule.user.jsp" />
+    <file source="jnt_task\" destination="modules\tasks\jnt_task" />
+    <file source="jnt_task\html\" destination="modules\tasks\jnt_task\html" />
+    <file source="jnt_task\html\task.jsp" destination="modules\tasks\jnt_task\html\task.jsp" />
+    <file source="jnt_task\html\task.planning-short.jsp" destination="modules\tasks\jnt_task\html\task.planning-short.jsp" />
+    <file source="jnt_task\html\task.taskList.jsp" destination="modules\tasks\jnt_task\html\task.taskList.jsp" />
+    <file source="jnt_task\ics\" destination="modules\tasks\jnt_task\ics" />
+    <file source="jnt_task\ics\task.jsp" destination="modules\tasks\jnt_task\ics\task.jsp" />
+    <file source="resources\" destination="modules\tasks\resources" />
+    <file source="resources\JahiaTasks.properties" destination="modules\tasks\resources\JahiaTasks.properties" />
+    <file source="resources\JahiaTasks_de.properties" destination="modules\tasks\resources\JahiaTasks_de.properties" />
+    <file source="resources\JahiaTasks_en.properties" destination="modules\tasks\resources\JahiaTasks_en.properties" />
+    <file source="resources\JahiaTasks_fr.properties" destination="modules\tasks\resources\JahiaTasks_fr.properties" />
+  </deployed>
+</module>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia LDAP connector</name>
+  <rootFolder>ldap</rootFolder>
+  <version>1.4</version>
+  <build-timestamp>2013-05-14T19:16:48.000+10:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:06.836+11:00</deployment-timestamp>
+  <package name="ldap-1.4.war" path="WEB-INF\var\shared_modules\ldap-1.4.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\ldap\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\ldap\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\ldap\META-INF\MANIFEST.MF" />
+    <file source="META-INF\spring\" destination="modules\ldap\META-INF\spring" />
+    <file source="META-INF\spring\groups-ldap.xml.example" destination="modules\ldap\META-INF\spring\groups-ldap.xml.example" />
+    <file source="META-INF\spring\mod-ldap.xml" destination="modules\ldap\META-INF\spring\mod-ldap.xml" />
+    <file source="META-INF\spring\users-ldap.xml.example" destination="modules\ldap\META-INF\spring\users-ldap.xml.example" />
+    <file source="WEB-INF\" destination="modules\ldap\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\ldap\WEB-INF\classes" />
+    <file source="WEB-INF\lib\" destination="modules\ldap\WEB-INF\lib" />
+    <file source="WEB-INF\lib\ldap-1.4.jar" destination="WEB-INF\lib\ldap-1.4.jar" />
+  </deployed>
+</module>
+

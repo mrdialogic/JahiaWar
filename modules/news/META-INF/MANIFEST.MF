@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Implementation-Title: Jahia News
+Implementation-Version: 1.4
+root-folder: news
+Built-By: bamboo
+Specification-Vendor: Jahia Solutions Group SA
+Created-By: Jahia
+Implementation-URL: http://www.jahia.com
+Implementation-Vendor: Jahia Solutions Group SA
+package-name: Jahia News
+module-type: module
+Implementation-Vendor-Id: org.jahia
+Build-Jdk: 1.6.0_26
+Specification-Title: Jahia News
+Specification-Version: 1.4
+depends: default, grid, seo
+Archiver-Version: Plexus Archiver
+

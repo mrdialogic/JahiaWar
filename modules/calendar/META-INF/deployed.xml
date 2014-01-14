@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Calendar</name>
+  <depends>Default Jahia Templates</depends>
+  <rootFolder>calendar</rootFolder>
+  <version>1.3</version>
+  <build-timestamp>2012-10-10T08:20:10.000+11:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:02.056+11:00</deployment-timestamp>
+  <package name="calendar-1.3.war" path="WEB-INF\var\shared_modules\calendar-1.3.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\calendar\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\calendar\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\calendar\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\calendar\META-INF\definitions.cnd" />
+    <file source="WEB-INF\" destination="modules\calendar\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\calendar\WEB-INF\classes" />
+    <file source="css\" destination="modules\calendar\css" />
+    <file source="css\fullcalendar.css" destination="modules\calendar\css\fullcalendar.css" />
+    <file source="icons\" destination="modules\calendar\icons" />
+    <file source="icons\jnt_calendar.png" destination="modules\calendar\icons\jnt_calendar.png" />
+    <file source="icons\jnt_calendar_large.png" destination="modules\calendar\icons\jnt_calendar_large.png" />
+    <file source="javascript\" destination="modules\calendar\javascript" />
+    <file source="javascript\fullcalendar.js" destination="modules\calendar\javascript\fullcalendar.js" />
+    <file source="javascript\i18n\" destination="modules\calendar\javascript\i18n" />
+    <file source="javascript\i18n\calendar-de.js" destination="modules\calendar\javascript\i18n\calendar-de.js" />
+    <file source="javascript\i18n\calendar-en.js" destination="modules\calendar\javascript\i18n\calendar-en.js" />
+    <file source="javascript\i18n\calendar-es.js" destination="modules\calendar\javascript\i18n\calendar-es.js" />
+    <file source="javascript\i18n\calendar-fr.js" destination="modules\calendar\javascript\i18n\calendar-fr.js" />
+    <file source="javascript\i18n\calendar-it.js" destination="modules\calendar\javascript\i18n\calendar-it.js" />
+    <file source="javascript\i18n\calendar-pt.js" destination="modules\calendar\javascript\i18n\calendar-pt.js" />
+    <file source="jnt_calendar\" destination="modules\calendar\jnt_calendar" />
+    <file source="jnt_calendar\html\" destination="modules\calendar\jnt_calendar\html" />
+    <file source="jnt_calendar\html\calendar.jsp" destination="modules\calendar\jnt_calendar\html\calendar.jsp" />
+    <file source="jnt_calendar\html\calendar.properties" destination="modules\calendar\jnt_calendar\html\calendar.properties" />
+    <file source="resources\" destination="modules\calendar\resources" />
+    <file source="resources\JahiaCalendar.properties" destination="modules\calendar\resources\JahiaCalendar.properties" />
+    <file source="resources\JahiaCalendar_de.properties" destination="modules\calendar\resources\JahiaCalendar_de.properties" />
+    <file source="resources\JahiaCalendar_en.properties" destination="modules\calendar\resources\JahiaCalendar_en.properties" />
+    <file source="resources\JahiaCalendar_fr.properties" destination="modules\calendar\resources\JahiaCalendar_fr.properties" />
+  </deployed>
+</module>
+

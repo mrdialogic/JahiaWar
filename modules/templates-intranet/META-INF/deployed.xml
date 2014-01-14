@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Intranet Templates</name>
+  <depends>default,grid,search,calendar,facets,profile,summary,skins,default-skins</depends>
+  <rootFolder>templates-intranet</rootFolder>
+  <version>1.3</version>
+  <build-timestamp>2012-10-10T07:43:22.000+11:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:14.394+11:00</deployment-timestamp>
+  <package name="templates-intranet-1.3.war" path="WEB-INF\var\shared_modules\templates-intranet-1.3.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\templates-intranet\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\templates-intranet\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\templates-intranet\META-INF\MANIFEST.MF" />
+    <file source="META-INF\import.zip" destination="modules\templates-intranet\META-INF\import.zip" />
+    <file source="META-INF\spring\" destination="modules\templates-intranet\META-INF\spring" />
+    <file source="META-INF\spring\mod-templates-intranet.xml" destination="modules\templates-intranet\META-INF\spring\mod-templates-intranet.xml" />
+    <file source="WEB-INF\" destination="modules\templates-intranet\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\templates-intranet\WEB-INF\classes" />
+    <file source="common\" destination="modules\templates-intranet\common" />
+    <file source="common\declarations.jspf" destination="modules\templates-intranet\common\declarations.jspf" />
+    <file source="css\" destination="modules\templates-intranet\css" />
+    <file source="css\01web.css" destination="modules\templates-intranet\css\01web.css" />
+    <file source="css\02mod.css" destination="modules\templates-intranet\css\02mod.css" />
+    <file source="css\edit.css" destination="modules\templates-intranet\css\edit.css" />
+    <file source="css\fonts\" destination="modules\templates-intranet\css\fonts" />
+    <file source="css\fonts\BorisBlackBloxx.ttf" destination="modules\templates-intranet\css\fonts\BorisBlackBloxx.ttf" />
+    <file source="css\fonts\STREET.ttf" destination="modules\templates-intranet\css\fonts\STREET.ttf" />
+    <file source="css\ie.css" destination="modules\templates-intranet\css\ie.css" />
+    <file source="css\ie6.css" destination="modules\templates-intranet\css\ie6.css" />
+    <file source="css\img\" destination="modules\templates-intranet\css\img" />
+    <file source="css\img\160x41_Get_Flash_Player.jpg" destination="modules\templates-intranet\css\img\160x41_Get_Flash_Player.jpg" />
+    <file source="css\img\1px-white.png" destination="modules\templates-intranet\css\img\1px-white.png" />
+    <file source="css\img\arrow-down.png" destination="modules\templates-intranet\css\img\arrow-down.png" />
+    <file source="css\img\arrow.png" destination="modules\templates-intranet\css\img\arrow.png" />
+    <file source="css\img\bg-button-on.png" destination="modules\templates-intranet\css\img\bg-button-on.png" />
+    <file source="css\img\bg-button.png" destination="modules\templates-intranet\css\img\bg-button.png" />
+    <file source="css\img\bg-navigationN2-on.png" destination="modules\templates-intranet\css\img\bg-navigationN2-on.png" />
+    <file source="css\img\bg-navigationN2-selected.png" destination="modules\templates-intranet\css\img\bg-navigationN2-selected.png" />
+    <file source="css\img\bg-navigationN2.png" destination="modules\templates-intranet\css\img\bg-navigationN2.png" />
+    <file source="css\img\blockquote.png" destination="modules\templates-intranet\css\img\blockquote.png" />
+    <file source="css\img\bottomheader-bg.png" destination="modules\templates-intranet\css\img\bottomheader-bg.png" />
+    <file source="css\img\breadcrumb-separator.png" destination="modules\templates-intranet\css\img\breadcrumb-separator.png" />
+    <file source="css\img\button-left.png" destination="modules\templates-intranet\css\img\button-left.png" />
+    <file source="css\img\button-right.png" destination="modules\templates-intranet\css\img\button-right.png" />
+    <file source="css\img\contactformlegend.png" destination="modules\templates-intranet\css\img\contactformlegend.png" />
+    <file source="css\img\delete_16.png" destination="modules\templates-intranet\css\img\delete_16.png" />
+    <file source="css\img\error-messages.png" destination="modules\templates-intranet\css\img\error-messages.png" />
+    <file source="css\img\hr-bg.png" destination="modules\templates-intranet\css\img\hr-bg.png" />
+    <file source="css\img\icon-home-over.png" destination="modules\templates-intranet\css\img\icon-home-over.png" />
+    <file source="css\img\icon-home.png" destination="modules\templates-intranet\css\img\icon-home.png" />
+    <file source="css\img\input_bg.png" destination="modules\templates-intranet\css\img\input_bg.png" />
+    <file source="css\img\logo-top.png" destination="modules\templates-intranet\css\img\logo-top.png" />
+    <file source="css\img\mockup.png" destination="modules\templates-intranet\css\img\mockup.png" />
+    <file source="css\img\mod\" destination="modules\templates-intranet\css\img\mod" />
+    <file source="css\img\mod\bg-button-on.png" destination="modules\templates-intranet\css\img\mod\bg-button-on.png" />
+    <file source="css\img\mod\bg-button.png" destination="modules\templates-intranet\css\img\mod\bg-button.png" />
+    <file source="css\img\mod\boxteaser-bg.png" destination="modules\templates-intranet\css\img\mod\boxteaser-bg.png" />
+    <file source="css\img\mod\shortcuts-bg-on.png" destination="modules\templates-intranet\css\img\mod\shortcuts-bg-on.png" />
+    <file source="css\img\mod\shortcuts-bg.png" destination="modules\templates-intranet\css\img\mod\shortcuts-bg.png" />
+    <file source="css\img\mod\tab-bg.png" destination="modules\templates-intranet\css\img\mod\tab-bg.png" />
+    <file source="css\img\mod\tab-left.png" destination="modules\templates-intranet\css\img\mod\tab-left.png" />
+    <file source="css\img\mod\tab-right.png" destination="modules\templates-intranet\css\img\mod\tab-right.png" />
+    <file source="css\img\more.png" destination="modules\templates-intranet\css\img\more.png" />
+    <file source="css\img\nav-bg.png" destination="modules\templates-intranet\css\img\nav-bg.png" />
+    <file source="css\img\navbar-bg.png" destination="modules\templates-intranet\css\img\navbar-bg.png" />
+    <file source="css\img\plus.png" destination="modules\templates-intranet\css\img\plus.png" />
+    <file source="css\img\returnlink.png" destination="modules\templates-intranet\css\img\returnlink.png" />
+    <file source="css\img\search-bar-bg.png" destination="modules\templates-intranet\css\img\search-bar-bg.png" />
+    <file source="css\img\sliderimg\" destination="modules\templates-intranet\css\img\sliderimg" />
+    <file source="css\img\sliderimg\bg_body.gif" destination="modules\templates-intranet\css\img\sliderimg\bg_body.gif" />
+    <file source="css\img\sliderimg\bg_header.gif" destination="modules\templates-intranet\css\img\sliderimg\bg_header.gif" />
+    <file source="css\img\sliderimg\btn_next.gif" destination="modules\templates-intranet\css\img\sliderimg\btn_next.gif" />
+    <file source="css\img\sliderimg\btn_prev.gif" destination="modules\templates-intranet\css\img\sliderimg\btn_prev.gif" />
+    <file source="css\img\sort-arrow-down.png" destination="modules\templates-intranet\css\img\sort-arrow-down.png" />
+    <file source="css\img\sort-arrow-up.png" destination="modules\templates-intranet\css\img\sort-arrow-up.png" />
+    <file source="css\img\tick_16.png" destination="modules\templates-intranet\css\img\tick_16.png" />
+    <file source="css\navigation.css" destination="modules\templates-intranet\css\navigation.css" />
+    <file source="css\navigationN1-1.css" destination="modules\templates-intranet\css\navigationN1-1.css" />
+    <file source="css\navigationN1-1\" destination="modules\templates-intranet\css\navigationN1-1" />
+    <file source="css\navigationN1-1\topnav_active.gif" destination="modules\templates-intranet\css\navigationN1-1\topnav_active.gif" />
+    <file source="css\navigationN1-1\topnav_selected.gif" destination="modules\templates-intranet\css\navigationN1-1\topnav_selected.gif" />
+    <file source="css\navigationN1-1\topnav_stretch.gif" destination="modules\templates-intranet\css\navigationN1-1\topnav_stretch.gif" />
+    <file source="css\navigationN1-2.css" destination="modules\templates-intranet\css\navigationN1-2.css" />
+    <file source="css\navigationN1-3.css" destination="modules\templates-intranet\css\navigationN1-3.css" />
+    <file source="css\navigationN1-3\" destination="modules\templates-intranet\css\navigationN1-3" />
+    <file source="css\navigationN1-3\topnav_active.png" destination="modules\templates-intranet\css\navigationN1-3\topnav_active.png" />
+    <file source="css\navigationN1-3\topnav_selected.png" destination="modules\templates-intranet\css\navigationN1-3\topnav_selected.png" />
+    <file source="css\navigationN1-3\topnav_stretch.png" destination="modules\templates-intranet\css\navigationN1-3\topnav_stretch.png" />
+    <file source="css\navigationN1-4.css" destination="modules\templates-intranet\css\navigationN1-4.css" />
+    <file source="css\navigationN2-1.css" destination="modules\templates-intranet\css\navigationN2-1.css" />
+    <file source="css\navigationN2-1\" destination="modules\templates-intranet\css\navigationN2-1" />
+    <file source="css\navigationN2-1\topnav_active.png" destination="modules\templates-intranet\css\navigationN2-1\topnav_active.png" />
+    <file source="css\navigationN2-1\topnav_selected.png" destination="modules\templates-intranet\css\navigationN2-1\topnav_selected.png" />
+    <file source="css\navigationN2-1\topnav_stretch.png" destination="modules\templates-intranet\css\navigationN2-1\topnav_stretch.png" />
+    <file source="css\navigationN2-2.css" destination="modules\templates-intranet\css\navigationN2-2.css" />
+    <file source="css\print.css" destination="modules\templates-intranet\css\print.css" />
+    <file source="css\templates-intranet.css" destination="modules\templates-intranet\css\templates-intranet.css" />
+    <file source="css\templates-intranet.min.css" destination="modules\templates-intranet\css\templates-intranet.min.css" />
+    <file source="css\theme-yellow.zip" destination="modules\templates-intranet\css\theme-yellow.zip" />
+    <file source="jnt_template\" destination="modules\templates-intranet\jnt_template" />
+    <file source="jnt_template\html\" destination="modules\templates-intranet\jnt_template\html" />
+    <file source="jnt_template\html\template.intranet.jsp" destination="modules\templates-intranet\jnt_template\html\template.intranet.jsp" />
+    <file source="resources\" destination="modules\templates-intranet\resources" />
+    <file source="resources\JahiaPages.properties" destination="modules\templates-intranet\resources\JahiaPages.properties" />
+    <file source="resources\JahiaPages_de.properties" destination="modules\templates-intranet\resources\JahiaPages_de.properties" />
+    <file source="resources\JahiaPages_en.properties" destination="modules\templates-intranet\resources\JahiaPages_en.properties" />
+    <file source="resources\JahiaPages_fr.properties" destination="modules\templates-intranet\resources\JahiaPages_fr.properties" />
+    <file source="scripts\" destination="modules\templates-intranet\scripts" />
+    <file source="scripts\csshover3.htc" destination="modules\templates-intranet\scripts\csshover3.htc" />
+  </deployed>
+</module>
+

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Form Builder</name>
+  <depends>default,grid</depends>
+  <rootFolder>formbuilder</rootFolder>
+  <version>1.7</version>
+  <build-timestamp>2013-08-26T12:20:08.000+10:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:05.543+11:00</deployment-timestamp>
+  <package name="formbuilder-1.7.war" path="WEB-INF\var\shared_modules\formbuilder-1.7.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\formbuilder\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\formbuilder\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\formbuilder\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\formbuilder\META-INF\definitions.cnd" />
+    <file source="META-INF\import.zip" destination="modules\formbuilder\META-INF\import.zip" />
+    <file source="META-INF\spring\" destination="modules\formbuilder\META-INF\spring" />
+    <file source="META-INF\spring\mod-formbuilder.xml" destination="modules\formbuilder\META-INF\spring\mod-formbuilder.xml" />
+    <file source="WEB-INF\" destination="modules\formbuilder\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\formbuilder\WEB-INF\classes" />
+    <file source="WEB-INF\lib\" destination="modules\formbuilder\WEB-INF\lib" />
+    <file source="WEB-INF\lib\formbuilder-1.7.jar" destination="WEB-INF\lib\formbuilder-1.7.jar" />
+    <file source="css\" destination="modules\formbuilder\css" />
+    <file source="css\formbuilder.css" destination="modules\formbuilder\css\formbuilder.css" />
+    <file source="icons\" destination="modules\formbuilder\icons" />
+    <file source="icons\jnt_form.png" destination="modules\formbuilder\icons\jnt_form.png" />
+    <file source="icons\jnt_form_large.png" destination="modules\formbuilder\icons\jnt_form_large.png" />
+    <file source="jnt_addressBlock\" destination="modules\formbuilder\jnt_addressBlock" />
+    <file source="jnt_addressBlock\html\" destination="modules\formbuilder\jnt_addressBlock\html" />
+    <file source="jnt_addressBlock\html\addressBlock.jsp" destination="modules\formbuilder\jnt_addressBlock\html\addressBlock.jsp" />
+    <file source="jnt_automaticList\" destination="modules\formbuilder\jnt_automaticList" />
+    <file source="jnt_automaticList\html\" destination="modules\formbuilder\jnt_automaticList\html" />
+    <file source="jnt_automaticList\html\automaticList.ajax.jsp" destination="modules\formbuilder\jnt_automaticList\html\automaticList.ajax.jsp" />
+    <file source="jnt_automaticList\html\automaticList.jsp" destination="modules\formbuilder\jnt_automaticList\html\automaticList.jsp" />
+    <file source="jnt_birthdate\" destination="modules\formbuilder\jnt_birthdate" />
+    <file source="jnt_birthdate\html\" destination="modules\formbuilder\jnt_birthdate\html" />
+    <file source="jnt_birthdate\html\birthdate.jsp" destination="modules\formbuilder\jnt_birthdate\html\birthdate.jsp" />
+    <file source="jnt_captcha\" destination="modules\formbuilder\jnt_captcha" />
+    <file source="jnt_captcha\html\" destination="modules\formbuilder\jnt_captcha\html" />
+    <file source="jnt_captcha\html\captcha.jsp" destination="modules\formbuilder\jnt_captcha\html\captcha.jsp" />
+    <file source="jnt_checkboxField\" destination="modules\formbuilder\jnt_checkboxField" />
+    <file source="jnt_checkboxField\html\" destination="modules\formbuilder\jnt_checkboxField\html" />
+    <file source="jnt_checkboxField\html\checkboxField.jsp" destination="modules\formbuilder\jnt_checkboxField\html\checkboxField.jsp" />
+    <file source="jnt_dateField\" destination="modules\formbuilder\jnt_dateField" />
+    <file source="jnt_dateField\html\" destination="modules\formbuilder\jnt_dateField\html" />
+    <file source="jnt_dateField\html\dateField.jsp" destination="modules\formbuilder\jnt_dateField\html\dateField.jsp" />
+    <file source="jnt_dateValidation\" destination="modules\formbuilder\jnt_dateValidation" />
+    <file source="jnt_dateValidation\html\" destination="modules\formbuilder\jnt_dateValidation\html" />
+    <file source="jnt_dateValidation\html\dateValidation.edit.jsp" destination="modules\formbuilder\jnt_dateValidation\html\dateValidation.edit.jsp" />
+    <file source="jnt_dateValidation\html\dateValidation.jsp" destination="modules\formbuilder\jnt_dateValidation\html\dateValidation.jsp" />
+    <file source="jnt_defaultFormAction\" destination="modules\formbuilder\jnt_defaultFormAction" />
+    <file source="jnt_defaultFormAction\html\" destination="modules\formbuilder\jnt_defaultFormAction\html" />
+    <file source="jnt_defaultFormAction\html\defaultFormAction.jsp" destination="modules\formbuilder\jnt_defaultFormAction\html\defaultFormAction.jsp" />
+    <file source="jnt_emailValidation\" destination="modules\formbuilder\jnt_emailValidation" />
+    <file source="jnt_emailValidation\html\" destination="modules\formbuilder\jnt_emailValidation\html" />
+    <file source="jnt_emailValidation\html\emailValidation.edit.jsp" destination="modules\formbuilder\jnt_emailValidation\html\emailValidation.edit.jsp" />
+    <file source="jnt_emailValidation\html\emailValidation.jsp" destination="modules\formbuilder\jnt_emailValidation\html\emailValidation.jsp" />
+    <file source="jnt_fieldset\" destination="modules\formbuilder\jnt_fieldset" />
+    <file source="jnt_fieldset\html\" destination="modules\formbuilder\jnt_fieldset\html" />
+    <file source="jnt_fieldset\html\fieldset.jsp" destination="modules\formbuilder\jnt_fieldset\html\fieldset.jsp" />
+    <file source="jnt_fileElement\" destination="modules\formbuilder\jnt_fileElement" />
+    <file source="jnt_fileElement\html\" destination="modules\formbuilder\jnt_fileElement\html" />
+    <file source="jnt_fileElement\html\fileElement.jsp" destination="modules\formbuilder\jnt_fileElement\html\fileElement.jsp" />
+    <file source="jnt_formListElement\" destination="modules\formbuilder\jnt_formListElement" />
+    <file source="jnt_formListElement\html\" destination="modules\formbuilder\jnt_formListElement\html" />
+    <file source="jnt_formListElement\html\formListElement.jsp" destination="modules\formbuilder\jnt_formListElement\html\formListElement.jsp" />
+    <file source="jnt_form\" destination="modules\formbuilder\jnt_form" />
+    <file source="jnt_form\html\" destination="modules\formbuilder\jnt_form\html" />
+    <file source="jnt_form\html\form.jsp" destination="modules\formbuilder\jnt_form\html\form.jsp" />
+    <file source="jnt_htmlInput\" destination="modules\formbuilder\jnt_htmlInput" />
+    <file source="jnt_htmlInput\html\" destination="modules\formbuilder\jnt_htmlInput\html" />
+    <file source="jnt_htmlInput\html\htmlInput.jsp" destination="modules\formbuilder\jnt_htmlInput\html\htmlInput.jsp" />
+    <file source="jnt_inputMultiline\" destination="modules\formbuilder\jnt_inputMultiline" />
+    <file source="jnt_inputMultiline\html\" destination="modules\formbuilder\jnt_inputMultiline\html" />
+    <file source="jnt_inputMultiline\html\inputMultiline.jsp" destination="modules\formbuilder\jnt_inputMultiline\html\inputMultiline.jsp" />
+    <file source="jnt_inputText\" destination="modules\formbuilder\jnt_inputText" />
+    <file source="jnt_inputText\html\" destination="modules\formbuilder\jnt_inputText\html" />
+    <file source="jnt_inputText\html\inputText.jsp" destination="modules\formbuilder\jnt_inputText\html\inputText.jsp" />
+    <file source="jnt_mailFormAction\" destination="modules\formbuilder\jnt_mailFormAction" />
+    <file source="jnt_mailFormAction\html\" destination="modules\formbuilder\jnt_mailFormAction\html" />
+    <file source="jnt_mailFormAction\html\mailFormAction.jsp" destination="modules\formbuilder\jnt_mailFormAction\html\mailFormAction.jsp" />
+    <file source="jnt_passwordField\" destination="modules\formbuilder\jnt_passwordField" />
+    <file source="jnt_passwordField\html\" destination="modules\formbuilder\jnt_passwordField\html" />
+    <file source="jnt_passwordField\html\passwordField.jsp" destination="modules\formbuilder\jnt_passwordField\html\passwordField.jsp" />
+    <file source="jnt_radiobuttonField\" destination="modules\formbuilder\jnt_radiobuttonField" />
+    <file source="jnt_radiobuttonField\html\" destination="modules\formbuilder\jnt_radiobuttonField\html" />
+    <file source="jnt_radiobuttonField\html\radiobuttonField.jsp" destination="modules\formbuilder\jnt_radiobuttonField\html\radiobuttonField.jsp" />
+    <file source="jnt_rangeValidation\" destination="modules\formbuilder\jnt_rangeValidation" />
+    <file source="jnt_rangeValidation\html\" destination="modules\formbuilder\jnt_rangeValidation\html" />
+    <file source="jnt_rangeValidation\html\rangeValidation.edit.jsp" destination="modules\formbuilder\jnt_rangeValidation\html\rangeValidation.edit.jsp" />
+    <file source="jnt_rangeValidation\html\rangeValidation.jsp" destination="modules\formbuilder\jnt_rangeValidation\html\rangeValidation.jsp" />
+    <file source="jnt_redirectFormAction\" destination="modules\formbuilder\jnt_redirectFormAction" />
+    <file source="jnt_redirectFormAction\html\" destination="modules\formbuilder\jnt_redirectFormAction\html" />
+    <file source="jnt_redirectFormAction\html\redirectFormAction.jsp" destination="modules\formbuilder\jnt_redirectFormAction\html\redirectFormAction.jsp" />
+    <file source="jnt_required\" destination="modules\formbuilder\jnt_required" />
+    <file source="jnt_required\html\" destination="modules\formbuilder\jnt_required\html" />
+    <file source="jnt_required\html\required.edit.jsp" destination="modules\formbuilder\jnt_required\html\required.edit.jsp" />
+    <file source="jnt_required\html\required.jsp" destination="modules\formbuilder\jnt_required\html\required.jsp" />
+    <file source="jnt_resetButton\" destination="modules\formbuilder\jnt_resetButton" />
+    <file source="jnt_resetButton\html\" destination="modules\formbuilder\jnt_resetButton\html" />
+    <file source="jnt_resetButton\html\resetButton.jsp" destination="modules\formbuilder\jnt_resetButton\html\resetButton.jsp" />
+    <file source="jnt_responseToForm\" destination="modules\formbuilder\jnt_responseToForm" />
+    <file source="jnt_responseToForm\csv\" destination="modules\formbuilder\jnt_responseToForm\csv" />
+    <file source="jnt_responseToForm\csv\responseToForm.jsp" destination="modules\formbuilder\jnt_responseToForm\csv\responseToForm.jsp" />
+    <file source="jnt_responseToForm\html\" destination="modules\formbuilder\jnt_responseToForm\html" />
+    <file source="jnt_responseToForm\html\responseToForm.jsp" destination="modules\formbuilder\jnt_responseToForm\html\responseToForm.jsp" />
+    <file source="jnt_responsesList\" destination="modules\formbuilder\jnt_responsesList" />
+    <file source="jnt_responsesList\csv\" destination="modules\formbuilder\jnt_responsesList\csv" />
+    <file source="jnt_responsesList\csv\responsesList.jsp" destination="modules\formbuilder\jnt_responsesList\csv\responsesList.jsp" />
+    <file source="jnt_responsesList\html\" destination="modules\formbuilder\jnt_responsesList\html" />
+    <file source="jnt_responsesList\html\responsesList.jsp" destination="modules\formbuilder\jnt_responsesList\html\responsesList.jsp" />
+    <file source="jnt_selectField\" destination="modules\formbuilder\jnt_selectField" />
+    <file source="jnt_selectField\html\" destination="modules\formbuilder\jnt_selectField\html" />
+    <file source="jnt_selectField\html\selectField.jsp" destination="modules\formbuilder\jnt_selectField\html\selectField.jsp" />
+    <file source="jnt_submitButton\" destination="modules\formbuilder\jnt_submitButton" />
+    <file source="jnt_submitButton\html\" destination="modules\formbuilder\jnt_submitButton\html" />
+    <file source="jnt_submitButton\html\submitButton.jsp" destination="modules\formbuilder\jnt_submitButton\html\submitButton.jsp" />
+    <file source="mails\" destination="modules\formbuilder\mails" />
+    <file source="mails\templates\" destination="modules\formbuilder\mails\templates" />
+    <file source="mails\templates\action\" destination="modules\formbuilder\mails\templates\action" />
+    <file source="mails\templates\action\body.subject.vm" destination="modules\formbuilder\mails\templates\action\body.subject.vm" />
+    <file source="mails\templates\action\body.vm" destination="modules\formbuilder\mails\templates\action\body.vm" />
+    <file source="resources\" destination="modules\formbuilder\resources" />
+    <file source="resources\JahiaFormBuilder.properties" destination="modules\formbuilder\resources\JahiaFormBuilder.properties" />
+    <file source="resources\JahiaFormBuilder_de.properties" destination="modules\formbuilder\resources\JahiaFormBuilder_de.properties" />
+    <file source="resources\JahiaFormBuilder_en.properties" destination="modules\formbuilder\resources\JahiaFormBuilder_en.properties" />
+    <file source="resources\JahiaFormBuilder_fr.properties" destination="modules\formbuilder\resources\JahiaFormBuilder_fr.properties" />
+  </deployed>
+</module>
+

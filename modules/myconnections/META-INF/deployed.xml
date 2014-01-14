@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia My Connections</name>
+  <depends>search,profile,social,tasks,skins,default-skins</depends>
+  <rootFolder>myconnections</rootFolder>
+  <version>1.3</version>
+  <build-timestamp>2012-10-10T08:21:12.000+11:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:08.172+11:00</deployment-timestamp>
+  <package name="myconnections-1.3.war" path="WEB-INF\var\shared_modules\myconnections-1.3.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\myconnections\META-INF" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\myconnections\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\myconnections\META-INF\definitions.cnd" />
+    <file source="META-INF\import.zip" destination="modules\myconnections\META-INF\import.zip" />
+    <file source="META-INF\spring\" destination="modules\myconnections\META-INF\spring" />
+    <file source="META-INF\spring\mod-myconnections.xml" destination="modules\myconnections\META-INF\spring\mod-myconnections.xml" />
+    <file source="WEB-INF\" destination="modules\myconnections\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\myconnections\WEB-INF\classes" />
+    <file source="WEB-INF\lib\" destination="modules\myconnections\WEB-INF\lib" />
+    <file source="WEB-INF\lib\myconnections-1.3.jar" destination="WEB-INF\lib\myconnections-1.3.jar" />
+    <file source="css\" destination="modules\myconnections\css" />
+    <file source="css\img\" destination="modules\myconnections\css\img" />
+    <file source="css\img\add.png" destination="modules\myconnections\css\img\add.png" />
+    <file source="css\img\delete.png" destination="modules\myconnections\css\img\delete.png" />
+    <file source="css\img\hr.png" destination="modules\myconnections\css\img\hr.png" />
+    <file source="css\img\reply-message.png" destination="modules\myconnections\css\img\reply-message.png" />
+    <file source="css\img\send-message.png" destination="modules\myconnections\css\img\send-message.png" />
+    <file source="css\social.css" destination="modules\myconnections\css\social.css" />
+    <file source="icons\" destination="modules\myconnections\icons" />
+    <file source="icons\jnt_currentUserConnections.png" destination="modules\myconnections\icons\jnt_currentUserConnections.png" />
+    <file source="icons\jnt_currentUserConnections_large.png" destination="modules\myconnections\icons\jnt_currentUserConnections_large.png" />
+    <file source="icons\jnt_currentUserMessages.png" destination="modules\myconnections\icons\jnt_currentUserMessages.png" />
+    <file source="icons\jnt_currentUserMessages_large.png" destination="modules\myconnections\icons\jnt_currentUserMessages_large.png" />
+    <file source="icons\jnt_currentUserNewsFeed.png" destination="modules\myconnections\icons\jnt_currentUserNewsFeed.png" />
+    <file source="icons\jnt_currentUserNewsFeed_large.png" destination="modules\myconnections\icons\jnt_currentUserNewsFeed_large.png" />
+    <file source="images\" destination="modules\myconnections\images" />
+    <file source="images\friend.png" destination="modules\myconnections\images\friend.png" />
+    <file source="images\friendbig.png" destination="modules\myconnections\images\friendbig.png" />
+    <file source="images\friends.png" destination="modules\myconnections\images\friends.png" />
+    <file source="images\mailbox.png" destination="modules\myconnections\images\mailbox.png" />
+    <file source="javascript\" destination="modules\myconnections\javascript" />
+    <file source="javascript\jahia.social.js" destination="modules\myconnections\javascript\jahia.social.js" />
+    <file source="jnt_currentUserConnections\" destination="modules\myconnections\jnt_currentUserConnections" />
+    <file source="jnt_currentUserConnections\html\" destination="modules\myconnections\jnt_currentUserConnections\html" />
+    <file source="jnt_currentUserConnections\html\currentUserConnections.jsp" destination="modules\myconnections\jnt_currentUserConnections\html\currentUserConnections.jsp" />
+    <file source="jnt_currentUserMessages\" destination="modules\myconnections\jnt_currentUserMessages" />
+    <file source="jnt_currentUserMessages\html\" destination="modules\myconnections\jnt_currentUserMessages\html" />
+    <file source="jnt_currentUserMessages\html\currentUserMessages.hidden.load.jsp" destination="modules\myconnections\jnt_currentUserMessages\html\currentUserMessages.hidden.load.jsp" />
+    <file source="jnt_currentUserMessages\html\currentUserMessages.jsp" destination="modules\myconnections\jnt_currentUserMessages\html\currentUserMessages.jsp" />
+    <file source="jnt_currentUserMessages\html\currentUserMessages.message.jsp" destination="modules\myconnections\jnt_currentUserMessages\html\currentUserMessages.message.jsp" />
+    <file source="jnt_currentUserMessages\html\currentUserMessages.properties" destination="modules\myconnections\jnt_currentUserMessages\html\currentUserMessages.properties" />
+    <file source="jnt_currentUserNewsFeed\" destination="modules\myconnections\jnt_currentUserNewsFeed" />
+    <file source="jnt_currentUserNewsFeed\html\" destination="modules\myconnections\jnt_currentUserNewsFeed\html" />
+    <file source="jnt_currentUserNewsFeed\html\currentUserNewsFeed.activities.jsp" destination="modules\myconnections\jnt_currentUserNewsFeed\html\currentUserNewsFeed.activities.jsp" />
+    <file source="jnt_currentUserNewsFeed\html\currentUserNewsFeed.activities.properties" destination="modules\myconnections\jnt_currentUserNewsFeed\html\currentUserNewsFeed.activities.properties" />
+    <file source="jnt_currentUserNewsFeed\html\currentUserNewsFeed.hidden.load.jsp" destination="modules\myconnections\jnt_currentUserNewsFeed\html\currentUserNewsFeed.hidden.load.jsp" />
+    <file source="jnt_currentUserNewsFeed\html\currentUserNewsFeed.jsp" destination="modules\myconnections\jnt_currentUserNewsFeed\html\currentUserNewsFeed.jsp" />
+    <file source="resources\" destination="modules\myconnections\resources" />
+    <file source="resources\JahiaMyConnections.properties" destination="modules\myconnections\resources\JahiaMyConnections.properties" />
+    <file source="resources\JahiaMyConnections_en.properties" destination="modules\myconnections\resources\JahiaMyConnections_en.properties" />
+    <file source="resources\JahiaMyConnections_fr.properties" destination="modules\myconnections\resources\JahiaMyConnections_fr.properties" />
+  </deployed>
+</module>
+

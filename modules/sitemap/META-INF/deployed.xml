@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Sitemap</name>
+  <depends>Default Jahia Templates</depends>
+  <rootFolder>sitemap</rootFolder>
+  <version>1.3</version>
+  <build-timestamp>2012-10-10T08:20:28.000+11:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:12.672+11:00</deployment-timestamp>
+  <package name="sitemap-1.3.war" path="WEB-INF\var\shared_modules\sitemap-1.3.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\sitemap\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\sitemap\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\sitemap\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\sitemap\META-INF\definitions.cnd" />
+    <file source="META-INF\rules.drl" destination="modules\sitemap\META-INF\rules.drl" />
+    <file source="META-INF\spring\" destination="modules\sitemap\META-INF\spring" />
+    <file source="META-INF\spring\mod-sitemap.xml" destination="modules\sitemap\META-INF\spring\mod-sitemap.xml" />
+    <file source="META-INF\urlrewrite-sitemap.xml" destination="modules\sitemap\META-INF\urlrewrite-sitemap.xml" />
+    <file source="WEB-INF\" destination="modules\sitemap\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\sitemap\WEB-INF\classes" />
+    <file source="WEB-INF\lib\" destination="modules\sitemap\WEB-INF\lib" />
+    <file source="WEB-INF\lib\sitemap-1.3.jar" destination="WEB-INF\lib\sitemap-1.3.jar" />
+    <file source="css\" destination="modules\sitemap\css" />
+    <file source="css\img\" destination="modules\sitemap\css\img" />
+    <file source="css\img\L1-center.png" destination="modules\sitemap\css\img\L1-center.png" />
+    <file source="css\img\L1-left.png" destination="modules\sitemap\css\img\L1-left.png" />
+    <file source="css\img\L1-right.png" destination="modules\sitemap\css\img\L1-right.png" />
+    <file source="css\img\L3-bottom.png" destination="modules\sitemap\css\img\L3-bottom.png" />
+    <file source="css\img\L3-center.png" destination="modules\sitemap\css\img\L3-center.png" />
+    <file source="css\img\L3-li-top.png" destination="modules\sitemap\css\img\L3-li-top.png" />
+    <file source="css\img\L3-ul-top.png" destination="modules\sitemap\css\img\L3-ul-top.png" />
+    <file source="css\img\vertical-line.png" destination="modules\sitemap\css\img\vertical-line.png" />
+    <file source="css\img\white-highlight.png" destination="modules\sitemap\css\img\white-highlight.png" />
+    <file source="css\slickmap.css" destination="modules\sitemap\css\slickmap.css" />
+    <file source="icons\" destination="modules\sitemap\icons" />
+    <file source="icons\jnt_sitemap.png" destination="modules\sitemap\icons\jnt_sitemap.png" />
+    <file source="icons\jnt_sitemap_large.png" destination="modules\sitemap\icons\jnt_sitemap_large.png" />
+    <file source="jmix_sitemap\" destination="modules\sitemap\jmix_sitemap" />
+    <file source="jmix_sitemap\html\" destination="modules\sitemap\jmix_sitemap\html" />
+    <file source="jmix_sitemap\html\sitemap.sitemap.jsp" destination="modules\sitemap\jmix_sitemap\html\sitemap.sitemap.jsp" />
+    <file source="jmix_sitemap\html\sitemap.sitemap.properties" destination="modules\sitemap\jmix_sitemap\html\sitemap.sitemap.properties" />
+    <file source="jmix_sitemap\txt\" destination="modules\sitemap\jmix_sitemap\txt" />
+    <file source="jmix_sitemap\txt\sitemap.sitemap.jsp" destination="modules\sitemap\jmix_sitemap\txt\sitemap.sitemap.jsp" />
+    <file source="jmix_sitemap\xml\" destination="modules\sitemap\jmix_sitemap\xml" />
+    <file source="jmix_sitemap\xml\sitemap.sitemap.jsp" destination="modules\sitemap\jmix_sitemap\xml\sitemap.sitemap.jsp" />
+    <file source="jnt_sitemap\" destination="modules\sitemap\jnt_sitemap" />
+    <file source="jnt_sitemap\html\" destination="modules\sitemap\jnt_sitemap\html" />
+    <file source="jnt_sitemap\html\sitemap.basicTree.jsp" destination="modules\sitemap\jnt_sitemap\html\sitemap.basicTree.jsp" />
+    <file source="jnt_sitemap\html\sitemap.basicTree.properties" destination="modules\sitemap\jnt_sitemap\html\sitemap.basicTree.properties" />
+    <file source="jnt_sitemap\html\sitemap.jsp" destination="modules\sitemap\jnt_sitemap\html\sitemap.jsp" />
+    <file source="jnt_sitemap\html\sitemap.properties" destination="modules\sitemap\jnt_sitemap\html\sitemap.properties" />
+    <file source="resources\" destination="modules\sitemap\resources" />
+    <file source="resources\JahiaSitemap.properties" destination="modules\sitemap\resources\JahiaSitemap.properties" />
+    <file source="resources\JahiaSitemap_en.properties" destination="modules\sitemap\resources\JahiaSitemap_en.properties" />
+    <file source="resources\JahiaSitemap_fr.properties" destination="modules\sitemap\resources\JahiaSitemap_fr.properties" />
+  </deployed>
+</module>
+

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia My Bookmarks</name>
+  <depends>default,profile,skins,default-skins</depends>
+  <rootFolder>bookmarks</rootFolder>
+  <version>1.3</version>
+  <build-timestamp>2012-10-10T08:20:06.000+11:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:01.973+11:00</deployment-timestamp>
+  <package name="bookmarks-1.3.war" path="WEB-INF\var\shared_modules\bookmarks-1.3.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\bookmarks\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\bookmarks\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\bookmarks\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\bookmarks\META-INF\definitions.cnd" />
+    <file source="META-INF\import.zip" destination="modules\bookmarks\META-INF\import.zip" />
+    <file source="META-INF\spring\" destination="modules\bookmarks\META-INF\spring" />
+    <file source="META-INF\spring\mod-bookmark.xml" destination="modules\bookmarks\META-INF\spring\mod-bookmark.xml" />
+    <file source="WEB-INF\" destination="modules\bookmarks\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\bookmarks\WEB-INF\classes" />
+    <file source="WEB-INF\lib\" destination="modules\bookmarks\WEB-INF\lib" />
+    <file source="WEB-INF\lib\bookmarks-1.3.jar" destination="WEB-INF\lib\bookmarks-1.3.jar" />
+    <file source="css\" destination="modules\bookmarks\css" />
+    <file source="css\bookmarks.css" destination="modules\bookmarks\css\bookmarks.css" />
+    <file source="css\img\" destination="modules\bookmarks\css\img" />
+    <file source="css\img\bookmark.png" destination="modules\bookmarks\css\img\bookmark.png" />
+    <file source="icons\" destination="modules\bookmarks\icons" />
+    <file source="icons\jnt_bookmarkButton.png" destination="modules\bookmarks\icons\jnt_bookmarkButton.png" />
+    <file source="icons\jnt_bookmarkButton_large.png" destination="modules\bookmarks\icons\jnt_bookmarkButton_large.png" />
+    <file source="icons\jnt_currentUserBookmarks.png" destination="modules\bookmarks\icons\jnt_currentUserBookmarks.png" />
+    <file source="icons\jnt_currentUserBookmarks_large.png" destination="modules\bookmarks\icons\jnt_currentUserBookmarks_large.png" />
+    <file source="jnt_bookmarkButton\" destination="modules\bookmarks\jnt_bookmarkButton" />
+    <file source="jnt_bookmarkButton\html\" destination="modules\bookmarks\jnt_bookmarkButton\html" />
+    <file source="jnt_bookmarkButton\html\bookmark.jsp" destination="modules\bookmarks\jnt_bookmarkButton\html\bookmark.jsp" />
+    <file source="jnt_bookmarkButton\html\bookmarkButton.jsp" destination="modules\bookmarks\jnt_bookmarkButton\html\bookmarkButton.jsp" />
+    <file source="jnt_currentUserBookmarks\" destination="modules\bookmarks\jnt_currentUserBookmarks" />
+    <file source="jnt_currentUserBookmarks\html\" destination="modules\bookmarks\jnt_currentUserBookmarks\html" />
+    <file source="jnt_currentUserBookmarks\html\currentUserBookmarks.hidden.load.jsp" destination="modules\bookmarks\jnt_currentUserBookmarks\html\currentUserBookmarks.hidden.load.jsp" />
+    <file source="jnt_currentUserBookmarks\html\currentUserBookmarks.jsp" destination="modules\bookmarks\jnt_currentUserBookmarks\html\currentUserBookmarks.jsp" />
+    <file source="jnt_currentUserBookmarks\html\currentUserBookmarks.properties" destination="modules\bookmarks\jnt_currentUserBookmarks\html\currentUserBookmarks.properties" />
+    <file source="resources\" destination="modules\bookmarks\resources" />
+    <file source="resources\JahiaMyBookmarks.properties" destination="modules\bookmarks\resources\JahiaMyBookmarks.properties" />
+    <file source="resources\JahiaMyBookmarks_de.properties" destination="modules\bookmarks\resources\JahiaMyBookmarks_de.properties" />
+    <file source="resources\JahiaMyBookmarks_en.properties" destination="modules\bookmarks\resources\JahiaMyBookmarks_en.properties" />
+    <file source="resources\JahiaMyBookmarks_fr.properties" destination="modules\bookmarks\resources\JahiaMyBookmarks_fr.properties" />
+  </deployed>
+</module>
+

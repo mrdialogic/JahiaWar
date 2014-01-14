@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Search</name>
+  <depends>Default Jahia Templates</depends>
+  <rootFolder>search</rootFolder>
+  <version>6.6.2.0</version>
+  <build-timestamp>2013-08-27T19:36:16.000+10:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:12.491+11:00</deployment-timestamp>
+  <package name="search-6.6.2.0.war" path="WEB-INF\var\shared_modules\search-6.6.2.0.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\search\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\search\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\search\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\search\META-INF\definitions.cnd" />
+    <file source="META-INF\rules.drl" destination="modules\search\META-INF\rules.drl" />
+    <file source="WEB-INF\" destination="modules\search\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\search\WEB-INF\classes" />
+    <file source="css\" destination="modules\search\css" />
+    <file source="css\advancedsearchform.css" destination="modules\search\css\advancedsearchform.css" />
+    <file source="css\img\" destination="modules\search\css\img" />
+    <file source="css\img\search-bar-bg.png" destination="modules\search\css\img\search-bar-bg.png" />
+    <file source="css\img\search-close.png" destination="modules\search\css\img\search-close.png" />
+    <file source="css\img\search-open.png" destination="modules\search\css\img\search-open.png" />
+    <file source="css\img\search-submit.png" destination="modules\search\css\img\search-submit.png" />
+    <file source="css\searchresults.css" destination="modules\search\css\searchresults.css" />
+    <file source="css\simplesearchform.css" destination="modules\search\css\simplesearchform.css" />
+    <file source="icons\" destination="modules\search\icons" />
+    <file source="icons\jmix_searchFormContent.png" destination="modules\search\icons\jmix_searchFormContent.png" />
+    <file source="icons\jmix_searchFormContent_large.png" destination="modules\search\icons\jmix_searchFormContent_large.png" />
+    <file source="icons\jnt_advancedSearchForm.png" destination="modules\search\icons\jnt_advancedSearchForm.png" />
+    <file source="icons\jnt_advancedSearchForm_large.png" destination="modules\search\icons\jnt_advancedSearchForm_large.png" />
+    <file source="icons\jnt_customSearchForm.png" destination="modules\search\icons\jnt_customSearchForm.png" />
+    <file source="icons\jnt_customSearchForm_large.png" destination="modules\search\icons\jnt_customSearchForm_large.png" />
+    <file source="icons\jnt_openSearchDescriptor.png" destination="modules\search\icons\jnt_openSearchDescriptor.png" />
+    <file source="icons\jnt_openSearchDescriptor_large.png" destination="modules\search\icons\jnt_openSearchDescriptor_large.png" />
+    <file source="icons\jnt_searchResults.png" destination="modules\search\icons\jnt_searchResults.png" />
+    <file source="icons\jnt_searchResults_large.png" destination="modules\search\icons\jnt_searchResults_large.png" />
+    <file source="icons\jnt_simpleSearchForm.png" destination="modules\search\icons\jnt_simpleSearchForm.png" />
+    <file source="icons\jnt_simpleSearchForm_large.png" destination="modules\search\icons\jnt_simpleSearchForm_large.png" />
+    <file source="jnt_advancedSearchForm\" destination="modules\search\jnt_advancedSearchForm" />
+    <file source="jnt_advancedSearchForm\html\" destination="modules\search\jnt_advancedSearchForm\html" />
+    <file source="jnt_advancedSearchForm\html\advancedSearchForm.jsp" destination="modules\search\jnt_advancedSearchForm\html\advancedSearchForm.jsp" />
+    <file source="jnt_advancedSearchForm\html\advancedSearchForm.properties" destination="modules\search\jnt_advancedSearchForm\html\advancedSearchForm.properties" />
+    <file source="jnt_customSearchForm\" destination="modules\search\jnt_customSearchForm" />
+    <file source="jnt_customSearchForm\html\" destination="modules\search\jnt_customSearchForm\html" />
+    <file source="jnt_customSearchForm\html\customSearchForm.jsp" destination="modules\search\jnt_customSearchForm\html\customSearchForm.jsp" />
+    <file source="jnt_customSearchForm\html\customSearchForm.properties" destination="modules\search\jnt_customSearchForm\html\customSearchForm.properties" />
+    <file source="jnt_openSearchDescriptor\" destination="modules\search\jnt_openSearchDescriptor" />
+    <file source="jnt_openSearchDescriptor\html\" destination="modules\search\jnt_openSearchDescriptor\html" />
+    <file source="jnt_openSearchDescriptor\html\openSearchDescriptor.jsp" destination="modules\search\jnt_openSearchDescriptor\html\openSearchDescriptor.jsp" />
+    <file source="jnt_openSearchDescriptor\xml\" destination="modules\search\jnt_openSearchDescriptor\xml" />
+    <file source="jnt_openSearchDescriptor\xml\openSearchDescriptor.jsp" destination="modules\search\jnt_openSearchDescriptor\xml\openSearchDescriptor.jsp" />
+    <file source="jnt_searchResults\" destination="modules\search\jnt_searchResults" />
+    <file source="jnt_searchResults\html\" destination="modules\search\jnt_searchResults\html" />
+    <file source="jnt_searchResults\html\searchHit.jspf" destination="modules\search\jnt_searchResults\html\searchHit.jspf" />
+    <file source="jnt_searchResults\html\searchResults.hidden.header.jsp" destination="modules\search\jnt_searchResults\html\searchResults.hidden.header.jsp" />
+    <file source="jnt_searchResults\html\searchResults.jsp" destination="modules\search\jnt_searchResults\html\searchResults.jsp" />
+    <file source="jnt_searchResults\html\searchResults.properties" destination="modules\search\jnt_searchResults\html\searchResults.properties" />
+    <file source="jnt_simpleSearchForm\" destination="modules\search\jnt_simpleSearchForm" />
+    <file source="jnt_simpleSearchForm\html\" destination="modules\search\jnt_simpleSearchForm\html" />
+    <file source="jnt_simpleSearchForm\html\simpleSearchForm.jsp" destination="modules\search\jnt_simpleSearchForm\html\simpleSearchForm.jsp" />
+    <file source="jnt_simpleSearchForm\html\simpleSearchForm.properties" destination="modules\search\jnt_simpleSearchForm\html\simpleSearchForm.properties" />
+    <file source="resources\" destination="modules\search\resources" />
+    <file source="resources\JahiaSearch.properties" destination="modules\search\resources\JahiaSearch.properties" />
+    <file source="resources\JahiaSearch_de.properties" destination="modules\search\resources\JahiaSearch_de.properties" />
+    <file source="resources\JahiaSearch_en.properties" destination="modules\search\resources\JahiaSearch_en.properties" />
+    <file source="resources\JahiaSearch_es.properties" destination="modules\search\resources\JahiaSearch_es.properties" />
+    <file source="resources\JahiaSearch_fr.properties" destination="modules\search\resources\JahiaSearch_fr.properties" />
+    <file source="resources\JahiaSearch_it.properties" destination="modules\search\resources\JahiaSearch_it.properties" />
+    <file source="resources\JahiaSearch_pt.properties" destination="modules\search\resources\JahiaSearch_pt.properties" />
+  </deployed>
+</module>
+

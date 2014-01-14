@@ -1,0 +1,28 @@
+#* @vtlvariable name="bundle" type="java.util.ResourceBundle" *#
+<html>
+<body>
+#if ($spamDetected)
+<h3>${esc.html($bundle.getString("mail.jahia.spam.notification"))}</h3>
+#else
+<h3>${esc.html($bundle.getString("mail.jahia.notification"))}</h3>
+#end
+<p>
+    <b>${esc.html($bundle.getString("mail.post.created.on"))}:</b> ${esc.html($date.format("full","short",$submissionDate,$locale))}<br>
+    <b>${esc.html($bundle.getString("mail.by"))}: </b>${esc.html($submitter.getName())}<br>
+    <b>${esc.html($bundle.getString("mail.topic"))}:</b> #if($ParentFormNode.hasProperty("jcr:title")) ${esc.html($ParentFormNode.getProperty("jcr:title").string)}#{else}${ParentFormNode.getName()}#end<br>
+    <b>${esc.html($bundle.getString("mail.thread"))}:</b>  #if($formNode.hasProperty("topicSubject")) ${esc.html($formNode.getProperty("topicSubject").string)}#{else}${formNode.getName()}#end<br>
+    <b>${esc.html($bundle.getString("mail.title"))}:</b>  #if($formNewNode.hasProperty("jcr:title")) ${esc.html($formNewNode.getProperty("jcr:title").string)}#{else}${formNewNode.getName()}#end<br>
+    <b>${esc.html($bundle.getString("mail.url"))}:</b> <a href="${formURL}">${formURL}</a>
+</p>
+<p>
+    <b>${esc.html($bundle.getString("mail.content"))}:</b>
+</p>
+<p>
+#if ($formNewNode.hasProperty("content"))
+    ${formNewNode.getProperty("content").string}
+#else
+    ${esc.html($bundle.getString("mail.empty.content"))}
+#end
+</p>
+</body>
+</html>

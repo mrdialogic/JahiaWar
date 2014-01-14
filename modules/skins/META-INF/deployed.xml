@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Skins</name>
+  <rootFolder>skins</rootFolder>
+  <version>6.6.2.0</version>
+  <build-timestamp>2013-08-27T19:36:20.000+10:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:12.711+11:00</deployment-timestamp>
+  <package name="skins-6.6.2.0.war" path="WEB-INF\var\shared_modules\skins-6.6.2.0.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\skins\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\skins\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\skins\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\skins\META-INF\definitions.cnd" />
+    <file source="META-INF\spring\" destination="modules\skins\META-INF\spring" />
+    <file source="META-INF\spring\mod-skins.xml" destination="modules\skins\META-INF\spring\mod-skins.xml" />
+    <file source="WEB-INF\" destination="modules\skins\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\skins\WEB-INF\classes" />
+    <file source="WEB-INF\lib\" destination="modules\skins\WEB-INF\lib" />
+    <file source="WEB-INF\lib\skins-6.6.2.0.jar" destination="WEB-INF\lib\skins-6.6.2.0.jar" />
+    <file source="img\" destination="modules\skins\img" />
+    <file source="img\skins.custom.png" destination="modules\skins\img\skins.custom.png" />
+    <file source="jmix_skinnable\" destination="modules\skins\jmix_skinnable" />
+    <file source="jmix_skinnable\html\" destination="modules\skins\jmix_skinnable\html" />
+    <file source="jmix_skinnable\html\skinnable.skins.custom.jsp" destination="modules\skins\jmix_skinnable\html\skinnable.skins.custom.jsp" />
+    <file source="jmix_skinnable\html\skinnable.skins.custom.properties" destination="modules\skins\jmix_skinnable\html\skinnable.skins.custom.properties" />
+    <file source="resources\" destination="modules\skins\resources" />
+    <file source="resources\JahiaSkins.properties" destination="modules\skins\resources\JahiaSkins.properties" />
+    <file source="resources\JahiaSkins_en.properties" destination="modules\skins\resources\JahiaSkins_en.properties" />
+    <file source="resources\JahiaSkins_fr.properties" destination="modules\skins\resources\JahiaSkins_fr.properties" />
+  </deployed>
+</module>
+

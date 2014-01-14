@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Translate Workflow</name>
+  <depends>Default Jahia Templates</depends>
+  <rootFolder>translateworkflow</rootFolder>
+  <version>1.2</version>
+  <build-timestamp>2012-01-31T01:31:40.000+11:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:15.492+11:00</deployment-timestamp>
+  <package name="translateworkflow-1.2.war" path="WEB-INF\var\shared_modules\translateworkflow-1.2.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\translateworkflow\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\translateworkflow\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\translateworkflow\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\translateworkflow\META-INF\definitions.cnd" />
+    <file source="META-INF\spring\" destination="modules\translateworkflow\META-INF\spring" />
+    <file source="META-INF\spring\mod-translateworkflow.xml" destination="modules\translateworkflow\META-INF\spring\mod-translateworkflow.xml" />
+    <file source="WEB-INF\" destination="modules\translateworkflow\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\translateworkflow\WEB-INF\classes" />
+    <file source="WEB-INF\lib\" destination="modules\translateworkflow\WEB-INF\lib" />
+    <file source="WEB-INF\lib\translateworkflow-1.2.jar" destination="WEB-INF\lib\translateworkflow-1.2.jar" />
+    <file source="resources\" destination="modules\translateworkflow\resources" />
+    <file source="resources\JahiaTranslateWorkflow.properties" destination="modules\translateworkflow\resources\JahiaTranslateWorkflow.properties" />
+  </deployed>
+</module>
+

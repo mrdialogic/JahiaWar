@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Publication</name>
+  <rootFolder>publication</rootFolder>
+  <version>1.2</version>
+  <build-timestamp>2012-01-31T01:31:18.000+11:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:12.177+11:00</deployment-timestamp>
+  <package name="publication-1.2.war" path="WEB-INF\var\shared_modules\publication-1.2.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\publication\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\publication\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\publication\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\publication\META-INF\definitions.cnd" />
+    <file source="WEB-INF\" destination="modules\publication\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\publication\WEB-INF\classes" />
+    <file source="css\" destination="modules\publication\css" />
+    <file source="css\img\" destination="modules\publication\css\img" />
+    <file source="css\img\publicationdownload.png" destination="modules\publication\css\img\publicationdownload.png" />
+    <file source="css\publication.css" destination="modules\publication\css\publication.css" />
+    <file source="icons\" destination="modules\publication\icons" />
+    <file source="icons\jnt_publication.png" destination="modules\publication\icons\jnt_publication.png" />
+    <file source="icons\jnt_publication_large.png" destination="modules\publication\icons\jnt_publication_large.png" />
+    <file source="images\" destination="modules\publication\images" />
+    <file source="images\no_preview.png" destination="modules\publication\images\no_preview.png" />
+    <file source="jnt_publication\" destination="modules\publication\jnt_publication" />
+    <file source="jnt_publication\html\" destination="modules\publication\jnt_publication\html" />
+    <file source="jnt_publication\html\publication.jsp" destination="modules\publication\jnt_publication\html\publication.jsp" />
+    <file source="jnt_publication\html\publication.listing.jsp" destination="modules\publication\jnt_publication\html\publication.listing.jsp" />
+    <file source="resources\" destination="modules\publication\resources" />
+    <file source="resources\JahiaPublication.properties" destination="modules\publication\resources\JahiaPublication.properties" />
+    <file source="resources\JahiaPublication_en.properties" destination="modules\publication\resources\JahiaPublication_en.properties" />
+    <file source="resources\JahiaPublication_fr.properties" destination="modules\publication\resources\JahiaPublication_fr.properties" />
+  </deployed>
+</module>
+

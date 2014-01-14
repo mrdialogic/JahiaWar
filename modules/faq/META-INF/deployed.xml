@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia FAQ</name>
+  <rootFolder>faq</rootFolder>
+  <version>1.2</version>
+  <build-timestamp>2012-01-31T01:31:00.000+11:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:05.146+11:00</deployment-timestamp>
+  <package name="faq-1.2.war" path="WEB-INF\var\shared_modules\faq-1.2.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\faq\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\faq\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\faq\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\faq\META-INF\definitions.cnd" />
+    <file source="WEB-INF\" destination="modules\faq\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\faq\WEB-INF\classes" />
+    <file source="css\" destination="modules\faq\css" />
+    <file source="css\faq.css" destination="modules\faq\css\faq.css" />
+    <file source="icons\" destination="modules\faq\icons" />
+    <file source="icons\jnt_faq.png" destination="modules\faq\icons\jnt_faq.png" />
+    <file source="icons\jnt_faqList.png" destination="modules\faq\icons\jnt_faqList.png" />
+    <file source="icons\jnt_faqList_large.png" destination="modules\faq\icons\jnt_faqList_large.png" />
+    <file source="icons\jnt_faq_large.png" destination="modules\faq\icons\jnt_faq_large.png" />
+    <file source="jnt_faq\" destination="modules\faq\jnt_faq" />
+    <file source="jnt_faq\html\" destination="modules\faq\jnt_faq\html" />
+    <file source="jnt_faq\html\faq.hidden.summaryEl.jsp" destination="modules\faq\jnt_faq\html\faq.hidden.summaryEl.jsp" />
+    <file source="jnt_faq\html\faq.jsp" destination="modules\faq\jnt_faq\html\faq.jsp" />
+    <file source="resources\" destination="modules\faq\resources" />
+    <file source="resources\JahiaFAQ.properties" destination="modules\faq\resources\JahiaFAQ.properties" />
+    <file source="resources\JahiaFAQ_en.properties" destination="modules\faq\resources\JahiaFAQ_en.properties" />
+    <file source="resources\JahiaFAQ_fr.properties" destination="modules\faq\resources\JahiaFAQ_fr.properties" />
+  </deployed>
+</module>
+

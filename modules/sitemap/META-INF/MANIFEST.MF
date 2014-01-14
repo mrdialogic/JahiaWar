@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Implementation-Title: Jahia Sitemap
+Implementation-Version: 1.3
+root-folder: sitemap
+Built-By: bamboo
+Specification-Vendor: Jahia Solutions Group SA
+Created-By: Jahia
+Implementation-URL: http://www.jahia.com
+Implementation-Vendor: Jahia Solutions Group SA
+package-name: Jahia Sitemap
+module-type: module
+Implementation-Vendor-Id: org.jahia
+Build-Jdk: 1.5.0_22
+Specification-Title: Jahia Sitemap
+depends: default
+Specification-Version: 1.3
+Archiver-Version: Plexus Archiver
+

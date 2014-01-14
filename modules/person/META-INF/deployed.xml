@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Person</name>
+  <depends>Jahia Static Assets</depends>
+  <rootFolder>person</rootFolder>
+  <version>1.2</version>
+  <build-timestamp>2012-01-31T01:31:12.000+11:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:10.308+11:00</deployment-timestamp>
+  <package name="person-1.2.war" path="WEB-INF\var\shared_modules\person-1.2.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\person\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\person\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\person\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\person\META-INF\definitions.cnd" />
+    <file source="WEB-INF\" destination="modules\person\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\person\WEB-INF\classes" />
+    <file source="css\" destination="modules\person\css" />
+    <file source="css\img\" destination="modules\person\css\img" />
+    <file source="css\img\personbiographiy.png" destination="modules\person\css\img\personbiographiy.png" />
+    <file source="css\img\persondownload.png" destination="modules\person\css\img\persondownload.png" />
+    <file source="css\img\personenlarge.png" destination="modules\person\css\img\personenlarge.png" />
+    <file source="css\person.css" destination="modules\person\css\person.css" />
+    <file source="icons\" destination="modules\person\icons" />
+    <file source="icons\jnt_person.png" destination="modules\person\icons\jnt_person.png" />
+    <file source="icons\jnt_person_large.png" destination="modules\person\icons\jnt_person_large.png" />
+    <file source="jnt_person\" destination="modules\person\jnt_person" />
+    <file source="jnt_person\html\" destination="modules\person\jnt_person\html" />
+    <file source="jnt_person\html\person.full.jsp" destination="modules\person\jnt_person\html\person.full.jsp" />
+    <file source="jnt_person\html\person.jsp" destination="modules\person\jnt_person\html\person.jsp" />
+    <file source="jnt_person\html\person.tableList.jsp" destination="modules\person\jnt_person\html\person.tableList.jsp" />
+    <file source="jnt_person\vcf\" destination="modules\person\jnt_person\vcf" />
+    <file source="jnt_person\vcf\person.jsp" destination="modules\person\jnt_person\vcf\person.jsp" />
+    <file source="resources\" destination="modules\person\resources" />
+    <file source="resources\JahiaPerson.properties" destination="modules\person\resources\JahiaPerson.properties" />
+    <file source="resources\JahiaPerson_en.properties" destination="modules\person\resources\JahiaPerson_en.properties" />
+    <file source="resources\JahiaPerson_fr.properties" destination="modules\person\resources\JahiaPerson_fr.properties" />
+  </deployed>
+</module>
+

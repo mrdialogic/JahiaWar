@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia System Templates</name>
+  <depends>default,grid,skins,default-skins,tabularList,tags,profile,tasks,facets</depends>
+  <rootFolder>templates-system</rootFolder>
+  <version>6.6.2.0</version>
+  <build-timestamp>2013-08-27T19:36:32.000+10:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:14.464+11:00</deployment-timestamp>
+  <package name="templates-system-6.6.2.0.war" path="WEB-INF\var\shared_modules\templates-system-6.6.2.0.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\templates-system\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\templates-system\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\templates-system\META-INF\MANIFEST.MF" />
+    <file source="META-INF\import.zip" destination="modules\templates-system\META-INF\import.zip" />
+    <file source="META-INF\importsite-systemsite.zip" destination="modules\templates-system\META-INF\importsite-systemsite.zip" />
+    <file source="META-INF\spring\" destination="modules\templates-system\META-INF\spring" />
+    <file source="META-INF\spring\mod-templates-system.xml" destination="modules\templates-system\META-INF\spring\mod-templates-system.xml" />
+    <file source="WEB-INF\" destination="modules\templates-system\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\templates-system\WEB-INF\classes" />
+    <file source="css\" destination="modules\templates-system\css" />
+    <file source="css\01web.css" destination="modules\templates-system\css\01web.css" />
+    <file source="css\960-fluid.css" destination="modules\templates-system\css\960-fluid.css" />
+    <file source="css\img\" destination="modules\templates-system\css\img" />
+    <file source="css\img\1px-white.png" destination="modules\templates-system\css\img\1px-white.png" />
+    <file source="css\img\arrow-down.png" destination="modules\templates-system\css\img\arrow-down.png" />
+    <file source="css\img\arrow.png" destination="modules\templates-system\css\img\arrow.png" />
+    <file source="css\img\bg-button-on.png" destination="modules\templates-system\css\img\bg-button-on.png" />
+    <file source="css\img\bg-button.png" destination="modules\templates-system\css\img\bg-button.png" />
+    <file source="css\img\bg-content.png" destination="modules\templates-system\css\img\bg-content.png" />
+    <file source="css\img\bg-header.png" destination="modules\templates-system\css\img\bg-header.png" />
+    <file source="css\img\bg-navigationN2-on.png" destination="modules\templates-system\css\img\bg-navigationN2-on.png" />
+    <file source="css\img\bg-navigationN2-selected.png" destination="modules\templates-system\css\img\bg-navigationN2-selected.png" />
+    <file source="css\img\bg-navigationN2.png" destination="modules\templates-system\css\img\bg-navigationN2.png" />
+    <file source="css\img\bg-table-th.png" destination="modules\templates-system\css\img\bg-table-th.png" />
+    <file source="css\img\blockquote.png" destination="modules\templates-system\css\img\blockquote.png" />
+    <file source="css\img\button-left.png" destination="modules\templates-system\css\img\button-left.png" />
+    <file source="css\img\button-right.png" destination="modules\templates-system\css\img\button-right.png" />
+    <file source="css\img\contactformlegend.png" destination="modules\templates-system\css\img\contactformlegend.png" />
+    <file source="css\img\error-messages.png" destination="modules\templates-system\css\img\error-messages.png" />
+    <file source="css\img\hr-bg.png" destination="modules\templates-system\css\img\hr-bg.png" />
+    <file source="css\img\input_bg.png" destination="modules\templates-system\css\img\input_bg.png" />
+    <file source="css\img\more.png" destination="modules\templates-system\css\img\more.png" />
+    <file source="css\img\nav-bg.png" destination="modules\templates-system\css\img\nav-bg.png" />
+    <file source="css\img\navbar-bg.png" destination="modules\templates-system\css\img\navbar-bg.png" />
+    <file source="css\img\returnLink.png" destination="modules\templates-system\css\img\returnLink.png" />
+    <file source="css\img\sort-arrow-down.png" destination="modules\templates-system\css\img\sort-arrow-down.png" />
+    <file source="css\img\sort-arrow-up.png" destination="modules\templates-system\css\img\sort-arrow-up.png" />
+    <file source="css\img\tab-bg.png" destination="modules\templates-system\css\img\tab-bg.png" />
+    <file source="css\navigation.css" destination="modules\templates-system\css\navigation.css" />
+    <file source="css\navigationN2-1.css" destination="modules\templates-system\css\navigationN2-1.css" />
+    <file source="css\templates-system.css" destination="modules\templates-system\css\templates-system.css" />
+    <file source="css\templates-system.min.css" destination="modules\templates-system\css\templates-system.min.css" />
+    <file source="jnt_template\" destination="modules\templates-system\jnt_template" />
+    <file source="jnt_template\html\" destination="modules\templates-system\jnt_template\html" />
+    <file source="jnt_template\html\template.system.jsp" destination="modules\templates-system\jnt_template\html\template.system.jsp" />
+  </deployed>
+</module>
+

@@ -1,0 +1,20 @@
+.bodywrapper .socialsharing
+{
+    list-style-type :none;
+}
+.bodywrapper .socialsharing li
+{
+     display:inline;
+     margin:5px;
+}
+
+.bodywrapper .socialsharing-small
+{
+    list-style-type :none;
+	margin:1em;
+}
+.bodywrapper .socialsharing-small li
+{
+     display:inline;
+     margin:2px;
+}

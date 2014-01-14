@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Document Converter</name>
+  <depends>Default Jahia Templates</depends>
+  <rootFolder>docConverter</rootFolder>
+  <version>1.2</version>
+  <build-timestamp>2012-01-31T01:30:56.000+11:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:04.474+11:00</deployment-timestamp>
+  <package name="docConverter-1.2.war" path="WEB-INF\var\shared_modules\docConverter-1.2.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\docConverter\META-INF" />
+    <file source="META-INF\.gitignore" destination="modules\docConverter\META-INF\.gitignore" />
+    <file source="META-INF\LICENSE.txt" destination="modules\docConverter\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\docConverter\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\docConverter\META-INF\definitions.cnd" />
+    <file source="META-INF\rules.drl" destination="modules\docConverter\META-INF\rules.drl" />
+    <file source="META-INF\rules.dsl" destination="modules\docConverter\META-INF\rules.dsl" />
+    <file source="META-INF\spring\" destination="modules\docConverter\META-INF\spring" />
+    <file source="META-INF\spring\docConverter.xml" destination="modules\docConverter\META-INF\spring\docConverter.xml" />
+    <file source="WEB-INF\" destination="modules\docConverter\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\docConverter\WEB-INF\classes" />
+    <file source="WEB-INF\lib\" destination="modules\docConverter\WEB-INF\lib" />
+    <file source="WEB-INF\lib\docConverter-1.2.jar" destination="WEB-INF\lib\docConverter-1.2.jar" />
+    <file source="css\" destination="modules\docConverter\css" />
+    <file source="css\converter.css" destination="modules\docConverter\css\converter.css" />
+    <file source="icons\" destination="modules\docConverter\icons" />
+    <file source="icons\jnt_documentConversion.png" destination="modules\docConverter\icons\jnt_documentConversion.png" />
+    <file source="icons\jnt_documentConversion_large.png" destination="modules\docConverter\icons\jnt_documentConversion_large.png" />
+    <file source="img\" destination="modules\docConverter\img" />
+    <file source="img\boxconverter-h4title.png" destination="modules\docConverter\img\boxconverter-h4title.png" />
+    <file source="img\boxconverter-h4title2.png" destination="modules\docConverter\img\boxconverter-h4title2.png" />
+    <file source="img\convert.png" destination="modules\docConverter\img\convert.png" />
+    <file source="img\document.png" destination="modules\docConverter\img\document.png" />
+    <file source="img\documentbig.png" destination="modules\docConverter\img\documentbig.png" />
+    <file source="img\download.png" destination="modules\docConverter\img\download.png" />
+    <file source="img\downloadmedium.png" destination="modules\docConverter\img\downloadmedium.png" />
+    <file source="img\error.png" destination="modules\docConverter\img\error.png" />
+    <file source="img\hr.png" destination="modules\docConverter\img\hr.png" />
+    <file source="img\jahiapp-convert.png" destination="modules\docConverter\img\jahiapp-convert.png" />
+    <file source="img\open.png" destination="modules\docConverter\img\open.png" />
+    <file source="img\sort-arrow-down.png" destination="modules\docConverter\img\sort-arrow-down.png" />
+    <file source="img\sort-arrow-up.png" destination="modules\docConverter\img\sort-arrow-up.png" />
+    <file source="img\valide.png" destination="modules\docConverter\img\valide.png" />
+    <file source="img\version.png" destination="modules\docConverter\img\version.png" />
+    <file source="img\versionbig.png" destination="modules\docConverter\img\versionbig.png" />
+    <file source="jnt_documentConversion\" destination="modules\docConverter\jnt_documentConversion" />
+    <file source="jnt_documentConversion\html\" destination="modules\docConverter\jnt_documentConversion\html" />
+    <file source="jnt_documentConversion\html\documentConversion.jsp" destination="modules\docConverter\jnt_documentConversion\html\documentConversion.jsp" />
+    <file source="jnt_documentConversion\html\documentConversion.properties" destination="modules\docConverter\jnt_documentConversion\html\documentConversion.properties" />
+    <file source="resources\" destination="modules\docConverter\resources" />
+    <file source="resources\JahiaDocumentConverter.properties" destination="modules\docConverter\resources\JahiaDocumentConverter.properties" />
+    <file source="resources\JahiaDocumentConverter_de.properties" destination="modules\docConverter\resources\JahiaDocumentConverter_de.properties" />
+    <file source="resources\JahiaDocumentConverter_en.properties" destination="modules\docConverter\resources\JahiaDocumentConverter_en.properties" />
+    <file source="resources\JahiaDocumentConverter_fr.properties" destination="modules\docConverter\resources\JahiaDocumentConverter_fr.properties" />
+  </deployed>
+</module>
+

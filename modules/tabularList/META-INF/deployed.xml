@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Tabular List</name>
+  <depends>Jahia Static Assets,Default Jahia Templates</depends>
+  <rootFolder>tabularList</rootFolder>
+  <version>6.6.2.0</version>
+  <build-timestamp>2013-08-27T19:36:24.000+10:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:13.810+11:00</deployment-timestamp>
+  <package name="tabularList-6.6.2.0.war" path="WEB-INF\var\shared_modules\tabularList-6.6.2.0.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\tabularList\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\tabularList\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\tabularList\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\tabularList\META-INF\definitions.cnd" />
+    <file source="WEB-INF\" destination="modules\tabularList\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\tabularList\WEB-INF\classes" />
+    <file source="css\" destination="modules\tabularList\css" />
+    <file source="css\img\" destination="modules\tabularList\css\img" />
+    <file source="css\img\tab-bg.png" destination="modules\tabularList\css\img\tab-bg.png" />
+    <file source="css\img\tab-left.png" destination="modules\tabularList\css\img\tab-left.png" />
+    <file source="css\img\tab-right.png" destination="modules\tabularList\css\img\tab-right.png" />
+    <file source="css\tabularList.css" destination="modules\tabularList\css\tabularList.css" />
+    <file source="icons\" destination="modules\tabularList\icons" />
+    <file source="icons\jnt_tabularList.png" destination="modules\tabularList\icons\jnt_tabularList.png" />
+    <file source="icons\jnt_tabularList_large.png" destination="modules\tabularList\icons\jnt_tabularList_large.png" />
+    <file source="jnt_contentList\" destination="modules\tabularList\jnt_contentList" />
+    <file source="jnt_contentList\html\" destination="modules\tabularList\jnt_contentList\html" />
+    <file source="jnt_contentList\html\contentList.tabularList.jsp" destination="modules\tabularList\jnt_contentList\html\contentList.tabularList.jsp" />
+    <file source="jnt_contentList\html\contentList.tabularList.properties" destination="modules\tabularList\jnt_contentList\html\contentList.tabularList.properties" />
+    <file source="jnt_tabularList\" destination="modules\tabularList\jnt_tabularList" />
+    <file source="jnt_tabularList\html\" destination="modules\tabularList\jnt_tabularList\html" />
+    <file source="jnt_tabularList\html\tabularList.ajax.jsp" destination="modules\tabularList\jnt_tabularList\html\tabularList.ajax.jsp" />
+    <file source="jnt_tabularList\html\tabularList.jsp" destination="modules\tabularList\jnt_tabularList\html\tabularList.jsp" />
+    <file source="jnt_tabularList\html\tabularList.properties" destination="modules\tabularList\jnt_tabularList\html\tabularList.properties" />
+    <file source="resources\" destination="modules\tabularList\resources" />
+    <file source="resources\JahiaTabularList.properties" destination="modules\tabularList\resources\JahiaTabularList.properties" />
+    <file source="resources\JahiaTabularList_en.properties" destination="modules\tabularList\resources\JahiaTabularList_en.properties" />
+    <file source="resources\JahiaTabularList_fr.properties" destination="modules\tabularList\resources\JahiaTabularList_fr.properties" />
+  </deployed>
+</module>
+

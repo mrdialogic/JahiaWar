@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Implementation-Title: Jahia System Templates
+Implementation-Version: 6.6.2.0
+root-folder: templates-system
+Built-By: bamboo
+Specification-Vendor: Jahia Solutions Group SA
+Created-By: Apache Maven
+Implementation-URL: http://www.jahia.com
+Implementation-Vendor: Jahia Solutions Group SA
+package-name: Jahia System Templates
+module-type: templatesSet
+Implementation-Vendor-Id: org.jahia
+Build-Jdk: 1.6.0_26
+Specification-Title: Jahia System Templates
+depends: default,grid,skins,default-skins,tabularList,tags,profile,tas
+ ks,facets
+Specification-Version: 6.6.2.0
+Archiver-Version: Plexus Archiver
+

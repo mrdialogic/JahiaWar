@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia My Portal</name>
+  <depends>default,profile,grid,rss,skins</depends>
+  <rootFolder>portal</rootFolder>
+  <version>1.3</version>
+  <build-timestamp>2012-10-10T07:47:02.000+11:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:11.853+11:00</deployment-timestamp>
+  <package name="portal-1.3.war" path="WEB-INF\var\shared_modules\portal-1.3.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\portal\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\portal\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\portal\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\portal\META-INF\definitions.cnd" />
+    <file source="META-INF\import.zip" destination="modules\portal\META-INF\import.zip" />
+    <file source="META-INF\spring\" destination="modules\portal\META-INF\spring" />
+    <file source="META-INF\spring\mod-portal.xml" destination="modules\portal\META-INF\spring\mod-portal.xml" />
+    <file source="META-INF\spring\mod-toolbar.xml" destination="modules\portal\META-INF\spring\mod-toolbar.xml" />
+    <file source="WEB-INF\" destination="modules\portal\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\portal\WEB-INF\classes" />
+    <file source="WEB-INF\lib\" destination="modules\portal\WEB-INF\lib" />
+    <file source="WEB-INF\lib\portal-1.3.jar" destination="WEB-INF\lib\portal-1.3.jar" />
+    <file source="css\" destination="modules\portal\css" />
+    <file source="css\img\" destination="modules\portal\css\img" />
+    <file source="css\img\btn-slide.png" destination="modules\portal\css\img\btn-slide.png" />
+    <file source="css\img\buttons.gif" destination="modules\portal\css\img\buttons.gif" />
+    <file source="css\img\column-bg-left.png" destination="modules\portal\css\img\column-bg-left.png" />
+    <file source="css\img\column-bg-right.png" destination="modules\portal\css\img\column-bg-right.png" />
+    <file source="css\img\head-bg.png" destination="modules\portal\css\img\head-bg.png" />
+    <file source="css\img\inettuts.png" destination="modules\portal\css\img\inettuts.png" />
+    <file source="css\img\white-arrow.gif" destination="modules\portal\css\img\white-arrow.gif" />
+    <file source="css\img\widget-content-bg.png" destination="modules\portal\css\img\widget-content-bg.png" />
+    <file source="css\portal.css" destination="modules\portal\css\portal.css" />
+    <file source="css\slide.css" destination="modules\portal\css\slide.css" />
+    <file source="icons\" destination="modules\portal\icons" />
+    <file source="icons\jnt_currentUserPortal.png" destination="modules\portal\icons\jnt_currentUserPortal.png" />
+    <file source="icons\jnt_currentUserPortal_large.png" destination="modules\portal\icons\jnt_currentUserPortal_large.png" />
+    <file source="icons\jnt_portal.png" destination="modules\portal\icons\jnt_portal.png" />
+    <file source="icons\jnt_portal_large.png" destination="modules\portal\icons\jnt_portal_large.png" />
+    <file source="icons\jnt_scriptGadget.png" destination="modules\portal\icons\jnt_scriptGadget.png" />
+    <file source="icons\jnt_scriptGadget_large.png" destination="modules\portal\icons\jnt_scriptGadget_large.png" />
+    <file source="javascript\" destination="modules\portal\javascript" />
+    <file source="javascript\inettuts.js" destination="modules\portal\javascript\inettuts.js" />
+    <file source="jnt_contentList\" destination="modules\portal\jnt_contentList" />
+    <file source="jnt_contentList\html\" destination="modules\portal\jnt_contentList\html" />
+    <file source="jnt_contentList\html\contentList.portal.jsp" destination="modules\portal\jnt_contentList\html\contentList.portal.jsp" />
+    <file source="jnt_contentReference\" destination="modules\portal\jnt_contentReference" />
+    <file source="jnt_contentReference\html\" destination="modules\portal\jnt_contentReference\html" />
+    <file source="jnt_contentReference\html\contentReference.portal.jsp" destination="modules\portal\jnt_contentReference\html\contentReference.portal.jsp" />
+    <file source="jnt_content\" destination="modules\portal\jnt_content" />
+    <file source="jnt_content\html\" destination="modules\portal\jnt_content\html" />
+    <file source="jnt_content\html\content.portal.jsp" destination="modules\portal\jnt_content\html\content.portal.jsp" />
+    <file source="jnt_currentUserPortal\" destination="modules\portal\jnt_currentUserPortal" />
+    <file source="jnt_currentUserPortal\html\" destination="modules\portal\jnt_currentUserPortal\html" />
+    <file source="jnt_currentUserPortal\html\currentUserPortal.jsp" destination="modules\portal\jnt_currentUserPortal\html\currentUserPortal.jsp" />
+    <file source="jnt_portal\" destination="modules\portal\jnt_portal" />
+    <file source="jnt_portal\html\" destination="modules\portal\jnt_portal\html" />
+    <file source="jnt_portal\html\portal.jsp" destination="modules\portal\jnt_portal\html\portal.jsp" />
+    <file source="jnt_portal\html\portal.select.jsp" destination="modules\portal\jnt_portal\html\portal.select.jsp" />
+    <file source="jnt_portletReference\" destination="modules\portal\jnt_portletReference" />
+    <file source="jnt_portletReference\html\" destination="modules\portal\jnt_portletReference\html" />
+    <file source="jnt_portletReference\html\portletReference.portal.jsp" destination="modules\portal\jnt_portletReference\html\portletReference.portal.jsp" />
+    <file source="jnt_portletReference\html\portletReference.portal.properties" destination="modules\portal\jnt_portletReference\html\portletReference.portal.properties" />
+    <file source="jnt_scriptGadget\" destination="modules\portal\jnt_scriptGadget" />
+    <file source="jnt_scriptGadget\html\" destination="modules\portal\jnt_scriptGadget\html" />
+    <file source="jnt_scriptGadget\html\scriptGadget.jsp" destination="modules\portal\jnt_scriptGadget\html\scriptGadget.jsp" />
+    <file source="resources\" destination="modules\portal\resources" />
+    <file source="resources\JahiaMyPortal.properties" destination="modules\portal\resources\JahiaMyPortal.properties" />
+    <file source="resources\JahiaMyPortal_en.properties" destination="modules\portal\resources\JahiaMyPortal_en.properties" />
+    <file source="resources\JahiaMyPortal_fr.properties" destination="modules\portal\resources\JahiaMyPortal_fr.properties" />
+  </deployed>
+</module>
+

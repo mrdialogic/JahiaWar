@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Jahia Press Releases</name>
+  <rootFolder>press</rootFolder>
+  <version>1.2</version>
+  <build-timestamp>2012-01-31T01:31:18.000+11:00</build-timestamp>
+  <deployment-timestamp>2014-01-15T09:39:11.948+11:00</deployment-timestamp>
+  <package name="press-1.2.war" path="WEB-INF\var\shared_modules\press-1.2.war" />
+  <deployed>
+    <file source="META-INF\" destination="modules\press\META-INF" />
+    <file source="META-INF\LICENSE.txt" destination="modules\press\META-INF\LICENSE.txt" />
+    <file source="META-INF\MANIFEST.MF" destination="modules\press\META-INF\MANIFEST.MF" />
+    <file source="META-INF\definitions.cnd" destination="modules\press\META-INF\definitions.cnd" />
+    <file source="WEB-INF\" destination="modules\press\WEB-INF" />
+    <file source="WEB-INF\classes\" destination="modules\press\WEB-INF\classes" />
+    <file source="icons\" destination="modules\press\icons" />
+    <file source="icons\jnt_press.png" destination="modules\press\icons\jnt_press.png" />
+    <file source="icons\jnt_pressReleases.png" destination="modules\press\icons\jnt_pressReleases.png" />
+    <file source="icons\jnt_pressReleases_large.png" destination="modules\press\icons\jnt_pressReleases_large.png" />
+    <file source="icons\jnt_press_large.png" destination="modules\press\icons\jnt_press_large.png" />
+    <file source="jnt_press\" destination="modules\press\jnt_press" />
+    <file source="jnt_press\html\" destination="modules\press\jnt_press\html" />
+    <file source="jnt_press\html\press.fullpage.jsp" destination="modules\press\jnt_press\html\press.fullpage.jsp" />
+    <file source="jnt_press\html\press.jsp" destination="modules\press\jnt_press\html\press.jsp" />
+    <file source="jnt_press\html\press.title-date-startbody.jsp" destination="modules\press\jnt_press\html\press.title-date-startbody.jsp" />
+    <file source="resources\" destination="modules\press\resources" />
+    <file source="resources\JahiaPressReleases.properties" destination="modules\press\resources\JahiaPressReleases.properties" />
+    <file source="resources\JahiaPressReleases_en.properties" destination="modules\press\resources\JahiaPressReleases_en.properties" />
+    <file source="resources\JahiaPressReleases_fr.properties" destination="modules\press\resources\JahiaPressReleases_fr.properties" />
+  </deployed>
+</module>
+

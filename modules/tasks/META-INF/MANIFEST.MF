@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Implementation-Title: Jahia Tasks
+Implementation-Version: 6.6.2.0
+root-folder: tasks
+Built-By: bamboo
+Specification-Vendor: Jahia Solutions Group SA
+Created-By: Jahia
+Implementation-URL: http://www.jahia.com
+Implementation-Vendor: Jahia Solutions Group SA
+package-name: Jahia Tasks
+module-type: module
+Implementation-Vendor-Id: org.jahia
+Build-Jdk: 1.6.0_26
+Specification-Title: Jahia Tasks
+Specification-Version: 6.6.2.0
+depends: default, profile
+Archiver-Version: Plexus Archiver
+
